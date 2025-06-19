@@ -11,14 +11,14 @@ dist/
 docker/*.git
 docker/.dockerignore
 
-# Arquivos temporários
+# Temporários
 *.swp
 *.swo
 .DS_Store
 
-# Archivarix conteúdo extra
+# Archivarix
 html/.content*/
-
-# Sessões e backups
 html/sessions/
-html/.content.*/
+
+# Outros
+node-backend-*/
