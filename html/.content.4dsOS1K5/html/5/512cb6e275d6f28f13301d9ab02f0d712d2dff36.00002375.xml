@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://ryodo.duckdns.org/hcg500">
+  <channel>
+    <title>hCG +500</title>
+    <link>https://ryodo.duckdns.org/hcg500</link>
+    <description/>
+    <language>pl</language>
+    
+    <item>
+  <title>dieta ketogenna.</title>
+  <link>https://ryodo.duckdns.org/node/279</link>
+  <description>&lt;span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;dieta ketogenna.&lt;/span&gt;
+&lt;span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://ryodo.duckdns.org/user/46" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;spairo&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-02-22T15:32:44+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;2020-02-22 16:32&lt;/span&gt;
+&lt;div class="field field-node-taxonomy-forums field-entity-reference-type-taxonomy-term field-formatter-entity-reference-label field-name-taxonomy-forums field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Fora&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--hcg-500"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="/pl/hcg500" hreflang="pl"&gt;hCG +500&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single"&gt;&lt;div class="field__items"&gt;&lt;div property="schema:text" class="field__item"&gt;&lt;p&gt;- moze ktoś z was jest na diecie ketogennej i się podzieli wrażeniami.&lt;/p&gt;
+
+&lt;p&gt;- co je, jakiego przyrządu używa do określenia poziomu ketogenów.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="node__links"&gt;&lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="/pl/node/279" rel="tag" title="dieta ketogenna." hreflang="pl"&gt;Czytaj...&lt;/a&gt;&lt;/li&gt;&lt;li class="comment-comments"&gt;&lt;a href="/pl/node/279#comments" title="Skok do pierwszego komentarza." hreflang="pl"&gt;1 komentarz&lt;/a&gt;&lt;/li&gt;&lt;li class="comment-new-comments"&gt;&lt;a href="/pl/taxonomy/term/8/feed" class="hidden" title="Skok do pierwszego nowego komentarza." data-history-node-last-comment-timestamp="1592585996" data-history-node-field-name="comment_forum"&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="comment-forbidden"&gt;&lt;a href="/pl/user/login?destination=https%3A//ryodo.duckdns.org/node/279%23comment-form"&gt;Zaloguj&lt;/a&gt; lub &lt;a href="/pl/user/register?destination=https%3A//ryodo.duckdns.org/node/279%23comment-form"&gt;zarejestruj się&lt;/a&gt;, aby dodawać komentarze.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+  <pubDate>Sat, 22 Feb 2020 15:32:44 +0000</pubDate>
+    <dc:creator>spairo</dc:creator>
+    <guid isPermaLink="false">279 at https://ryodo.duckdns.org</guid>
+    </item>
+<item>
+  <title>Nieistniejący blog na cba.pl</title>
+  <link>https://ryodo.duckdns.org/node/67</link>
+  <description>&lt;span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;Nieistniejący blog na cba.pl&lt;/span&gt;
+&lt;span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://ryodo.duckdns.org/user/30" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Krzysiek&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2017-09-10T17:38:37+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;2017-09-10 19:38&lt;/span&gt;
+&lt;div class="field field-node-taxonomy-forums field-entity-reference-type-taxonomy-term field-formatter-entity-reference-label field-name-taxonomy-forums field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Fora&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--hcg-500"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="/pl/hcg500" hreflang="pl"&gt;hCG +500&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single"&gt;&lt;div class="field__items"&gt;&lt;div property="schema:text" class="field__item"&gt;&lt;p&gt;Oto zrzut z nieistniejącego blogu. Świetnie opisane studium przypadku oraz jak przeprowadzić taką kurację.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="/pl/sites/default/files/2017-09/Kuracja%20HCG%20Case%20Study.pdf" target="_blank"&gt;Kuracja HCG Case Study.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="node__links"&gt;&lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="/pl/node/67" rel="tag" title="Nieistniejący blog na cba.pl" hreflang="pl"&gt;Czytaj...&lt;/a&gt;&lt;/li&gt;&lt;li class="comment-comments"&gt;&lt;a href="/pl/node/67#comments" title="Skok do pierwszego komentarza." hreflang="pl"&gt;1 komentarz&lt;/a&gt;&lt;/li&gt;&lt;li class="comment-new-comments"&gt;&lt;a href="/pl/taxonomy/term/8/feed" class="hidden" title="Skok do pierwszego nowego komentarza." data-history-node-last-comment-timestamp="1528178087" data-history-node-field-name="comment_forum"&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="comment-forbidden"&gt;&lt;a href="/pl/user/login?destination=https%3A//ryodo.duckdns.org/node/67%23comment-form"&gt;Zaloguj&lt;/a&gt; lub &lt;a href="/pl/user/register?destination=https%3A//ryodo.duckdns.org/node/67%23comment-form"&gt;zarejestruj się&lt;/a&gt;, aby dodawać komentarze.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+  <pubDate>Sun, 10 Sep 2017 17:38:37 +0000</pubDate>
+    <dc:creator>Krzysiek</dc:creator>
+    <guid isPermaLink="false">67 at https://ryodo.duckdns.org</guid>
+    </item>
+<item>
+  <title>dieta hCG 500+</title>
+  <link>https://ryodo.duckdns.org/node/63</link>
+  <description>&lt;span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;dieta hCG 500+&lt;/span&gt;
+&lt;span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://ryodo.duckdns.org/user/46" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;spairo&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2017-09-08T17:51:50+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;2017-09-08 19:51&lt;/span&gt;
+&lt;div class="field field-node-taxonomy-forums field-entity-reference-type-taxonomy-term field-formatter-entity-reference-label field-name-taxonomy-forums field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Fora&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--hcg-500"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="/pl/hcg500" hreflang="pl"&gt;hCG +500&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single"&gt;&lt;div class="field__items"&gt;&lt;div property="schema:text" class="field__item"&gt;&lt;p&gt;- chciałbym się odnieść do treści podanych w telewizji NTNS w dniu 28.08.2017 roku pod tytułem "HCG 500+".&lt;/p&gt;
+
+&lt;p&gt;- będe bazował na książce Anne Hild "dieta hCG Tajemnica pieknych i bogatych".&lt;/p&gt;
+
+&lt;p&gt;- będzie to rozszerzenie podanych tam informacji , bazujące także na moich doświadczeniach.&lt;/p&gt;
+
+&lt;p&gt;- dlaczego zastosowałem granulki homeopatyczne a potem granulki informacyjne ?&lt;/p&gt;
+
+&lt;p&gt;- z jednego powaznegopowodu, homeopatia i granulki informacyjne nie powoduja uzależnienia od hormonu hCG, bo nie ma od czego.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="node__links"&gt;&lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="/pl/node/63" rel="tag" title="dieta hCG 500+" hreflang="pl"&gt;Czytaj...&lt;/a&gt;&lt;/li&gt;&lt;li class="comment-comments"&gt;&lt;a href="/pl/node/63#comments" title="Skok do pierwszego komentarza." hreflang="pl"&gt;1 komentarz&lt;/a&gt;&lt;/li&gt;&lt;li class="comment-new-comments"&gt;&lt;a href="/pl/taxonomy/term/8/feed" class="hidden" title="Skok do pierwszego nowego komentarza." data-history-node-last-comment-timestamp="1505066327" data-history-node-field-name="comment_forum"&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="comment-forbidden"&gt;&lt;a href="/pl/user/login?destination=https%3A//ryodo.duckdns.org/node/63%23comment-form"&gt;Zaloguj&lt;/a&gt; lub &lt;a href="/pl/user/register?destination=https%3A//ryodo.duckdns.org/node/63%23comment-form"&gt;zarejestruj się&lt;/a&gt;, aby dodawać komentarze.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+  <pubDate>Fri, 08 Sep 2017 17:51:50 +0000</pubDate>
+    <dc:creator>spairo</dc:creator>
+    <guid isPermaLink="false">63 at https://ryodo.duckdns.org</guid>
+    </item>
+
+  </channel>
+</rss>

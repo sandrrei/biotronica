@@ -1,0 +1,594 @@
+[
+    {
+        "title": [
+            {
+                "value": "Chlorine Cl (in NaCl solution)"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Negative"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "35.45"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+      {
+        "title": [
+            {
+                "value": "Naproxen (naproxen sodium)"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Negative"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "230.26"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+        {
+        "title": [
+            {
+                "value": "Sodium (NaCl)"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Positive"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "22.98"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+          {
+        "title": [
+            {
+                "value": "Voltaren"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Negative"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "296.10"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+          {
+        "title": [
+            {
+                "value": "CBDA"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Negative"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "314.46"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+          {
+        "title": [
+            {
+                "value": "Lidocaine"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Positive"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "234.34"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+          {
+        "title": [
+            {
+                "value": "Dexamethasone phosphate"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Negative"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "492.44"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+          {
+        "title": [
+            {
+                "value": "Salicylate (e.g., sodium salicylate)"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Negative"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "160.11"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+          {
+        "title": [
+            {
+                "value": "Iodine"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Negative"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "253.81"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+          {
+        "title": [
+            {
+                "value": "Calcium chloride"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Positive"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "147.01"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+          {
+        "title": [
+            {
+                "value": "Magnesium sulfate (Anhydrous form)"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Positive"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "120.37"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+          {
+        "title": [
+            {
+                "value": "Magnesium sulfate (Heptahydrate form)"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Positive"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "246.47"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+          {
+        "title": [
+            {
+                "value": "zinc oxide"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Positive"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "81.38"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+          {
+        "title": [
+            {
+                "value": "Acetate (acetic acid)"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Negative"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "60.05"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+          {
+        "title": [
+            {
+                "value": "Hydrocortisone sodium succinate"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Positive"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "484.52"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    },
+          {
+        "title": [
+            {
+                "value": "Lidocaine"
+            }
+        ],
+        "field_active_electrode": [
+            {
+                "value": "Positive"
+            }
+        ],
+        "field_mol_mass": [
+            {
+                "value": "234.34"
+            }
+        ],
+        "field_valence": [
+            {
+                "value": "1"
+            }
+        ],
+        "nid": [
+            {
+                "value": 286
+            }
+        ],
+        "vid": [
+            {
+                "value": 1952
+            }
+        ],
+        "langcode": [
+            {
+                "value": "en"
+            }
+        ]
+    }
+]

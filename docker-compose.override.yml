@@ -1,0 +1,19 @@
+
+
+services:
+  todo-playground-server:
+    command: npm run start:dev
+    volumes:
+      - .:/usr/src/app:cached
+      - /usr/src/app/node_modules
+
+  app:
+    build:
+      context: .
+      dockerfile: ./docker/node.Dockerfile
+    volumes:
+      - .:/usr/src/app:cached
+      - /usr/src/app/node_modules
+    ports:
+      - "3000:3000"
+    command: npm run start:dev

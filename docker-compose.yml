@@ -1,0 +1,84 @@
+services:
+  php:
+    build:
+      context: .
+      dockerfile: ./docker/php.Dockerfile
+    container_name: php
+    restart: always
+    user: "1000:1000"
+    volumes:
+      - /media/md127/biotronica/html:/var/www/html
+      #- /media/md127/biotronica/html/sessions:/var/www/html/sessions
+    ports:
+      - "8080:80"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    networks:
+      - nestjs-todo-network
+
+  todo-playground-server:
+    build:
+      context: .
+      dockerfile: ./docker/node.Dockerfile
+    image: todo-playground-server
+    container_name: todo-playground-server
+    restart: always
+    ports:
+      - '3001:3001'
+    env_file:
+      - .env
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+
+    command: npm run start:dev
+    depends_on:
+      - mongo
+      - redis-db
+    networks:
+      - nestjs-todo-network
+
+  mongo:
+    image: arm64v8/mongo:6.0
+    container_name: todo-playground-mongo
+    restart: always
+    ports:
+      - '27016:27017'
+    networks:
+      - nestjs-todo-network
+
+  redis-db:
+    image: arm64v8/redis:7.0
+    container_name: todo-playground-redis
+    restart: always
+    ports:
+      - '6378:6379'
+    networks:
+      - nestjs-todo-network
+
+  code-server:
+    image: codercom/code-server:latest
+    container_name: vscode-web
+    command: >
+      code-server
+      --bind-addr 0.0.0.0:8080
+      --auth password
+      --proxy-domain srei.duckdns.org
+    ports:
+      - "8443:8080"
+    environment:
+      - PASSWORD=${CODESERVER_PASSWORD}
+    volumes:
+      - .:/home/coder/project
+      - /media/md127/biotronica/html:/home/coder/html   # 👈 Add this line to map html from php
+      - /media/md127/biotronica/code-server-data:/home/coder/.local/share/code-server
+    working_dir: /home/coder/project
+    networks:
+      - nestjs-todo-network
+
+networks:
+  nestjs-todo-network:
+    external: true

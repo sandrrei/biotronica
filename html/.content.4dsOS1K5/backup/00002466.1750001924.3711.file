@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<pre class="php"><code><span class="php-boundary">&lt;?php</span>
+
+<span class="php-comment">
+/**
+ * @file
+ * Handles counts of node views via AJAX with minimal bootstrap.
+ */</span>
+<span class="php-keyword">use</span> <span class="php-function-or-constant"><a href="https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21DrupalKernel.php/class/DrupalKernel/11.x" title="The DrupalKernel class is the core of Drupal itself." class="local">Drupal\Core\DrupalKernel</a></span>;
+<span class="php-keyword">use</span> <span class="php-function-or-constant">Symfony\Component\HttpFoundation\Request</span>;
+<span class="php-function-or-constant"><a href="http://php.net/chdir" target="_blank" class="php-manual" title="bool chdir(string $directory)
+  Change directory">chdir</a></span>(<span class="php-string">'../../..'</span>);
+<span class="php-variable">$autoloader</span> = (<span class="php-keyword">require</span>_once <span class="php-string">'autoload.php'</span>);
+<span class="php-variable">$kernel</span> = <span class="php-function-or-constant"><a href="https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21DrupalKernel.php/class/DrupalKernel/11.x" title="The DrupalKernel class is the core of Drupal itself." class="local">DrupalKernel</a></span>::<span class="php-function-or-constant"><a href="https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21DrupalKernel.php/function/DrupalKernel%3A%3AcreateFromRequest/11.x" title="Create a DrupalKernel object from a request." class="local">createFromRequest</a></span>(<span class="php-function-or-constant">Request</span>::<span class="php-function-or-constant">createFromGlobals</span>(), <span class="php-variable">$autoloader</span>, <span class="php-string">'prod'</span>);
+<span class="php-variable">$kernel</span>-&gt;<span class="php-function-or-constant"><a href="https://api.drupal.org/api/drupal/11.x/search/boot" title="Multiple implementations exist." class="local">boot</a></span>();
+<span class="php-variable">$container</span> = <span class="php-variable">$kernel</span>-&gt;<span class="php-function-or-constant"><a href="https://api.drupal.org/api/drupal/11.x/search/getContainer" title="Multiple implementations exist." class="local">getContainer</a></span>();
+<span class="php-variable">$views</span> = <span class="php-variable">$container</span>-&gt;<span class="php-function-or-constant"><a href="https://api.drupal.org/api/drupal/11.x/search/get" title="Multiple implementations exist." class="local">get</a></span>(<span class="php-function-or-constant">'<a href="https://api.drupal.org/api/drupal/core%21core.services.yml/service/config.factory/10" title="Drupal\Core\Config\ConfigFactory" class="local">config.factory</a>'</span>)
+    -&gt;<span class="php-function-or-constant"><a href="https://api.drupal.org/api/drupal/11.x/search/get" title="Multiple implementations exist." class="local">get</a></span>(<span class="php-function-or-constant">'<a href="https://api.drupal.org/api/drupal/core%21modules%21statistics%21statistics.routing.yml/11.x" title="core/modules/statistics/statistics.routing.yml" class="local">statistics.settings</a>'</span>)
+    -&gt;<span class="php-function-or-constant"><a href="https://api.drupal.org/api/drupal/11.x/search/get" title="Multiple implementations exist." class="local">get</a></span>(<span class="php-string">'count_content_views'</span>);
+<span class="php-keyword">if</span> (<span class="php-variable">$views</span>) {
+    <span class="php-variable">$nid</span> = <span class="php-function-or-constant"><a href="http://php.net/filter_input" target="_blank" class="php-manual" title="mixed filter_input(int $type, string $var_name [, int $filter = '' [, int $options = '']])
+  Gets a specific external variable by name and optionally filters it">filter_input</a></span>(<span class="php-function-or-constant">INPUT_POST</span>, <span class="php-string">'nid'</span>, <span class="php-function-or-constant">FILTER_VALIDATE_INT</span>);
+    <span class="php-keyword">if</span> (<span class="php-variable">$nid</span>) {
+        <span class="php-variable">$container</span>-&gt;<span class="php-function-or-constant"><a href="https://api.drupal.org/api/drupal/11.x/search/get" title="Multiple implementations exist." class="local">get</a></span>(<span class="php-function-or-constant">'<a href="https://api.drupal.org/api/drupal/core%21core.services.yml/service/request_stack/10" title="Symfony\Component\HttpFoundation\RequestStack" class="local">request_stack</a>'</span>)
+            -&gt;<span class="php-function-or-constant"><a href="https://api.drupal.org/api/drupal/11.x/search/push" title="Multiple implementations exist." class="local">push</a></span>(<span class="php-function-or-constant">Request</span>::<span class="php-function-or-constant">createFromGlobals</span>());
+        <span class="php-variable">$container</span>-&gt;<span class="php-function-or-constant"><a href="https://api.drupal.org/api/drupal/11.x/search/get" title="Multiple implementations exist." class="local">get</a></span>(<span class="php-function-or-constant">'<a href="https://api.drupal.org/api/drupal/core%21modules%21statistics%21statistics.services.yml/service/statistics.storage.node/11.x" title="Drupal\statistics\NodeStatisticsDatabaseStorage" class="local">statistics.storage.node</a>'</span>)
+            -&gt;<span class="php-function-or-constant"><a href="https://api.drupal.org/api/drupal/11.x/search/recordView" title="Multiple implementations exist." class="local">recordView</a></span>(<span class="php-variable">$nid</span>);
+    }
+}</code></pre>
+</body>
+</html>

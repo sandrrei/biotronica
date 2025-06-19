@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mayor.ryodo.duckdns.org/sitemap.xml

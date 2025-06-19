@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://biotronics.eu/rss.xml">
+  <channel>
+    <title>biotronics.eu - The best things are for free: mother Earth, Linux, nature, love...</title>
+    <link>https://biotronics.eu/rss.xml</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Jesteś pierwszy raz - zobacz</title>
+  <link>https://biotronika.pl/welcome</link>
+  <description>&lt;span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;Here for the first time - Basics about the portal&lt;/span&gt;
+&lt;span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://biotronics.eu/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2024-06-19T05:42:35+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;2024-06-19 07:42&lt;/span&gt;
+</description>
+  <pubDate>Sun, 19 Jun 2022 07:10:12 +0000</pubDate>
+    <dc:creator>Krzysiek</dc:creator>
+    <guid isPermaLink="false">221 at https://biotronics.eu</guid>
+    </item>
+<item>
+  <title>New bioresonance therapies &amp; new downloader</title>
+  <link>https://biotronics.eu/node/1663</link>
+  <description>&lt;span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;New bioresonance therapies &amp; new downloader&lt;/span&gt;
+&lt;div class="field field-node-taxonomy-forums field-entity-reference-type-taxonomy-term field-formatter-entity-reference-label field-name-taxonomy-forums field-type-entity-reference field-label-above"&gt;&lt;h3 class="field__label"&gt;Fora&lt;/h3&gt;&lt;div class="field__items"&gt;&lt;div class="field__item field__item--freepemf"&gt;
+        &lt;span class="field__item-wrapper"&gt;&lt;a href="https://biotronika.pl/taxonomy/term/7" hreflang="pl"&gt;freePEMF&lt;/a&gt;&lt;/span&gt;
+      &lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://biotronics.eu/user/30" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Krzysiek&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-06-07T13:38:43+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;2020-06-07 15:38&lt;/span&gt;
+&lt;div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"&gt;&lt;div class="field__items"&gt;&lt;div property="schema:text" class="field__item"&gt;&lt;p&gt;Let's start with the fact that now there is a new downloader running on &lt;strong&gt;Windows&lt;/strong&gt;, &lt;strong&gt;Linux &lt;/strong&gt;and &lt;strong&gt;MAC OS&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="image" data-entity-type="file" data-entity-uuid="7119c024-a4f0-4edc-9a85-ef8545ac0b4f" height="446" src="/sites/default/files/inline-images/image_200.png" width="691" /&gt;&lt;/p&gt;
+
+&lt;p&gt;The downloader has the implemented new feature of searching the therapy database saved on biotronics.eu portal.&lt;/p&gt;
+
+&lt;p&gt;It supports all types of devices, however it is recommended to update the &lt;strong&gt;multiZAP &lt;/strong&gt;or &lt;strong&gt;freePEMF &lt;/strong&gt;firmware to the latest version.&lt;/p&gt;
+
+&lt;p&gt;New scripts, have been imported by our freind:&lt;/p&gt;
+
+&lt;ol&gt;
+	&lt;li&gt;&lt;a href="https://github.com/biotronika/scriptIMPORTER/tree/master/scripts"&gt;https://github.com/biotronika/scriptIMPORTER/tree/master/scripts&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/biotronika/scriptIMPORTER/tree/master/scripts_zapper"&gt;https://github.com/biotronika/scriptIMPORTER/tree/master/scripts_zapper&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The downloader can be downloaded under the Download link in the menu.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;section class="field field-node--comment-forum field-formatter-comment-default field-name-comment-forum field-type-comment field-label-hidden comment-bundle-comment-forum comment-wrapper"&gt;
+  &lt;a name="comments" id="comments"&gt;&lt;/a&gt;&lt;/section&gt;
+&lt;div id="field-language-display"&gt;&lt;div class="js-form-item form-item js-form-type-item form-type-item js-form-item- form-item-"&gt;
+      &lt;label&gt;Language&lt;/label&gt;
+        English
+        &lt;/div&gt;
+&lt;/div&gt;</description>
+  <pubDate>Sun, 07 Jun 2020 13:38:43 +0000</pubDate>
+    <dc:creator>Krzysiek</dc:creator>
+    <guid isPermaLink="false">1663 at https://biotronics.eu</guid>
+    <comments>https://biotronics.eu/node/1663#comments</comments>
+    </item>
+<item>
+  <title>qiWELLNESS mobile</title>
+  <link>https://biotronika.pl/qiWELLNESS-mobile</link>
+  <description>&lt;span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;qiWELLNESS mobile&lt;/span&gt;
+&lt;span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://biotronics.eu/user/30" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Krzysiek&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2020-04-19T07:55:48+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;2020-04-19 09:55&lt;/span&gt;
+</description>
+  <pubDate>Sat, 18 Apr 2020 10:37:52 +0000</pubDate>
+    <dc:creator>Krzysiek</dc:creator>
+    <guid isPermaLink="false">299 at https://biotronics.eu</guid>
+    <comments>https://biotronics.eu/qiWELLNESS-mobile#comments</comments>
+    </item>
+<item>
+  <title>qiWELLNESS electrodes</title>
+  <link>https://biotronics.eu/electrodes</link>
+  <description>&lt;span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;qiWELLNESS electrodes&lt;/span&gt;
+&lt;span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://biotronics.eu/user/30" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Krzysiek&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-11-03T08:52:08+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;2019-11-03 09:52&lt;/span&gt;
+</description>
+  <pubDate>Sun, 03 Nov 2019 08:52:08 +0000</pubDate>
+    <dc:creator>Krzysiek</dc:creator>
+    <guid isPermaLink="false">253 at https://biotronics.eu</guid>
+    <comments>https://biotronics.eu/electrodes#comments</comments>
+    </item>
+<item>
+  <title>Sleeping freePEMF</title>
+  <link>https://biotronika.pl/sleeping-freePEMF</link>
+  <description>&lt;span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;Sleeping freePEMF&lt;/span&gt;
+&lt;span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://biotronics.eu/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-06-19T05:41:55+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;2019-06-19 07:41&lt;/span&gt;
+</description>
+  <pubDate>Wed, 29 May 2019 09:43:05 +0000</pubDate>
+    <dc:creator>Krzysiek</dc:creator>
+    <guid isPermaLink="false">207 at https://biotronics.eu</guid>
+    <comments>https://biotronics.eu/sleeping-freePEMF#comments</comments>
+    </item>
+<item>
+  <title>DIY qiWELLNESS</title>
+  <link>https://biotronics.eu/diy-qiwellness</link>
+  <description>&lt;span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;DIY qiWELLNESS&lt;/span&gt;
+&lt;span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://biotronics.eu/user/30" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Krzysiek&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-05-12T10:55:46+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;2019-05-12 12:55&lt;/span&gt;
+</description>
+  <pubDate>Sun, 12 May 2019 10:55:46 +0000</pubDate>
+    <dc:creator>Krzysiek</dc:creator>
+    <guid isPermaLink="false">205 at https://biotronics.eu</guid>
+    </item>
+<item>
+  <title>Czym jest qiWELLNESS</title>
+  <link>https://biotronika.pl/what-is-qiWELLNESS</link>
+  <description>&lt;span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;What is qiWELLNESS&lt;/span&gt;
+&lt;span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://biotronics.eu/user/155" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;MalgorzataB&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2019-05-10T14:59:41+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;2019-05-10 16:59&lt;/span&gt;
+</description>
+  <pubDate>Sun, 05 May 2019 14:37:00 +0000</pubDate>
+    <dc:creator>Krzysiek</dc:creator>
+    <guid isPermaLink="false">200 at https://biotronics.eu</guid>
+    </item>
+<item>
+  <title>Montaż freePEMF duo</title>
+  <link>https://biotronika.pl/DIY-freePEMF-duo</link>
+  <description>&lt;span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;DIY freePEMF duo&lt;/span&gt;
+&lt;span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://biotronics.eu/user/30" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Krzysiek&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2018-12-26T08:04:43+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;2018-12-26 09:04&lt;/span&gt;
+</description>
+  <pubDate>Wed, 19 Dec 2018 17:01:37 +0000</pubDate>
+    <dc:creator>Krzysiek</dc:creator>
+    <guid isPermaLink="false">173 at https://biotronics.eu</guid>
+    </item>
+<item>
+  <title>Kamertony</title>
+  <link>https://biotronika.pl/kamertony</link>
+  <description>&lt;span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;Tuning forks&lt;/span&gt;
+&lt;span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://biotronics.eu/user/30" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;Krzysiek&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2018-08-16T04:57:44+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;2018-08-16 06:57&lt;/span&gt;
+</description>
+  <pubDate>Thu, 02 Aug 2018 08:25:01 +0000</pubDate>
+    <dc:creator>Krzysiek</dc:creator>
+    <guid isPermaLink="false">154 at https://biotronics.eu</guid>
+    <comments>https://biotronics.eu/tuning-forks#comments</comments>
+    </item>
+<item>
+  <title>Czym jest free-PEMF</title>
+  <link>https://biotronika.pl/czym-jest-free-pemf</link>
+  <description>&lt;span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden"&gt;What is a freePEMF&lt;/span&gt;
+&lt;span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"&gt;&lt;span lang="" about="https://biotronics.eu/user/1" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2018-01-28T10:21:34+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden"&gt;2018-01-28 11:21&lt;/span&gt;
+</description>
+  <pubDate>Mon, 20 Feb 2017 06:34:33 +0000</pubDate>
+    <dc:creator>Krzysiek</dc:creator>
+    <guid isPermaLink="false">1 at https://biotronics.eu</guid>
+    <comments>https://biotronics.eu/what-is-a-freePEMF#comments</comments>
+    </item>
+
+  </channel>
+</rss>

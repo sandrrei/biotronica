@@ -1,0 +1,20 @@
+<!-- head-include-all.php -->
+<meta charset="utf-8">
+<link href="/themes/pixture_reloaded/images/touch-icons/Icon-76-2x.png" rel="apple-touch-icon" sizes="152x152">
+<link href="/themes/pixture_reloaded/images/touch-icons/Icon-60-2x.png" rel="apple-touch-icon" sizes="120x120">
+<link href="/themes/pixture_reloaded/images/touch-icons/Icon-76.png" rel="apple-touch-icon" sizes="76x76">
+<link href="/themes/pixture_reloaded/images/touch-icons/Icon-60.png" rel="apple-touch-icon" sizes="60x60">
+<link href="/themes/pixture_reloaded/images/touch-icons/Icon-60.png" rel="shortcut icon">
+
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon">
+
+<<link rel="alternate" hreflang="pl" href="<?= htmlspecialchars($hreflang_pl) ?>">
+<link rel="alternate" hreflang="en" href="<?= htmlspecialchars($hreflang_en) ?>">
+<link rel="canonical" href="<?= htmlspecialchars($canonical) ?>">
+<link rel="shortlink" href="<?= htmlspecialchars($shortlink) ?>">
+<link rel="revision" href="<?= htmlspecialchars($revision) ?>">
+<link rel="dns-prefetch" href="https://fonts.googleapis.com/" />
