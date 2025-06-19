@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="no-js adaptivetheme">
+  <head>
+<link href="/themes/pixture_reloaded/images/touch-icons/Icon-76-2x.png" rel="apple-touch-icon" sizes="152x152">
+<link href="/themes/pixture_reloaded/images/touch-icons/Icon-60-2x.png" rel="apple-touch-icon" sizes="120x120">
+<link href="/themes/pixture_reloaded/images/touch-icons/Icon-76.png" rel="apple-touch-icon" sizes="76x76">
+<link href="/themes/pixture_reloaded/images/touch-icons/Icon-60.png" rel="apple-touch-icon" sizes="60x60">
+<link href="/themes/pixture_reloaded/images/touch-icons/Icon-60.png" rel="shortcut icon">
+<meta charset="utf-8">
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="alternate" hreflang="pl" href="https://biotronika.pl/strukturyzator-wody">
+<link rel="alternate" hreflang="en" href="/strukturyzator-wody">
+<link rel="canonical" href="/strukturyzator-wody">
+<link rel="shortlink" href="/node/37">
+<link rel="revision" href="/strukturyzator-wody">
+
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<title>Water structurizer | biotronics.eu</title>
+    <style media="all">
+@import url("/core/themes/stable/css/system/components/ajax-progress.module.css");
+@import url("/core/themes/stable/css/system/components/align.module.css");
+@import url("/core/themes/stable/css/system/components/autocomplete-loading.module.css");
+@import url("/core/themes/stable/css/system/components/fieldgroup.module.css");
+@import url("/core/themes/stable/css/system/components/container-inline.module.css");
+@import url("/core/themes/stable/css/system/components/clearfix.module.css");
+@import url("/core/themes/stable/css/system/components/details.module.css");
+@import url("/core/themes/stable/css/system/components/hidden.module.css");
+@import url("/core/themes/stable/css/system/components/item-list.module.css");
+@import url("/core/themes/stable/css/system/components/js.module.css");
+@import url("/core/themes/stable/css/system/components/nowrap.module.css");
+@import url("/core/themes/stable/css/system/components/position-container.module.css");
+@import url("/core/themes/stable/css/system/components/progress.module.css");
+@import url("/core/themes/stable/css/system/components/reset-appearance.module.css");
+@import url("/core/themes/stable/css/system/components/resize.module.css");
+@import url("/core/themes/stable/css/system/components/sticky-header.module.css");
+@import url("/core/themes/stable/css/system/components/system-status-counter.css");
+@import url("/core/themes/stable/css/system/components/system-status-report-counters.css");
+@import url("/core/themes/stable/css/system/components/system-status-report-general-info.css");
+@import url("/core/themes/stable/css/system/components/tabledrag.module.css");
+@import url("/core/themes/stable/css/system/components/tree-child.module.css");
+@import url("/modules/ckeditor_spoiler/css/spoiler.css");
+@import url("/modules/poll/css/poll.base.css");
+@import url("/modules/poll/css/poll.theme.css");
+@import url("/modules/anchor_link/css/anchor_link.css");
+@import url("/libraries/codesnippet/lib/highlight/styles/github.css");
+</style>
+<style media="all">
+@import url("/themes/pixture_reloaded/styles/css/components/base.css");
+@import url("/themes/pixture_reloaded/styles/css/generated/pixture_reloaded.layout.page.css");
+@import url("/themes/pixture_reloaded/styles/css/components/comments.css");
+@import url("/themes/pixture_reloaded/styles/css/components/contact-forms.css");
+@import url("/themes/pixture_reloaded/styles/css/components/forum.css");
+@import url("/themes/pixture_reloaded/styles/css/components/language.css");
+@import url("/themes/pixture_reloaded/styles/css/components/search.css");
+@import url("/themes/pixture_reloaded/styles/css/components/taxonomy.css");
+@import url("/themes/pixture_reloaded/styles/css/components/responsive-tables.css");
+@import url("/themes/pixture_reloaded/styles/css/components/responsive-menus--slidedown.css");
+@import url("/themes/pixture_reloaded/styles/css/components/responsive-menus--dropmenu.css");
+@import url("/themes/pixture_reloaded/styles/css/components/responsive-menus.css");
+@import url("/sites/default/files/color/pixture_reloaded-409d2dc2/color.css");
+@import url("/themes/pixture_reloaded/styles/css/custom.css");
+</style>
+
+    <script src="/core/assets/vendor/modernizr/modernizr.min.js"></script>
+
+  </head>
+<body role="document" class="user-logged-out path-node path-node-37 page-node-type--article site-name--biotronicseu theme-name--pixture-reloaded">
+        <a href="#block-pixture-reloaded-content" class="visually-hidden focusable skip-link">Skip to main content</a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="page">
+      <header class="l-pr page__row pr-header regions-multiple" role="banner" id="masthead">
+    <div class="l-rw regions container pr-header__rw arc--2 hr--1-2" data-at-regions="">
+      <div data-at-region="region-header-first" class="l-r region pr-header__header-first">
+<div id="block-pixture-reloaded-branding" class="block block-branding block-system block-system-branding-block">
+  <div class="block__inner block-branding__inner">
+
+    <div class="block__content block-branding__content site-branding">
+<a href="/" title="Home" itemprop="url" rel="home" class="site-branding__logo-link"><img src="/sites/default/files/logo72x72.png" alt="Home" itemprop="logo" class="site-branding__logo-img"></a><span class="site-branding__text"><strong class="site-branding__name"><a href="/" title="Home" itemprop="url" rel="home" class="site-branding__name-link">biotronics.eu</a></strong><em class="site-branding__slogan">The best things are for free: mother Earth, Linux, nature, love...</em></span>
+</div>
+</div>
+</div>
+</div>
+      <div data-at-region="region-header-second" class="l-r region pr-header__header-second">
+<div id="block-langaugeselectorwithgraphics-new" class="block block-config-provider--block-content block-plugin-id--block-contentaab4d1b7-caab-44e9-b398-a93cec037559">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single">
+<div class="field__items"><div class="field__item">
+<p><a href="/" id="" rel="" target="" title="English"><img alt="English" data-entity-type="file" data-entity-uuid="b1357cf3-c69e-4896-9d0f-b987afd6a4c5" height="61" src="/sites/default/files/inline-images/English256.png" width="61"></a><a href="/pl/" id="" rel="" target="" title="Polish"><img alt="Polish" data-entity-type="file" data-entity-uuid="0f3e65eb-b3e8-4463-91a1-ce0ca2db5c2a" height="61" src="/sites/default/files/inline-images/Polish256.png" width="61"></a></p>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+    </div>
+  </header>
+      <div class="l-pr page__row pr-navbar" id="navbar">
+    <div class="l-rw regions container pr-navbar__rw arc--1 hr--1" data-at-regions="">
+      <div data-at-region="region-navbar" class="l-r region pr-navbar__navbar">
+<svg style="display:none;">
+    <symbol id="rm-toggle__icon--open" viewbox="0 0 1792 1792" preserveaspectratio="xMinYMid meet">
+    <path class="rm-toggle__icon__path" d="M1664 1344v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45z"></path>
+  </symbol>
+    <symbol id="rm-toggle__icon--close" viewbox="0 0 1792 1792" preserveaspectratio="xMinYMid meet">
+    <path class="rm-toggle__icon__path" d="M1490 1322q0 40-28 68l-136 136q-28 28-68 28t-68-28l-294-294-294 294q-28 28-68 28t-68-28l-136-136q-28-28-28-68t28-68l294-294-294-294q-28-28-28-68t28-68l136-136q28-28 68-28t68 28l294 294 294-294q28-28 68-28t68 28l136 136q28 28 28 68t-28 68l-294 294 294 294q28 28 28 68z"></path>
+  </symbol>
+</svg>
+<nav role="navigation" aria-labelledby="block-pixture-reloaded-main-menu-menu" id="block-pixture-reloaded-main-menu" class="rm-block rm-config-provider--system rm-plugin-id--system-menu-block-main js-hide">
+  <div class="rm-block__inner">
+    <div class="rm-toggle">
+      <button href="#rm-content" class="rm-toggle__link un-button" role="button" aria-controls="rm-content" aria-expanded="false">
+                <svg class="rm-toggle__icon">
+          <use id="rm-toggle__icon--use" xlink:href="#rm-toggle__icon--open"></use>
+        </svg>
+                <span class="rm-toggle__label" id="block-pixture-reloaded-main-menu-menu">Menu</span>
+      </button>
+    </div>
+<div class="rm-block__content" id="rm-content">
+        
+    <ul class="menu odd menu-level-1 menu-name--main">      
+      
+            <li class="menu__item menu__item-title--therapies" id="mlid-therapies">
+
+        <span class="menu__link--wrapper">
+          <a href="/therapies" title="Physiotherapy, Bioresonance and TCM therapies" class="menu__link" data-drupal-link-system-path="therapies">Therapies</a>
+        </span>
+
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item--active-trail menu__item-title--freepemf" id="mlid-freepemf">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="/czym-jest-free-pemf" class="menu__link">freePEMF</a>
+        </span>
+
+                  
+    <ul class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--what-is-a-freepemf" id="mlid-what-is-a-freepemf">
+
+        <span class="menu__link--wrapper">
+          <a href="/what-is-a-freePEMF" class="menu__link" data-drupal-link-system-path="node/1">What is a freePEMF</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--user-manual" id="mlid-user-manual">
+
+        <span class="menu__link--wrapper">
+          <a href="/freePEMF-user-manual" class="menu__link" data-drupal-link-system-path="node/3">User manual</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--diy-freepemf-duo" id="mlid-diy-freepemf-duo">
+
+        <span class="menu__link--wrapper">
+          <a href="/diy-freePEMF-duo" class="menu__link" data-drupal-link-system-path="node/173">DIY freePEMF duo</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--diy-freepemf" id="mlid-diy-freepemf">
+
+        <span class="menu__link--wrapper">
+          <a href="/montaz-free-PEMF-nowy-typ" class="menu__link" data-drupal-link-system-path="node/77">DIY freePEMF</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--mat-making" id="mlid-mat-making">
+
+        <span class="menu__link--wrapper">
+          <a href="/mat-making" class="menu__link" data-drupal-link-system-path="node/29">Mat making</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--quadro-mat" id="mlid-quadro-mat">
+
+        <span class="menu__link--wrapper">
+          <a href="/node/174" class="menu__link" data-drupal-link-system-path="node/174">Quadro mat</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--software" id="mlid-software">
+
+        <span class="menu__link--wrapper">
+          <a href="/firmware-upgrade" class="menu__link" data-drupal-link-system-path="node/4">Software</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--coil-assembly" id="mlid-coil-assembly">
+
+        <span class="menu__link--wrapper">
+          <a href="/coil-assembly" class="menu__link" data-drupal-link-system-path="node/5">Coil assembly</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--coil-choosing" id="mlid-coil-choosing">
+
+        <span class="menu__link--wrapper">
+          <a href="/node/159" class="menu__link" data-drupal-link-system-path="node/159">Coil choosing</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--troubleshooting" id="mlid-troubleshooting">
+
+        <span class="menu__link--wrapper">
+          <a href="/ratuj-free-PEMF" class="menu__link" data-drupal-link-system-path="node/43">Troubleshooting</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--brain-waves-stimulation" id="mlid-brain-waves-stimulation">
+
+        <span class="menu__link--wrapper">
+          <a href="/stymulacja-fal-mozgowych" class="menu__link" data-drupal-link-system-path="node/23">Brain waves stimulation</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--pcb-board-forum" id="mlid-pcb-board-forum">
+
+        <span class="menu__link--wrapper">
+          <a href="/node/92" class="menu__link" data-drupal-link-system-path="node/92">PCB board (forum)</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item--active-trail menu__item-title--water-structure-making" id="mlid-water-structure-making">
+
+        <span class="menu__link--wrapper">
+          <a href="/strukturyzator-wody" class="menu__link is-active" data-drupal-link-system-path="node/37">Water structure making</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--sleeping-freepemf" id="mlid-sleeping-freepemf">
+
+        <span class="menu__link--wrapper">
+          <a href="/sleeping-freePEMF" class="menu__link" data-drupal-link-system-path="node/207">Sleeping freePEMF</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--multizap" id="mlid-multizap">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="/multiZAP-manual" class="menu__link" data-drupal-link-system-path="node/131">multiZAP</a>
+        </span>
+
+                  
+    <ul class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--multizap-manual" id="mlid-multizap-manual">
+
+        <span class="menu__link--wrapper">
+          <a href="/multiZAP-manual" class="menu__link" data-drupal-link-system-path="node/131">multiZAP manual</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--frequency-list" id="mlid-frequency-list">
+
+        <span class="menu__link--wrapper">
+          <a href="/frequency-list" class="menu__link" data-drupal-link-system-path="node/35">Frequency list</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--diy-multizap" id="mlid-diy-multizap">
+
+        <span class="menu__link--wrapper">
+          <a href="/multiZAP-montaz" class="menu__link" data-drupal-link-system-path="node/91">DIY multiZAP</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--electrodes" id="mlid-electrodes">
+
+        <span class="menu__link--wrapper">
+          <a href="/elektrody" class="menu__link" data-drupal-link-system-path="node/12">Electrodes</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--mat-making" id="mlid-mat-making">
+
+        <span class="menu__link--wrapper">
+          <a href="/mat-making" class="menu__link" data-drupal-link-system-path="node/29">Mat making</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--software" id="mlid-software">
+
+        <span class="menu__link--wrapper">
+          <a href="/firmware-upgrade" class="menu__link" data-drupal-link-system-path="node/4">Software</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--remotezap-android" id="mlid-remotezap-android">
+
+        <span class="menu__link--wrapper">
+          <a href="/node/1676" class="menu__link" data-drupal-link-system-path="node/1676">RemoteZap Android</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--zapper-plus" id="mlid-zapper-plus">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="/czym-jest-zapper-plus" class="menu__link">zapper-plus</a>
+        </span>
+
+                  
+    <ul class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--what-is-a-zapper-plus" id="mlid-what-is-a-zapper-plus">
+
+        <span class="menu__link--wrapper">
+          <a href="/node/7" class="menu__link" data-drupal-link-system-path="node/7">What is a zapper-plus</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--diy-zappera-plus" id="mlid-diy-zappera-plus">
+
+        <span class="menu__link--wrapper">
+          <a href="/node/10" class="menu__link" data-drupal-link-system-path="node/10">DIY zappera-plus</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--electrodes" id="mlid-electrodes">
+
+        <span class="menu__link--wrapper">
+          <a href="/elektrody" class="menu__link" data-drupal-link-system-path="node/12">Electrodes</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--colloidal-silver" id="mlid-colloidal-silver">
+
+        <span class="menu__link--wrapper">
+          <a href="/node/36" class="menu__link" data-drupal-link-system-path="node/36">Colloidal Silver</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--ionzapper" id="mlid-ionzapper">
+
+        <span class="menu__link--wrapper">
+          <a href="/node/238" class="menu__link" data-drupal-link-system-path="node/238">ionZAPPER</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+        
+      </li>      
+      
+            <li class="menu__item menu__item--collapsed menu__item-title--zenon" id="mlid-zenon">
+
+        <span class="menu__link--wrapper">
+          <a href="/zenon1" class="menu__link" data-drupal-link-system-path="node/99">zenON</a>
+        </span>
+
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--qiwellness" id="mlid-qiwellness">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="/what-is-qiWELLNESS" title="Urządzenie do TCM" class="menu__link" data-drupal-link-system-path="node/200">qiWELLNESS</a>
+        </span>
+
+                  
+    <ul class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--what-is-qiwellness" id="mlid-what-is-qiwellness">
+
+        <span class="menu__link--wrapper">
+          <a href="/what-is-qiWELLNESS" class="menu__link" data-drupal-link-system-path="node/200">What is qiWELLNESS</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--acupen-biotronika" id="mlid-acupen-biotronika">
+
+        <span class="menu__link--wrapper">
+          <a href="/acupen" class="menu__link" data-drupal-link-system-path="node/210">Acupen biotronika</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--qiwellness-assembly" id="mlid-qiwellness-assembly">
+
+        <span class="menu__link--wrapper">
+          <a href="/diy-qiwellness" class="menu__link" data-drupal-link-system-path="node/205">qiWELLNESS assembly</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--electrodes" id="mlid-electrodes">
+
+        <span class="menu__link--wrapper">
+          <a href="/electrodes" class="menu__link" data-drupal-link-system-path="node/253">Electrodes</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--qiwellness-mobile" id="mlid-qiwellness-mobile">
+
+        <span class="menu__link--wrapper">
+          <a href="/qiWELLNESS-mobile" title="qiWELLNESS mobile" class="menu__link" data-drupal-link-system-path="node/299">qiWELLNESS mobile</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--iontophoresis-substances" id="mlid-iontophoresis-substances">
+
+        <span class="menu__link--wrapper">
+          <a href="/iontophoresis-substances" class="menu__link" data-drupal-link-system-path="iontophoresis-substances">Iontophoresis substances</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--eap-therapies" id="mlid-eap-therapies">
+
+        <span class="menu__link--wrapper">
+          <a href="/eap-therapies" class="menu__link" data-drupal-link-system-path="eap-therapies">EAP therapies</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--atlas" id="mlid-atlas">
+
+        <span class="menu__link--wrapper">
+          <a href="/atlas" title="Acupuncture points atlas" class="menu__link" data-drupal-link-system-path="atlas">Atlas</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--eav-diagnostic-paths" id="mlid-eav-diagnostic-paths">
+
+        <span class="menu__link--wrapper">
+          <a href="/eav-paths" class="menu__link" data-drupal-link-system-path="eav-paths">EAV diagnostic paths</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--biozap" id="mlid-biozap">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="/bioZAP" class="menu__link" data-drupal-link-system-path="node/9">bioZAP</a>
+        </span>
+
+                  
+    <ul class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--firmware-upload" id="mlid-firmware-upload">
+
+        <span class="menu__link--wrapper">
+          <a href="/firmware-upgrade" class="menu__link" data-drupal-link-system-path="node/4">Firmware upload</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--biozap-language" id="mlid-biozap-language">
+
+        <span class="menu__link--wrapper">
+          <a href="/bioZAP" class="menu__link" data-drupal-link-system-path="node/9">bioZAP language</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+        
+      </li>
+</ul>
+  
+
+</div>
+</div>
+</nav>
+</div>
+    </div>
+  </div>
+      <div class="l-pr page__row pr-highlighted" id="highlighted">
+    <div class="l-rw regions container pr-highlighted__rw arc--1 hr--1" data-at-regions="">
+      <div data-at-region="region-highlighted" class="l-r region pr-highlighted__highlighted">
+</div>
+    </div>
+  </div>
+        <div class="l-pr page__row pr-content-prefix" id="content-prefix">
+    <div class="l-rw regions container pr-content-prefix__rw arc--1 hr--1" data-at-regions="">
+      <div data-at-region="region-content-prefix" class="l-r region pr-content-prefix__content-prefix">
+<div role="navigation" aria-labelledby="block-pixture-reloaded-breadcrumbs-menu" id="block-pixture-reloaded-breadcrumbs" class="block block-breadcrumbs block-config-provider--system block-plugin-id--system-breadcrumb-block">
+  <div class="block__inner">
+
+    
+    <h2 class="visually-hidden block__title block-breadcrumbs__title" id="block-pixture-reloaded-breadcrumbs-menu"><span>Breadcrumbs</span></h2>
+    
+      <div class="breadcrumb">
+    <nav class="is-responsive is-horizontal" data-at-responsive-list>
+      <div class="is-responsive__list">
+        <h3 class="visually-hidden breadcrumb__title">You are here:</h3>
+        <ol class="breadcrumb__list"><li class="breadcrumb__list-item is-responsive__item"><a href="/" class="breadcrumb__link">Home</a></li></ol>
+      </div>
+    </nav>
+  </div>
+</div>
+</div>
+</div>
+    </div>
+  </div>
+      <div class="l-pr page__row pr-main regions-multiple" id="main-content">
+    <div class="l-rw regions container pr-main__rw arc--2 hr--1-3" data-at-regions="">
+      <div data-at-region="region-content" class="l-r region pr-main__content"><main id="block-pixture-reloaded-content" class="block block-main-content" role="main">
+  
+  <article data-history-node-id="37" role="article" about="https://biotronics.eu/strukturyzator-wody" typeof="schema:Article" class="node node--id-37 node--type-article node--promoted node--view-mode-full">
+  <div class="node__container">
+
+    <header class="node__header"><h1 class="node__title">
+<span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden">Water structurizer</span>
+</h1>  <span property="schema:name" content="Water structurizer" class="rdf-meta hidden"></span>
+  <span property="schema:interactionCount" class="rdf-meta hidden"></span>
+</header>
+
+    <div class="node__content">
+<div class="field field-node--field-image field-formatter-image field-name-field-image field-type-image field-label-hidden has-single"><figure class="field-type-image__figure image-count-1 align-center"><div class="field-type-image__item">
+        <img property="schema:image" src="/sites/default/files/styles/large/public/2017-06/Struk.jpg?itok=Ig4zdc9y" width="289" height="480" alt="Strukturyzator wody" typeof="foaf:Image" class="image-style-large">
+
+</div>
+    </figure></div>
+<div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single">
+<div class="field__items"><div property="schema:text" class="field__item">
+<p class="text-align-justify">Based on numerous sources of scientific research water has different physical and chemical properties, This depend on the processes which has occurred on the molecular level. Prime example is water affected by plasma, electromagnetic field or magnetic field, which behaves different than water prior any of the procedures has been undertaken. Structural change can be short term and show formation of clusters, which takes nanoseconds or long term e.g. water affected by magnetic field of our planet or plasma. The affects of last two can be observed after 6 months of the formation process.<br>
+Please find the attached article on website <a href="http://www1.lsbu.ac.uk/water/magnetic_electric_effects.html" target="_blank" rel="nofollow">Water Structure and Science</a> [05-2017]</p>
+
+<p class="text-align-justify"><em>Extremely low frequency electromagnetic fields (ELF-EMF) have significant and lasting effects on liquid water. Using a weak field, adjusted to give a magnetic field of 45 µT, on glutamic acid solutions causes changes in the pH shifting towards the de-protonated species. Using just water, FTIR-ATR spectroscopy (see below left) showed that the lower energy part of the stretching absorption band (~3250 cm-1), which is related to the coherent fully-hydrogen bonded population, decreases. Stronger ELF-EMF fields (~0.15 T) were applied to water and its relative permittivity (dielectric constant) measured and compared with that of untreated water (see below right). It was found that the relative permittivity (dielectric constant) of the ELF-EMF field-treated water was 3.7% higher than the control over the frequency range of 1-10 GHz, which may indicate a higher molecular polarization in the treated water.</em></p>
+<!--break-->
+
+<p class="text-align-justify"><em><img alt="Wykres" data-entity-type="file" data-entity-uuid="f1222be1-ed37-49f2-b8c3-2e77aba2157f" src="/sites/default/files/inline-images/wykres.gif"></em></p>
+
+<p class="text-align-justify"><i>If electromagnetic effects do indeed influence the degree of structuring in water, then it is clear that they may have an effect on health. The biological effects of microwaves, for example, have generally been analyzed in terms of their very small heating effects. However, it should be recognized that there might be significant non-thermal effects due to the imposed re-orientation of water at the surfaces of biomolecular structures such as membranes. Similar effects on membranes have been proposed to occur due to magnetic and electric fields. Additionally as low-frequency, low level alternating electric fields have been found to affect the electrical conductivity of pure water, the effects of living near power cables and microwave towers should, perhaps, not be thought harmless just because no theory for harm has been formally recognized. Even variations in the geomagnetic field may have some long-term exposure effects.</i></p>
+
+<p class="text-align-justify">Aim of the below method is to achieve higher order in dipoles of water and as a result increase its penetration through the cell membranes and gain increased irrigation of the body. I am not entirely sure how will this experiment work. It must be however highlighted, that I have only started studying relevant scientific documentation. Observation of this phenomenon is long term and building the device does not take much effort. </p>
+
+<p class="text-align-justify">My thesis concludes that water exposed to the similar fields existing on the planet Earth, should have increased absorption for the organisms living in this environment. it also supports adaptation of life within environment. The above hypothesis must be therefore confirmed or refuted.</p>
+
+<p class="text-align-justify">I do encourage portal users to contact me regarding this subject. Additionally any scientific research is welcomed and can be send  through: <a href="/contact" target="_blank">Contact form</a>.</p>
+
+<p class="text-align-justify">I have built additional device for Free PEMF and reversed osmosis filtration system. I concluded that tap water contains chlorine, heavy metals, fluorine as well as other pollutants. Firstly they are being removed by the mechanical filtration, activated carbon and osmotic membrane. That way water which contains high level of minerals 350-380 ppm measured by TDS, in the container achieves 11-14 ppm (data from my household). This creates a very soft water and salts contained within water resemble rain water, which can be found in nature. This water can be then treated by extremely low frequency electromagnetic field. I used 7,83 Hz - averaged frequency of the Schuman resonance.</p>
+
+<p class="text-align-justify">I would like to encourage users to share their opinion and/or send their own scripts for the Free PEMF device.</p>
+
+<p class="text-align-justify">List of items to assemble Water Structurizer:</p>
+
+<ul>
+	<li class="text-align-justify">free PEMF device with software version NANO4.2 2017-05-30 or newer</li>
+	<li class="text-align-justify"> free PEMF charger</li>
+	<li class="text-align-justify">wooden pad with diameter larger or equal to the water container installed osmotic filtration to the kitchen  installation. 12cm radious should be sufficient.</li>
+	<li class="text-align-justify">wire 0,45 or 0,4 mm diameter</li>
+	<li class="text-align-justify">sockets and plugs 5 pin</li>
+	<li class="text-align-justify">diods 1N4007 or 1N4004 for any voltage</li>
+	<li class="text-align-justify">resistor 100 om 0,125/0,25 W</li>
+	<li class="text-align-justify">1mb. copper wire 2x0,75mm2 </li>
+	<li class="text-align-justify">lace to plat the coil 1,3 mb</li>
+	<li class="text-align-justify">thermo-retractable wire cover 2,4</li>
+</ul>
+
+<p class="text-align-justify">Measure diameter of the water container used for filtration. Please note that metal containers should be exchanged to one made of plastic. Membrane inside the container protects water from contact with plastic. One condition must be met to allow free flow of the electromagnetic waves.</p>
+
+<p class="text-align-justify"> <img alt="cewka-pomiar" data-entity-type="file" data-entity-uuid="45cfec37-34ac-4a1c-be39-827963049610" height="402" src="/sites/default/files/inline-images/cewka-pomiar.jpg" width="545"></p>
+
+<p class="text-align-justify">Use pad to create a coil (<a href="/dobor-i-montaz-cewki" target="_blank">link</a>). Please note that coil should be slightly bigger than diameter of the water container. Place wire or lace where coil will be assembled on the water container. Using pliers remove few dowels on the pad as illustrated above. Fit previously measured wire or lace onto the adjusted pad. </p>
+
+<p class="text-align-justify"><img alt="cewka-1" data-entity-type="file" data-entity-uuid="e1fd7d15-a1b2-4b40-a3da-30f10c75678a" height="221" src="/sites/default/files/inline-images/cewka-1.jpg" width="316"></p>
+
+<p class="text-align-justify"><img alt="cewka-2" data-entity-type="file" data-entity-uuid="3aa2e2e6-76e1-4887-8bc1-c9bc1099da0d" height="259" src="/sites/default/files/inline-images/cewka-2.jpg" width="316"></p>
+
+<p class="text-align-justify"><img alt="cewka-3" data-entity-type="file" data-entity-uuid="fa5f557e-117f-427a-875b-f3f8a97f2cb0" height="391" src="/sites/default/files/inline-images/cewka-3.jpg" width="317"></p>
+
+<p class="text-align-justify">Remaining process is the same as assembling a coli for the Free PEMF device. For more information please access the following link: <a href="http://biotronika.pl/dobor-i-montaz-cewki" target="_blank" rel="nofollow">tu</a>. Use 0.4 mm or 0.45 mm diameter wire. Wind enough wire to achieve 9-12 om resistance. Please use the following table to find the correct resistance <a href="/sites/default/files/inline-images/tab3_0.png" target="_blank">tabelki</a>.<br>
+My water container has 22 cm diameter (11 cm radius) and 120 scrolls of 0.45 mm has been sufficient to create my coil. Generated field will be 30 times stronger than Earth 55-60 uT.<br>
+<br>
+Cable must have plug and socket assemble to it, to enable charger to be permanently connected. Device will be working continuously based on script generating 5 min signal followed by the 60 min break. To enable free PEMF working continuously a 100 om resistor must be added, between plug 3 and mass (GND).  <br>
+Additionally, in the plug connected to the charger diode has been connected.This protects it from generating negative voltage SEM, generated by the coil.</p>
+
+<p class="text-align-justify"><img alt="wtyki" data-entity-type="file" data-entity-uuid="6deb7185-5dca-4714-8dd6-b5029746c39a" height="259" src="/sites/default/files/inline-images/wtyki.jpg" width="316"></p>
+
+<p class="text-align-justify"><img alt="wtyki-schemat" data-entity-type="file" data-entity-uuid="3e418409-61ce-44b7-8a1b-bc9a6793fe43" height="370" src="/sites/default/files/inline-images/wtyki-schemat.jpg" width="522"></p>
+
+<p class="text-align-justify">upload software for the Free-PEMF version NANO 4.2 2017-05-30 or newer. Please find the following link describing how cant it be done: <a href="/wgranie-oprogramowania-free-PEMF" target="_blank">Link do programu i opisu  jak to zrobić</a>. Then upload the below script to the EEPROM memory using command mem. For more information please find the below link: <a href="/biozap" target="_blank">Opis jak to zrobić znajduje się tu</a>.</p>
+
+<p class="text-align-justify">After first few days I and my family have not noticed any effects of drinking structured water. However my wife have noticed that our pets are keener on drinking it. Next thing which must be tested is to give them water which enters and exits the system of structured water. Then swap water to repeat how much have been used.</p>
+
+<p class="text-align-justify"><img alt="final" data-entity-type="file" data-entity-uuid="44aa1f6f-e9db-402a-919d-97bd1fe9f5fd" height="464" src="/sites/default/files/inline-images/final.jpg" width="313"></p>
+
+<p class="text-align-justify"><strong>Scripts:</strong></p>
+
+<p class="text-align-justify"><span style="color:#0461b2;">#strukturyzator wody<br>
+# 5 min Schumanna<br>
+rec 783 300<br>
+# wstrzymaj 1h<br>
+wait 3600000<br>
+@</span></p>
+
+<p class="text-align-justify">Cheers!<br>
+ </p>
+
+<p class="text-align-justify"> </p>
+
+<p class="text-align-justify"> </p>
+</div></div>
+</div>
+</div>
+<section rel="schema:comment" class="field field-node--comment field-formatter-comment-default field-name-comment field-type-comment field-label-above display-mode-threaded comment-bundle-comment comment-wrapper">
+  <a name="comments"></a></section>
+
+
+  
+
+</div>
+      
+      <div data-at-region="region-sidebar-second" class="l-r region pr-main__sidebar-second">
+<div class="search-block-form submit-is-visible block block-search block-config-provider--search block-plugin-id--search-form-block" data-drupal-selector="search-block-form" id="block-pixture-reloaded-search" role="search" aria-labelledby="block-pixture-reloaded-search-menu">
+  <div class="block__inner block-search__inner">
+
+    
+      <h2 class="visually-hidden block__title block-search__title" id="block-pixture-reloaded-search-menu"><span>Search</span></h2>
+    <div class="block__content block-search__content">
+<form action="https://biotronics.eu/search/node" method="get" id="search-block-form" accept-charset="UTF-8" class="search-block-form__form">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="" maxlength="128" class="form-search">
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit">
+</div>
+
+</form>
+</div>
+</div>
+</div>
+<div id="block-googletranslatorfromenglish" class="block block-config-provider--block-content block-plugin-id--block-content5575f98d-b780-43e7-8876-666c6194fce3">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single">
+<div class="field__items"><div class="field__item">
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<nav role="navigation" aria-labelledby="block-pixture-reloaded-tools-menu" id="block-pixture-reloaded-tools" class="block block-menu block-config-provider--system block-plugin-id--system-menu-blocktools has-title">
+  <div class="block__inner block-menu__inner">
+
+    
+    <h2 class="block__title block-menu__title" id="block-pixture-reloaded-tools-menu"><span>Tools</span></h2>
+    <div class="block__content block-menu__content">
+    <ul class="menu odd menu-level-1 menu-name--tools">      
+      
+            <li class="menu__item menu__item-title--forums" id="mlid-forums">
+
+        <span class="menu__link--wrapper">
+          <a href="/forum" class="menu__link" data-drupal-link-system-path="forum">Forums</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--contact" id="mlid-contact">
+
+        <span class="menu__link--wrapper">
+          <a href="/contact" title="Contact form" class="menu__link" data-drupal-link-system-path="contact">Contact</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--github-download" id="mlid-github-download">
+
+        <span class="menu__link--wrapper">
+          <a href="https://github.com/biotronika" title="Wersje źródłowe programów do urządzeń oraz dokumentacja bioZAP" class="menu__link" rel="nofollow" target="_blank">GitHub download</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--arduino-project-hub" id="mlid-arduino-project-hub">
+
+        <span class="menu__link--wrapper">
+          <a href="https://create.arduino.cc/projecthub/biotronika" class="menu__link" rel="nofollow" target="_blank">Arduino Project Hub</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--yt-channel" id="mlid-yt-channel">
+
+        <span class="menu__link--wrapper">
+          <a href="https://www.youtube.com/channel/UC7NnPF_izdwY4yzt34d8ZsQ" class="menu__link" rel="nofollow" target="_blank">YT channel</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--download" id="mlid-download">
+
+        <span class="menu__link--wrapper">
+          <a href="/download" class="menu__link" data-drupal-link-system-path="node/201">Download</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+
+</div>
+</div>
+</nav>
+<nav role="navigation" aria-labelledby="block-pixture-reloaded-account-menu-menu" id="block-pixture-reloaded-account-menu" class="block block-menu block-config-provider--system block-plugin-id--system-menu-blockaccount">
+  <div class="block__inner block-menu__inner">
+
+    
+    <h2 class="visually-hidden block__title block-menu__title" id="block-pixture-reloaded-account-menu-menu"><span>Menu użytkownika</span></h2>
+    <div class="block__content block-menu__content">
+    <ul class="menu odd menu-level-1 menu-name--account">      
+      
+            <li class="menu__item menu__item-title--log-in" id="mlid-log-in">
+
+        <span class="menu__link--wrapper">
+          <a href="/user/login" class="menu__link" data-drupal-link-system-path="user/login">Log in</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+
+</div>
+</div>
+</nav>
+</div>
+    </article></main></div>
+  </div>
+          <footer class="l-pr page__row pr-footer" role="contentinfo" id="footer">
+    <div class="l-rw regions container pr-footer__rw arc--1 hr--1" data-at-regions="">
+      <div data-at-region="region-footer" class="l-r region pr-footer__footer">
+<div id="block-celwitryny-new" class="block block-config-provider--block-content block-plugin-id--block-content9cde0081-6f1c-4237-bb8a-5117eb7957b1">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single">
+<div class="field__items"><div class="field__item">
+<p class="text-align-center">The mission of the site is to spread knowledge from the borderline of science related to biotronics, that is the application of electrical engineering, physics, electronics, mechanics in combination with living organisms. Conducting research proving the effectiveness of proposed solutions. Articles are the result of research, search and experience of their authors and refer to the sources on which they based their assumptions. The mission is carried out pro bono, non-profit. All content is published under the <strong><a href="https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en" target="_blank" rel="nofollow">Creative Common 3.0 license for Poland</a>.</strong></p>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+    </div>
+  </footer>
+    
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/37","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"theme":"pixture_reloaded","libraries":"anchor_link\/drupal.anchor_link,at_core\/at.breakpoints,at_core\/at.fastclick_initialize,at_core\/at.orientationchangereload,at_core\/at.responsivelists,at_core\/at.settings,ckeditor_spoiler\/ckeditor_spoiler,codesnippet\/codesnippet.highlightjs,codesnippet\/codesnippet.style.github,pixture_reloaded\/base,pixture_reloaded\/color,pixture_reloaded\/comment,pixture_reloaded\/contact,pixture_reloaded\/custom_css_file,pixture_reloaded\/fontfaceobserver,pixture_reloaded\/forum,pixture_reloaded\/language,pixture_reloaded\/pixture_reloaded.layout.page,pixture_reloaded\/responsive_menus,pixture_reloaded\/responsive_menus_dropmenu,pixture_reloaded\/responsive_menus_slidedown,pixture_reloaded\/responsive_tables,pixture_reloaded\/search,pixture_reloaded\/taxonomy,poll\/drupal.poll-links,statistics\/drupal.statistics,system\/base"},"pixture_reloaded":{"at_responsivemenus":{"bp":"all and (min-width: 60.063em)","default":"ms-slidedown","responsive":"ms-dropmenu","acd":{"acd_load":false}},"at_breakpoints":{"wide":{"breakpoint":"at_core.simple.wide","mediaquery":"all and (min-width: 60.063em)"},"tablet":{"breakpoint":"at_core.simple.tablet-isolate","mediaquery":"all and (min-width: 45.063em) and (max-width: 60em)"},"mobile":{"breakpoint":"at_core.simple.mobile","mediaquery":"all and (max-width: 45em)"}}},"ajaxTrustedUrl":{"https:\/\/biotronics.eu\/search\/node":true},"statistics":{"data":{"nid":"37"},"url":"\/core\/modules\/statistics\/statistics.php"},"user":{"uid":0,"permissionsHash":"8456858fbd13d2a45d89c789952cf578a8ababd8325af9e52258925b8e5e03e8"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js"></script>
+<script src="/core/misc/drupalSettingsLoader.js"></script>
+<script src="/core/misc/drupal.js"></script>
+<script src="/core/misc/drupal.init.js"></script>
+<script src="/modules/ckeditor_spoiler/js/spoiler.js"></script>
+<script src="/themes/adaptivetheme/at_core/scripts/min/at.responsiveTables.min.js?v=8.x-1.0"></script>
+<script src="/core/assets/vendor/matchMedia/matchMedia.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/enquire.js/2.1.2/enquire.min.js"></script>
+<script src="/themes/adaptivetheme/at_core/scripts/min/doubletaptogo.min.js?v=8.x-1.0"></script>
+<script src="/themes/adaptivetheme/at_core/scripts/min/at.responsiveMenus.min.js?v=8.x-1.0"></script>
+<script src="/themes/adaptivetheme/at_core/scripts/min/at.orientationChangeReload.min.js?v=8.x-1.0"></script>
+<script src="/core/modules/statistics/statistics.js"></script>
+<script src="/core/misc/debounce.js"></script>
+<script src="/themes/adaptivetheme/at_core/scripts/min/at.responsiveLists.min.js?v=8.x-1.0"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fontfaceobserver/2.0.8/fontfaceobserver.js"></script>
+<script src="/themes/pixture_reloaded/scripts/fontfaceobserver-check.js?v=8.x-1.0"></script>
+<script src="/themes/adaptivetheme/at_core/scripts/min/at.breakpoints.min.js?v=8.x-1.0"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
+<script src="/themes/adaptivetheme/at_core/scripts/min/at.fastclickInitialize.min.js?v=8.x-1.0"></script>
+<script src="/libraries/codesnippet/lib/highlight/highlight.pack.js"></script>
+<script src="/modules/codesnippet/js/codesnippet.js"></script>
+
+  </div>
+</body>
+</html>

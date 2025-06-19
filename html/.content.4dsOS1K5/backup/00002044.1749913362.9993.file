@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html class="no-js adaptivetheme" dir="ltr" lang="pl" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  
+<!-- Mirrored from biotronika.pl/eap-therapies?title=&page=21 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Jan 2021 10:28:09 GMT -->
+<!-- Added by HTTrack --><meta charset="">
+<!-- /Added by HTTrack -->
+<head>
+  <link href="/themes/pixture_reloaded/images/touch-icons/Icon-76-2x.png" rel="apple-touch-icon" sizes="152x152">
+  <link href="/themes/pixture_reloaded/images/touch-icons/Icon-60-2x.png" rel="apple-touch-icon" sizes="120x120">
+  <link href="/themes/pixture_reloaded/images/touch-icons/Icon-76.png" rel="apple-touch-icon" sizes="76x76">
+  <link href="/themes/pixture_reloaded/images/touch-icons/Icon-60.png" rel="apple-touch-icon" sizes="60x60">
+  <link href="/themes/pixture_reloaded/images/touch-icons/Icon-60.png" rel="shortcut icon">
+  <meta charset="utf-8">
+  <meta content="Drupal 8 (https://www.drupal.org)" name="Generator">
+  <meta content="width" name="MobileOptimized">
+  <meta content="true" name="HandheldFriendly">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <link href="/sites/default/files/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <link href="/rss.xml" rel="alternate" title="" type="application/rss+xml">
+  <link href="//cdnjs.cloudflare.com" rel="dns-prefetch">
+  <title>EAP therapies | biotronika.pl</title>
+  <script src="/core/assets/vendor/modernizr/modernizr.min.js">
+  </script>
+  <link href="/core/themes/stable/css/system/components/ajax-progress.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/align.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/autocomplete-loading.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/fieldgroup.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/container-inline.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/clearfix.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/details.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/hidden.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/item-list.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/js.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/nowrap.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/position-container.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/progress.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/reset-appearance.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/resize.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/sticky-header.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/system-status-counter.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/system-status-report-counters.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/system-status-report-general-info.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/tabledrag.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/tree-child.module.css" rel="stylesheet">
+  <link href="/modules/ckeditor_spoiler/css/spoiler.css" rel="stylesheet">
+  <link href="/modules/poll/css/poll.base.css" rel="stylesheet">
+  <link href="/modules/poll/css/poll.theme.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/views/views.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/filter/filter.caption.css" rel="stylesheet">
+  <link href="/modules/anchor_link/css/anchor_link.css" rel="stylesheet">
+  <link href="/libraries/codesnippet/lib/highlight/styles/github.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/base.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/generated/pixture_reloaded.layout.page.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/comments.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/contact-forms.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/forum.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/language.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/search.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/taxonomy.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/responsive-tables.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/responsive-menus--slidedown.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/responsive-menus--dropmenu.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/responsive-menus.css" rel="stylesheet">
+  <link href="/sites/default/files/color/pixture_reloaded-409d2dc2/color.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/custom.css" rel="stylesheet">
+
+  </head>
+<body role="document" class="user-logged-out path-eap-therapies path-query-titlepage21 site-name--biotronikapl theme-name--pixture-reloaded">
+        <a href="#block-pixture-reloaded-content" class="visually-hidden focusable skip-link">Przejdź do treści</a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="page">
+      <header class="l-pr page__row pr-header regions-multiple" role="banner" id="masthead">
+    <div class="l-rw regions container pr-header__rw arc--2 hr--1-2" data-at-regions="">
+      <div data-at-region="region-header-first" class="l-r region pr-header__header-first">
+<div id="block-pixture-reloaded-branding" class="block block-branding block-system block-system-branding-block">
+  <div class="block__inner block-branding__inner">
+
+    <div class="block__content block-branding__content site-branding">
+<a href="https://biotronika.pl/" title="Strona główna" itemprop="url" rel="nofollow" class="site-branding__logo-link" target="_blank"><img src="sites/default/files/logo72x72.png" alt="Strona główna" itemprop="logo" class="site-branding__logo-img"></a><span class="site-branding__text"><strong class="site-branding__name"><a href="https://biotronika.pl/" title="Strona główna" itemprop="url" rel="nofollow" class="site-branding__name-link" target="_blank">biotronika.pl</a></strong><em class="site-branding__slogan">Najlepsze rzeczy są za darmo: matka Ziemia, Linux, przyroda, miłość...</em></span>
+</div>
+</div>
+</div>
+</div>
+      <div data-at-region="region-header-second" class="l-r region pr-header__header-second">
+<div id="block-langaugeselectorwithgraphics-new" class="block block-config-provider--block-content block-plugin-id--block-contentaab4d1b7-caab-44e9-b398-a93cec037559">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single">
+<div class="field__items"><div class="field__item">
+<p><a href="/" id="" rel="" target="" title="English"><img alt="English" data-entity-type="file" data-entity-uuid="b1357cf3-c69e-4896-9d0f-b987afd6a4c5" height="61" src="/sites/default/files/inline-images/English256.png" width="61" /></a><a href="/pl/welcome" id="" rel="" target="" title="Polish"><img alt="Polish" data-entity-type="file" data-entity-uuid="0f3e65eb-b3e8-4463-91a1-ce0ca2db5c2a" height="61" src="/sites/default/files/inline-images/Polish256.png" width="61" /></a></a></p>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+    </div>
+  </header>
+      <div class="l-pr page__row pr-navbar" id="navbar">
+    <div class="l-rw regions container pr-navbar__rw arc--1 hr--1" data-at-regions="">
+      <div data-at-region="region-navbar" class="l-r region pr-navbar__navbar">
+<svg style="display:none;">
+    <symbol id="rm-toggle__icon--open" viewbox="0 0 1792 1792" preserveaspectratio="xMinYMid meet">
+    <path class="rm-toggle__icon__path" d="M1664 1344v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45z"></path>
+  </symbol>
+    <symbol id="rm-toggle__icon--close" viewbox="0 0 1792 1792" preserveaspectratio="xMinYMid meet">
+    <path class="rm-toggle__icon__path" d="M1490 1322q0 40-28 68l-136 136q-28 28-68 28t-68-28l-294-294-294 294q-28 28-68 28t-68-28l-136-136q-28-28-28-68t28-68l294-294-294-294q-28-28-28-68t28-68l136-136q28-28 68-28t68 28l294 294 294-294q28-28 68-28t68 28l136 136q28 28 28 68t-28 68l-294 294 294 294q28 28 28 68z"></path>
+  </symbol>
+</svg>
+<nav role="navigation" aria-labelledby="block-pixture-reloaded-main-menu-menu" id="block-pixture-reloaded-main-menu" class="rm-block rm-config-provider--system rm-plugin-id--system-menu-block-main js-hide">
+  <div class="rm-block__inner">
+    <div class="rm-toggle">
+      <button href="#rm-content" class="rm-toggle__link un-button" role="button" aria-controls="rm-content" aria-expanded="false">
+                <svg class="rm-toggle__icon">
+          <use id="rm-toggle__icon--use" xlink:href="#rm-toggle__icon--open"></use>
+        </svg>
+                <span class="rm-toggle__label" id="block-pixture-reloaded-main-menu-menu">Menu</span>
+      </button>
+    </div>
+<div class="rm-block__content" id="rm-content">
+        
+    <ul class="menu odd menu-level-1 menu-name--main">      
+      
+            <li class="menu__item menu__item-title--terapie" id="mlid-terapie">
+
+        <span class="menu__link--wrapper">
+          <a href="therapies" title="Lista terapii ze skryptami BIOzap" class="menu__link" data-drupal-link-system-path="therapies">Terapie</a>
+        </span>
+
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--freepemf" id="mlid-freepemf">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="czym-jest-free-pemf" class="menu__link">freePEMF</a>
+        </span>
+
+                  
+    <ul class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--czym-jest-freepemf" id="mlid-czym-jest-freepemf">
+
+        <span class="menu__link--wrapper">
+          <a href="czym-jest-free-pemf" class="menu__link" data-drupal-link-system-path="node/1">Czym jest freePEMF</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--instrukcja-użytkownika" id="mlid-instrukcja-użytkownika">
+
+        <span class="menu__link--wrapper">
+          <a href="Instrukcja-free-pemf" class="menu__link" data-drupal-link-system-path="node/3">Instrukcja użytkownika</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-freepemf-duo" id="mlid-montaż-freepemf-duo">
+
+        <span class="menu__link--wrapper">
+          <a href="DIY-freePEMF-duo" class="menu__link" data-drupal-link-system-path="node/173">Montaż freePEMF duo</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-freepemf" id="mlid-montaż-freepemf">
+
+        <span class="menu__link--wrapper">
+          <a href="montaz-free-PEMF-nowy-typ" class="menu__link" data-drupal-link-system-path="node/77">Montaż freePEMF</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--wykonanie-maty" id="mlid-wykonanie-maty">
+
+        <span class="menu__link--wrapper">
+          <a href="wykonanie-maty" title="Opis budowy maty do free-PEMF oraz zappera++" class="menu__link" data-drupal-link-system-path="node/29">Wykonanie maty</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--mata-kwadropolowa" id="mlid-mata-kwadropolowa">
+
+        <span class="menu__link--wrapper">
+          <a href="mata-kwadropolowa" class="menu__link" data-drupal-link-system-path="node/174">Mata kwadropolowa</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--oprogramowanie" id="mlid-oprogramowanie">
+
+        <span class="menu__link--wrapper">
+          <a href="wgranie-oprogramowania" class="menu__link" data-drupal-link-system-path="node/4">Oprogramowanie</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-cewki" id="mlid-montaż-cewki">
+
+        <span class="menu__link--wrapper">
+          <a href="dobor-i-montaz-cewki" class="menu__link" data-drupal-link-system-path="node/5">Montaż cewki</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--dobór-cewki" id="mlid-dobór-cewki">
+
+        <span class="menu__link--wrapper">
+          <a href="node/159" class="menu__link" data-drupal-link-system-path="node/159">Dobór cewki</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--rozwiązywanie-problemów" id="mlid-rozwiązywanie-problemów">
+
+        <span class="menu__link--wrapper">
+          <a href="ratuj-free-PEMF" class="menu__link" data-drupal-link-system-path="node/43">Rozwiązywanie problemów</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--stymulacja-fal-mózgowych" id="mlid-stymulacja-fal-mózgowych">
+
+        <span class="menu__link--wrapper">
+          <a href="stymulacja-fal-mozgowych" class="menu__link" data-drupal-link-system-path="node/23">Stymulacja fal mózgowych</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--płytka-pcb" id="mlid-płytka-pcb">
+
+        <span class="menu__link--wrapper">
+          <a href="node/92" title="Płytka drukowana dla elektroników amatorów" class="menu__link" data-drupal-link-system-path="node/92">Płytka PCB</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--strukturyzator-wody" id="mlid-strukturyzator-wody">
+
+        <span class="menu__link--wrapper">
+          <a href="strukturyzator-wody" class="menu__link" data-drupal-link-system-path="node/37">Strukturyzator wody</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--sleeping-freepemf" id="mlid-sleeping-freepemf">
+
+        <span class="menu__link--wrapper">
+          <a href="sleeping-freePEMF" class="menu__link" data-drupal-link-system-path="node/207">Sleeping freePEMF</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--multizap" id="mlid-multizap">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="multiZAP-manual" class="menu__link" data-drupal-link-system-path="node/131">multiZAP</a>
+        </span>
+
+                  
+    <ul class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--instrukcja-multizap" id="mlid-instrukcja-multizap">
+
+        <span class="menu__link--wrapper">
+          <a href="multiZAP-manual" class="menu__link" data-drupal-link-system-path="node/131">Instrukcja multiZAP</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--lista-częstotliwości" id="mlid-lista-częstotliwości">
+
+        <span class="menu__link--wrapper">
+          <a href="czestotliwosci" class="menu__link" data-drupal-link-system-path="node/35">Lista częstotliwości</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-multizap" id="mlid-montaż-multizap">
+
+        <span class="menu__link--wrapper">
+          <a href="multiZAP-montaz" class="menu__link" data-drupal-link-system-path="node/91">Montaż multiZAP</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--elektrody" id="mlid-elektrody">
+
+        <span class="menu__link--wrapper">
+          <a href="elektrody" title="Elektrody do biorezonansu" class="menu__link" data-drupal-link-system-path="node/12">Elektrody</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--wykonanie-maty" id="mlid-wykonanie-maty">
+
+        <span class="menu__link--wrapper">
+          <a href="wykonanie-maty" title="Opis budowy maty do free-PEMF oraz zappera++" class="menu__link" data-drupal-link-system-path="node/29">Wykonanie maty</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--oprogramowanie" id="mlid-oprogramowanie">
+
+        <span class="menu__link--wrapper">
+          <a href="wgranie-oprogramowania" class="menu__link" data-drupal-link-system-path="node/4">Oprogramowanie</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--remotezap-android" id="mlid-remotezap-android">
+
+        <span class="menu__link--wrapper">
+          <a href="node/1676" class="menu__link" data-drupal-link-system-path="node/1676">RemoteZap Android</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--zapper-plus" id="mlid-zapper-plus">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="czym-jest-zapper-plus" class="menu__link">zapper-plus</a>
+        </span>
+
+                  
+    <ul class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--czym-jest-zapper-plus" id="mlid-czym-jest-zapper-plus">
+
+        <span class="menu__link--wrapper">
+          <a href="czym-jest-zapper-plus" class="menu__link" data-drupal-link-system-path="node/7">Czym jest zapper-plus</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-zappera-plus" id="mlid-montaż-zappera-plus">
+
+        <span class="menu__link--wrapper">
+          <a href="montaz-zappera-plus" class="menu__link" data-drupal-link-system-path="node/10">Montaż zappera-plus</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--elektrody" id="mlid-elektrody">
+
+        <span class="menu__link--wrapper">
+          <a href="elektrody" title="Elektrody do zappera" class="menu__link" data-drupal-link-system-path="node/12">Elektrody</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--srebro-koloidalne" id="mlid-srebro-koloidalne">
+
+        <span class="menu__link--wrapper">
+          <a href="srebro-koloidalne" class="menu__link" data-drupal-link-system-path="node/36">Srebro koloidalne</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--ionzapper" id="mlid-ionzapper">
+
+        <span class="menu__link--wrapper">
+          <a href="ionZAPPER" class="menu__link" data-drupal-link-system-path="node/238">ionZAPPER</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+        
+      </li>      
+      
+            <li class="menu__item menu__item--collapsed menu__item-title--zenon" id="mlid-zenon">
+
+        <span class="menu__link--wrapper">
+          <a href="zenon1" class="menu__link" data-drupal-link-system-path="node/99">zenON</a>
+        </span>
+
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--qiwellness" id="mlid-qiwellness">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="what-is-qiWELLNESS" title="Urządzenie do TCM" class="menu__link" data-drupal-link-system-path="node/200">qiWELLNESS</a>
+        </span>
+
+                  
+    <ul class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--czym-jest-qiwellness" id="mlid-czym-jest-qiwellness">
+
+        <span class="menu__link--wrapper">
+          <a href="what-is-qiWELLNESS" class="menu__link" data-drupal-link-system-path="node/200">Czym jest qiWELLNESS</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--acupen-biotronika" id="mlid-acupen-biotronika">
+
+        <span class="menu__link--wrapper">
+          <a href="acupen" class="menu__link" data-drupal-link-system-path="node/210">Acupen biotronika</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-qiwellness" id="mlid-montaż-qiwellness">
+
+        <span class="menu__link--wrapper">
+          <a href="node/205" class="menu__link" data-drupal-link-system-path="node/205">Montaż qiWELLNESS</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--electrodes" id="mlid-electrodes">
+
+        <span class="menu__link--wrapper">
+          <a href="node/253" class="menu__link" data-drupal-link-system-path="node/253">Electrodes</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--qiwellness-mobile" id="mlid-qiwellness-mobile">
+
+        <span class="menu__link--wrapper">
+          <a href="qiWELLNESS-mobile" title="Jak połączyć miniVILL/qiWELLNESS z komórką" class="menu__link" data-drupal-link-system-path="node/299">qiWELLNESS mobile</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--iontophoresis-substances" id="mlid-iontophoresis-substances">
+
+        <span class="menu__link--wrapper">
+          <a href="iontophoresis-substances" class="menu__link" data-drupal-link-system-path="iontophoresis-substances">Iontophoresis substances</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--eap-therapies" id="mlid-eap-therapies">
+
+        <span class="menu__link--wrapper">
+          <a href="eap-therapies" class="menu__link" data-drupal-link-system-path="eap-therapies">EAP therapies</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--atlas" id="mlid-atlas">
+
+        <span class="menu__link--wrapper">
+          <a href="atlas" title="Atlas punktów akupunkturowych" class="menu__link" data-drupal-link-system-path="atlas">Atlas</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--eav-ścieżki-diagnostyczne" id="mlid-eav-ścieżki-diagnostyczne">
+
+        <span class="menu__link--wrapper">
+          <a href="eav-paths" class="menu__link" data-drupal-link-system-path="eav-paths">EAV ścieżki diagnostyczne</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--biozap" id="mlid-biozap">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="biozap" class="menu__link" data-drupal-link-system-path="node/9">bioZAP</a>
+        </span>
+
+                  
+    <ul class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--firmware-upload" id="mlid-firmware-upload">
+
+        <span class="menu__link--wrapper">
+          <a href="wgranie-oprogramowania" class="menu__link" data-drupal-link-system-path="node/4">Firmware upload</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--język-biozap" id="mlid-język-biozap">
+
+        <span class="menu__link--wrapper">
+          <a href="biozap" class="menu__link" data-drupal-link-system-path="node/9">Język bioZAP</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+        
+      </li>
+</ul>
+  
+
+</div>
+</div>
+</nav>
+</div>
+    </div>
+  </div>
+      <div class="l-pr page__row pr-highlighted" id="highlighted">
+    <div class="l-rw regions container pr-highlighted__rw arc--1 hr--1" data-at-regions="">
+      <div data-at-region="region-highlighted" class="l-r region pr-highlighted__highlighted">
+</div>
+    </div>
+  </div>
+        <div class="l-pr page__row pr-content-prefix" id="content-prefix">
+    <div class="l-rw regions container pr-content-prefix__rw arc--1 hr--1" data-at-regions="">
+      <div data-at-region="region-content-prefix" class="l-r region pr-content-prefix__content-prefix">
+<div role="navigation" aria-labelledby="block-pixture-reloaded-breadcrumbs-menu" id="block-pixture-reloaded-breadcrumbs" class="block block-breadcrumbs block-config-provider--system block-plugin-id--system-breadcrumb-block">
+  <div class="block__inner">
+
+    
+    <h2 class="visually-hidden block__title block-breadcrumbs__title" id="block-pixture-reloaded-breadcrumbs-menu"><span>Breadcrumbs</span></h2>
+    
+      <div class="breadcrumb">
+    <nav class="is-responsive is-horizontal" data-at-responsive-list>
+      <div class="is-responsive__list">
+        <h3 class="visually-hidden breadcrumb__title">You are here:</h3>
+        <ol class="breadcrumb__list"><li class="breadcrumb__list-item is-responsive__item"><a href="https://biotronika.pl/" class="breadcrumb__link" rel="nofollow" target="_blank">Strona główna</a></li></ol>
+      </div>
+    </nav>
+  </div>
+</div>
+</div>
+</div>
+    </div>
+  </div>
+      <div class="l-pr page__row pr-main regions-multiple" id="main-content">
+    <div class="l-rw regions container pr-main__rw arc--2 hr--1-3" data-at-regions="">
+      <div data-at-region="region-content" class="l-r region pr-main__content">
+<div id="block-pixture-reloaded-page-title" class="block block-config-provider--core block-plugin-id--page-title-block">
+  <div class="block__inner">
+
+    <div class="block__content">
+  <h1 class="page__title">EAP therapies</h1>
+
+</div>
+</div>
+</div>
+<main id="block-pixture-reloaded-content" class="block block-main-content" role="main">
+  
+  <div class="views-element-container">
+<div class="view view-eap-therapies view-id-eap_therapies view-display-id-page_1 js-view-dom-id-85e5a75079b910870e88b05e747b1031aec5cf74f5ab714f5e3e43ee7f028a53">
+  
+    
+      <div class="view-header">
+      <a href="../biotronics.eu/add-new"><b>Add new ...</b></a>
+    </div>
+        <div class="view-filters">
+      <form class="views-exposed-form" data-drupal-selector="views-exposed-form-eap-therapies-page-1" action="https://biotronika.pl/eap-therapies" method="get" id="views-exposed-form-eap-therapies-page-1" accept-charset="UTF-8" role="form">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-title form-item-title">
+      <label for="edit-title">Title</label>
+        <input data-drupal-selector="edit-title" type="text" id="edit-title" name="title" value="" size="30" maxlength="128" class="form-text">
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+<input data-drupal-selector="edit-submit-eap-therapies" type="submit" id="edit-submit-eap-therapies" value="Apply" class="button js-form-submit form-submit">
+</div>
+
+</div>
+
+</form>
+
+    </div>
+    
+      <div class="view-content">
+      <table class="table views-table views-view-table cols-2">
+        <thead class="table__header">
+      <tr class="table__row">
+                                                  <th class="views-align-left table__cell views-field views-field-title is-active views-align-left" id="view-title-table-column" scope="col"><a href="eap-therapiesfe4f?title=&page=21&order=title&sort=desc" title="sortuj według EAP therapy">EAP therapy<span class="tablesort tablesort--desc">
+  <span class="visually-hidden">
+    Sortuj malejąco
+      </span>
+</span>
+</a></th>
+                                                  <th id="view-field-baps-table-column" class="table__cell views-field views-field-field-baps" scope="col">BAPs</th>
+              </tr>
+    </thead>
+    <tbody class="table__body">
+                <tr class="table__row odd">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1277" hreflang="en">Palsy of the abdominal muscles (Porażenie mięśni brzucha)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">UB20 UB21           </td>
+              </tr>
+                <tr class="table__row even">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1269" hreflang="en">Palsy of throat muscles (Porażenie mięśni gardła)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">SI2           </td>
+              </tr>
+                <tr class="table__row odd">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1347" hreflang="en">Pancreatitis (Zapalenie trzustki)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">SP6 UB20 UB21 CV12 ST21 NP51           </td>
+              </tr>
+                <tr class="table__row even">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1559" hreflang="en">Paradontosis (Przyzębica)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">LI4 ST36 ST3 ST5 ST6 TB21 SP6 CV24 LI1 LU7 LU11 EX18           </td>
+              </tr>
+                <tr class="table__row odd">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1241" hreflang="en">Paralysis and paresis of the arm and shoulder (Porażenie i niedowład ramienia i barku)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">LI4 TB5 LI15 LI11 P3 UB20 TB3 SI3 EX85 TB4 LI10           </td>
+              </tr>
+                <tr class="table__row even">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1656" hreflang="en">Paralysis of ocular muscles (Porażenie mięśni ocznych)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">LI4 ST2 TB23 EX6 EX3 EX9 UB2 EX5           </td>
+              </tr>
+                <tr class="table__row odd">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1274" hreflang="en">Paralysis of the diaphragm (Porażenie przepony)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">UB17 GB24           </td>
+              </tr>
+                <tr class="table__row even">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1242" hreflang="en">Paralysis of the elbow and the arm (Porażenia łokcia i ramienia)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">LI4 TB5 LI15 LI11 P3 UB20 SI3 H3 TB3 TB4 EX85           </td>
+              </tr>
+                <tr class="table__row odd">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1247" hreflang="en">Paralysis of the peroneal nerve (Porażenie nerwu strzałkowego)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">ST36 GB30 UB60 UB57 UB40 UB25 K3 EX75 LIV3 ST40 EX85 UB58           </td>
+              </tr>
+                <tr class="table__row even">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1249" hreflang="en">Paralytic falling of the foot (Porażenne opadanie stopy)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">ST36 GB30 K3 UB57 EX75 UB60 UB40 UB25 UB58 ST40 EX85 GB34           </td>
+              </tr>
+                <tr class="table__row odd">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1244" hreflang="en">Paralytic falling of the hand (Porażenne opadanie dłoni)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">LI4 TB5 LI15 LI11 P3 EX107 TB3 SI3 UB20 TB4 EX85           </td>
+              </tr>
+                <tr class="table__row even">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1368" hreflang="en">Parametritis (Zapalenie przymacicza)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">EX75 GV4 EX49 EX74           </td>
+              </tr>
+                <tr class="table__row odd">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1248" hreflang="en">Paresis of the shank (Niedowład podudzia)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">ST36 GB30 UB25 UB40 EX75 K3 UB60 UB58 EX85 ST40 GB34 LIV3           </td>
+              </tr>
+                <tr class="table__row even">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1235" hreflang="en">Parkinsonism (Choroba Parkinsona)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">GV20 TB5 TB10           </td>
+              </tr>
+                <tr class="table__row odd">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1591" hreflang="en">Parotitis (mumps) (Zapalenie przyusznicy)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">LI4 ST6 TB5 LI11 LI7 TB17 ST5 EX99           </td>
+              </tr>
+                <tr class="table__row even">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1470" hreflang="en">Pericarditis (Zapalenie osierdzia)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">ST36 P6 UB15 UB14 P1 UB45           </td>
+              </tr>
+                <tr class="table__row odd">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1553" hreflang="en">Periodontitis (Zapalenie ozębnej)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">GV26 EX18           </td>
+              </tr>
+                <tr class="table__row even">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1273" hreflang="en">Persistent hiccups (Uporczywa czkawka)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">ST36 P6 P8 LIV14 CV12 CV22 GB24 UB14 UB17 CV13 ST21 CV15           </td>
+              </tr>
+                <tr class="table__row odd">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1275" hreflang="en">Phantom limb pains (Bóle fantomowe)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">LI4 ST36 GV20 GV19           </td>
+              </tr>
+                <tr class="table__row even">
+                                                                                        <td headers="view-title-table-column" class="views-field views-field-title is-active views-align-left table__cell">
+<a href="../biotronics.eu/node/1440" hreflang="en">Pharyngitis (Zapalenie gardła)</a>          </td>
+                                                                                        <td headers="view-field-baps-table-column" class="views-field views-field-field-baps table__cell">LI4 CV22 EX21 LU5 UB10 LU11 K3 LI11 LI1 LU10 CV23 GB44           </td>
+              </tr>
+      </tbody>
+</table>
+
+    </div>
+  
+      <nav class="pager pager--full" role="navigation" aria-labelledby="pagination-heading">
+    <h4 id="pagination-heading" class="visually-hidden">Stronicowanie</h4>
+    <ul class="pager__items js-pager__items">
+      <ul class="pager__items__first-previous">
+<li class="pager__item pager__item--first pager__item--text">
+            <a href="eap-therapies5e9e?title=&page=0" class="pager__link" title="Przejdź do pierwszej strony">
+              <span class="visually-hidden">Pierwsza strona</span>
+              <span class="pager__first" aria-hidden="true">« First</span>
+            </a>
+          </li>
+<li class="pager__item pager__item--previous pager__item--text">
+            <a href="eap-therapiesc67d?title=&page=20" class="pager__link" title="Przejdź do poprzedniej strony" rel="prev">
+              <span class="visually-hidden">Poprzednia strona</span>
+              <span class="pager__previous" aria-hidden="true">‹‹</span>
+            </a>
+          </li>
+</ul>      <ul class="pager__items__num-pages js-pager__items">
+<li class="pager__item pager__item--num pager__item--num-first">
+<a href="eap-therapiesbeaa?title=&page=17" class="pager__link" title="Go to page 18">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__ellipsis pager__ellipsis--before" role="presentation">…</span><span class="pager__key">18</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num">
+<a href="eap-therapiesaeab?title=&page=18" class="pager__link" title="Go to page 19">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">19</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num">
+<a href="eap-therapiesa3bc?title=&page=19" class="pager__link" title="Go to page 20">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">20</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num">
+<a href="eap-therapiesc67d?title=&page=20" class="pager__link" title="Go to page 21">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">21</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num   is-active">
+<a href="eap-therapies0b64?title=&page=21" class="pager__link pager__link--is-active" title="Bieżąca strona">
+              <span class="visually-hidden">Bieżąca strona</span>
+              <span class="pager__key">22</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num">
+<a href="eap-therapies65d3?title=&page=22" class="pager__link" title="Go to page 23">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">23</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num">
+<a href="eap-therapiesb201?title=&page=23" class="pager__link" title="Go to page 24">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">24</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num">
+<a href="eap-therapies1508?title=&page=24" class="pager__link" title="Go to page 25">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">25</span>
+              </a>
+          </li>
+        <li class="pager__item pager__item--num  pager__item--num-last">
+<a href="eap-therapiesdc31?title=&page=25" class="pager__link" title="Go to page 26">
+              <span class="visually-hidden">Page</span>
+              <span class="pager__key">26</span>
+              <span class="pager__ellipsis pager__ellipsis--after" role="presentation">…</span></a>
+          </li>
+              </ul>
+      <ul class="pager__items__next-last js-pager__items">
+<li class="pager__item pager__item--next pager__item--text">
+            <a href="eap-therapies65d3?title=&page=22" class="pager__link" title="Przejdź do następnej strony" rel="next">
+              <span class="visually-hidden">Następna strona</span>
+              <span class="pager__next" aria-hidden="true">››</span>
+            </a>
+          </li>
+<li class="pager__item pager__item--last pager__item--text">
+            <a href="eap-therapies0579?title=&page=28" class="pager__link" title="Przejdź do ostatniej strony">
+              <span class="visually-hidden">Ostatnia strona</span>
+              <span class="pager__last" aria-hidden="true">Last »</span>
+            </a>
+          </li>
+</ul>
+</ul>
+  </nav>
+          </div>
+</div>
+
+  
+</main>
+</div>
+      
+      <div data-at-region="region-sidebar-second" class="l-r region pr-main__sidebar-second">
+<div class="search-block-form submit-is-visible block block-search block-config-provider--search block-plugin-id--search-form-block" data-drupal-selector="search-block-form" id="block-pixture-reloaded-search" role="search" aria-labelledby="block-pixture-reloaded-search-menu">
+  <div class="block__inner block-search__inner">
+
+    
+      <h2 class="visually-hidden block__title block-search__title" id="block-pixture-reloaded-search-menu"><span>Search</span></h2>
+    <div class="block__content block-search__content">
+<form action="https://biotronika.pl/search/node" method="get" id="search-block-form" accept-charset="UTF-8" class="search-block-form__form">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Wprowadź słowa, które mają zostać wyszukane." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="" maxlength="128" class="form-search">
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit">
+</div>
+
+</form>
+</div>
+</div>
+</div>
+<div id="block-googletranslator" class="block block-config-provider--block-content block-plugin-id--block-content3ca163e6-fac5-4911-bf39-f2cc4e6cf7c8">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single">
+<div class="field__items"><div class="field__item">
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'pl', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}</script><script type="text/javascript" src="../translate.google.com/translate_a/elementa0d8?cb=googleTranslateElementInit"></script>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<nav role="navigation" aria-labelledby="block-pixture-reloaded-tools-menu" id="block-pixture-reloaded-tools" class="block block-menu block-config-provider--system block-plugin-id--system-menu-blocktools has-title">
+  <div class="block__inner block-menu__inner">
+
+    
+    <h2 class="block__title block-menu__title" id="block-pixture-reloaded-tools-menu"><span>Tools</span></h2>
+    <div class="block__content block-menu__content">
+    <ul class="menu odd menu-level-1 menu-name--tools">      
+      
+            <li class="menu__item menu__item-title--fora" id="mlid-fora">
+
+        <span class="menu__link--wrapper">
+          <a href="forum" class="menu__link" data-drupal-link-system-path="forum">Fora</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--kontakt" id="mlid-kontakt">
+
+        <span class="menu__link--wrapper">
+          <a href="contact" title="Formularz kontaktowy" class="menu__link" data-drupal-link-system-path="contact">Kontakt</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--github-download" id="mlid-github-download">
+
+        <span class="menu__link--wrapper">
+          <a href="https://github.com/biotronika" title="Wersje źródłowe programów do urządzeń oraz dokumentacja bioZAP" class="menu__link" rel="nofollow" target="_blank">GitHub download</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--arduino-project-hub" id="mlid-arduino-project-hub">
+
+        <span class="menu__link--wrapper">
+          <a href="https://create.arduino.cc/projecthub/biotronika" class="menu__link" rel="nofollow" target="_blank">Arduino Project Hub</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--kanał-yt" id="mlid-kanał-yt">
+
+        <span class="menu__link--wrapper">
+          <a href="https://www.youtube.com/channel/UC7NnPF_izdwY4yzt34d8ZsQ" class="menu__link" rel="nofollow" target="_blank">Kanał YT</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--download" id="mlid-download">
+
+        <span class="menu__link--wrapper">
+          <a href="download" class="menu__link" data-drupal-link-system-path="node/201">Download</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+
+</div>
+</div>
+</nav>
+<nav role="navigation" aria-labelledby="block-pixture-reloaded-account-menu-menu" id="block-pixture-reloaded-account-menu" class="block block-menu block-config-provider--system block-plugin-id--system-menu-blockaccount">
+  <div class="block__inner block-menu__inner">
+
+    
+    <h2 class="visually-hidden block__title block-menu__title" id="block-pixture-reloaded-account-menu-menu"><span>Menu użytkownika</span></h2>
+    <div class="block__content block-menu__content">
+    <ul class="menu odd menu-level-1 menu-name--account">      
+      
+            <li class="menu__item menu__item-title--zaloguj" id="mlid-zaloguj">
+
+        <span class="menu__link--wrapper">
+          <a href="user/login" class="menu__link" data-drupal-link-system-path="user/login">Zaloguj</a>
+        </span>
+
+        
+      </li>
+</ul>
+  
+
+</div>
+</div>
+</nav>
+</div>
+    </div>
+  </div>
+          <footer class="l-pr page__row pr-footer" role="contentinfo" id="footer">
+    <div class="l-rw regions container pr-footer__rw arc--1 hr--1" data-at-regions="">
+      <div data-at-region="region-footer" class="l-r region pr-footer__footer">
+<div id="block-celwitryny-new" class="block block-config-provider--block-content block-plugin-id--block-content9cde0081-6f1c-4237-bb8a-5117eb7957b1">
+  <div class="block__inner">
+
+    <div class="block__content">
+<div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single">
+<div class="field__items"><div class="field__item">
+<p class="text-align-center">Misją witryny jest szerzenie wiedzy z pogranicza nauki związanej z biotroniką, czyli zastosowaniem elektrotechniki, fizyki, elektroniki, mechaniki w połączeniu z organizmami żywymi. Prowadzenie badań dowodzących lub obalających skuteczność proponowanych rozwiązań. Artykuły są wynikiem badań, poszukiwań i doświadczeń ich autorów oraz odwołują się do źródeł na których oparli oni swoje założenia. Misja realizowana jest pro publico bono, non profit. Wszystkie treści są publikowane na licencji <strong><a href="https://creativecommons.org/licenses/by-sa/3.0/pl/" target="_blank" rel="nofollow">Creative Common 3.0 dla Polski</a></strong></p>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+    </div>
+  </footer>
+    
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"eap-therapies","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"pl","currentQuery":{"page":"21","title":""}},"pluralDelimiter":"\u0003","ajaxPageState":{"theme":"pixture_reloaded","libraries":"anchor_link\/drupal.anchor_link,at_core\/at.breakpoints,at_core\/at.fastclick_initialize,at_core\/at.orientationchangereload,at_core\/at.responsivelists,at_core\/at.settings,ckeditor_spoiler\/ckeditor_spoiler,codesnippet\/codesnippet.highlightjs,codesnippet\/codesnippet.style.github,pixture_reloaded\/base,pixture_reloaded\/color,pixture_reloaded\/comment,pixture_reloaded\/contact,pixture_reloaded\/custom_css_file,pixture_reloaded\/fontfaceobserver,pixture_reloaded\/forum,pixture_reloaded\/language,pixture_reloaded\/pixture_reloaded.layout.page,pixture_reloaded\/responsive_menus,pixture_reloaded\/responsive_menus_dropmenu,pixture_reloaded\/responsive_menus_slidedown,pixture_reloaded\/responsive_tables,pixture_reloaded\/search,pixture_reloaded\/taxonomy,poll\/drupal.poll-links,system\/base,views\/views.module"},"pixture_reloaded":{"at_responsivemenus":{"bp":"all and (min-width: 60.063em)","default":"ms-slidedown","responsive":"ms-dropmenu","acd":{"acd_load":false}},"at_breakpoints":{"wide":{"breakpoint":"at_core.simple.wide","mediaquery":"all and (min-width: 60.063em)"},"tablet":{"breakpoint":"at_core.simple.tablet-isolate","mediaquery":"all and (min-width: 45.063em) and (max-width: 60em)"},"mobile":{"breakpoint":"at_core.simple.mobile","mediaquery":"all and (max-width: 45em)"}}},"ajaxTrustedUrl":{"https:\/\/biotronika.pl\/search\/node":true,"https:\/\/biotronika.pl\/eap-therapies":true},"user":{"uid":0,"permissionsHash":"8456858fbd13d2a45d89c789952cf578a8ababd8325af9e52258925b8e5e03e8"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js"></script>
+  <script src="/core/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="/core/assets/vendor/jquery-once/jquery.once.min.js"></script>
+  <script src="/core/misc/drupalSettingsLoader.js"></script>
+  <script src="/core/misc/drupal.js"></script>
+  <script src="/core/misc/drupal.init.js"></script>
+  <script src="/modules/ckeditor_spoiler/js/spoiler.js"></script>
+  <script src="/themes/adaptivetheme/at_core/scripts/min/at.responsiveTables.min.js?v=8.x-1.0"></script>
+  <script src="/core/assets/vendor/matchMedia/matchMedia.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/enquire.js/2.1.2/enquire.min.js"></script>
+  <script src="/themes/adaptivetheme/at_core/scripts/min/doubletaptogo.min.js?v=8.x-1.0"></script>
+  <script src="/themes/adaptivetheme/at_core/scripts/min/at.responsiveMenus.min.js?v=8.x-1.0"></script>
+  <script src="/themes/adaptivetheme/at_core/scripts/min/at.orientationChangeReload.min.js?v=8.x-1.0"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fontfaceobserver/2.0.8/fontfaceobserver.js"></script>
+  <script src="/themes/pixture_reloaded/scripts/fontfaceobserver-check.js?v=8.x-1.0"></script>
+  <script src="/themes/adaptivetheme/at_core/scripts/min/at.breakpoints.min.js?v=8.x-1.0"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
+  <script src="/themes/adaptivetheme/at_core/scripts/min/at.fastclickInitialize.min.js?v=8.x-1.0"></script>
+  <script src="/libraries/codesnippet/lib/highlight/highlight.pack.js"></script>
+  <script src="/modules/codesnippet/js/codesnippet.js"></script>
+
+  </body>
+
+<!-- Mirrored from biotronika.pl/eap-therapies?title=&page=21 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Jan 2021 10:28:09 GMT -->
+</html>

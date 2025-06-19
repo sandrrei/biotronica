@@ -1,0 +1,29 @@
+# Dependências do Node.js
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Dados gerados por execução
+html/sessions/
+html/*.php
+*.log
+*.zip
+*.tar
+*.sqlite
+*.db
+
+# Containers, volumes e imagens específicas
+node-backend-*/
+docker-volume/
+
+# Arquivos sensíveis
+.env
+.env.*
+
+# IDEs e configs locais
+.vscode/
+*.swp
+*~
+
+# Arquivos específicos a ignorar (opcional)
+archivarix.cms.php

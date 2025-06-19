@@ -1,0 +1,32 @@
+
+document.addEventListener('DOMContentLoaded', function () {
+  // 1. Load the menu
+  fetch('/core/modules/files/menu_en.html')
+    .then(response => {
+      if (!response.ok) throw new Error('HTTP error ' + response.status);
+      return response.text();
+    })
+    .then(data => {
+      const menu = document.getElementById('menu-placeholder');
+      if (menu) menu.innerHTML = data;
+      else console.warn('Menu placeholder not found in DOM.');
+    })
+    .catch(error => console.error('Menu load error:', error));
+
+  // 2. Language switcher logic
+  const currentPath = window.location.pathname;
+
+  let cleanPath = currentPath;
+  if (cleanPath.startsWith('/pl/')) {
+    cleanPath = cleanPath.substring(3); // remove "/pl"
+  }
+
+  const hrefEN = cleanPath || '/';
+  const hrefPL = '/pl' + cleanPath;
+
+  const linkEN = document.getElementById('switch-to-en');
+  const linkPL = document.getElementById('switch-to-pl');
+
+  if (linkEN) linkEN.href = hrefEN;
+  if (linkPL) linkPL.href = hrefPL;
+});

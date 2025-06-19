@@ -1,0 +1,11 @@
+node_modules
+.env
+code-server-data
+*.log
+.DS_Store
+sessions
+dist
+.git
+.gitignore
+Dockerfile
+docker-compose.override.yml

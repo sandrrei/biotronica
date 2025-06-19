@@ -1,0 +1,15 @@
+document.addEventListener('DOMContentLoaded', function () {
+  fetch('/core/modules/files/menu_en.html')
+    .then(r => {
+      console.log('Menu fetch status →', r.status);   // ①
+      return r.text();
+    })
+    .then(data => {
+      console.log('Menu HTML length →', data.length);  // ②
+      const menu = document.getElementById('menu-placeholder');
+      console.log('Placeholder element →', menu);      // ③
+      if (menu) menu.innerHTML = data;
+      else console.warn('menu-placeholder NOT found when script ran');
+    })
+    .catch(err => console.error('Menu load error:', err));
+});

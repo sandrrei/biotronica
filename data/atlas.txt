@@ -1,0 +1,806 @@
+[
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/BL40 BL57 BL58 BL60.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "BL40 BL57 BL58 BL60 BL-40 BL-57 BL-58 BL-60"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/BL58.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "BL58 BL-58"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/BL64 BL65 BL66_0.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "BL64 BL65 BL66 BL-64 BL-65 BL-66"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/BL67 GB44 ST45.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "BL67 GB44 ST45 BL-67 GB-44 ST-45"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/DU-20 BL-6_0.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "DU-20 BL-6 DU20 BL6"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/GB20 DU16 BL10 DU15 DU14_1.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "GB20 DU16 BL10 DU15 DU14 GB-20 DU-16 BL-10 DU-15 DU-14"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/GB BL_0.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "GB33 BL34 GB35 GB36 GB37 GB38 GB39 GB40 GB41 GB42 GB43 GB44 BL40 BL55 BL56 BL57 BL58 BL59 BL60 GB-33 BL-34 GB-35 GB-36 GB-37 GB-38 GB-39 GB-40 GB-41 GB-42 GB-43 GB-44 BL-40 BL-55 BL-56 BL-57 BL-58 BL-59 BL-60"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/GB BL_0.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "GB BL"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/GB ST TB DU REN EX_2.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "GB ST TB DU REN EX"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/GB34 GB37 GB39.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "GB34 GB37 GB39 GB-34 GB-37 GB-39"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/GB34 GB37.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "GB34 GB-34 GB37 GB-37"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/GB34.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "GB34 GB-34"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/GB37.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "GB37 GB-37"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/GB38.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "GB38 GB-38"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/GB40_0.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "GB40 GB-40"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/GB-40.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "GB40 GB-40"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/GB43_0.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "GB43 GB-43"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/HE-5 HE-7.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "HT5 HT-5 HT7 HT-7"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/HE-9 HE-8 HE-7_0.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "HT-9 HT-8 HT-7 HT9 HT8 HT7"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/KID1.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "KD1 KD-1"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/KID-4.jpg"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "KD3 KD-3 KD4 KD-4 KD5 KD-5"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/KID3 KID7.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "KD3 KD-3 KD7 KD-7"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LI-2.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LI2 LI-2"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LI-20.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LI20 LI-20"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LI11.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LI11 LI-11"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LI2.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LI2 LI-2"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LI4.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LI4 LI-4"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LI5 LI6 LI11.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LI5 LI6 LI11 LI-5 LI-6 LI-11"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LI5 LU7.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LI5 LU7 LI-5 LU-7"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LIV-5.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LV5 LV-5"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LIV1 LIV2 LIV3 LIV4.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LV1 LV2 LV3 LV4 LV-1 LV-2 LV-3 LV-4"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LIV2 LIV3.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LV2 LV3 LV-2 LV-3"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LIV2.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LV2 LV-2"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LIV3.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LV3 LV-3"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LIV5 KID3 KID7 KID 9.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LV-5 KD-3 KD-7 KD9 LV5 KD3 KD7 KD9"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LIV5.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LV-5 LV5"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LIV8 LIV9.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LV-8 LV8 LV-9 LV9"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LIV8.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LV-8 LV8"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LU-5 HE-3 P-3.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LU-5 HT-3 PC-3 LU5 HT3 PC3"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LU-7 LU-8 LU-9 LU-10 LU-11.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LU-7 LU-8 LU-9 LU-10 LU-11 LU7 LU8 LU9 LU10 LU11"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LU-7.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LI-5 LU-7 LI-5 LU-7"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/LU-9 P-7 HE-7.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LU-9 PC-7 HT-7 LU9 PC7 HT7"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/REN-6 REN-8 KID-15 ST-28 GB27 SP-12 ST-30.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "RN-6 RN-8 KD-15 ST-28 GB-27 SP-12 ST-30 RN6 RN8 KD15 ST28 GB27 SP12 ST30"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/SI LI TB EX-UE-8 EX-UE-7 EX-UE-9.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LI3 LI4 LI5 TB2 TB3 TB4 TB5 SI2 SI3 SI4 SI5 SI6 EXUE7 EXUE8 EXUE9 LI-3 LI-4 LI-5 TB-2 TB-3 TB-4 TB-5 SI-2 SI-3 SI-4 SI-5 SI-6 EXUE-7 EXUE-8 EXUE-9"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/SI TB LI_1.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "SI6 SI7 SI8 TB4 TB5 TB6 TB7 TB8 TB9 TB10 LI5 LI6 LI7 LI8 LI9 LI10 LI11 LI12 SI-6 SI-7 SI-8 TB-4 TB-5 TB-6 TB-7 TB-8 TB-9 TB-10 LI-5 LI-6 LI-7 LI-8 LI-9 LI-10 LI-11 LI-12"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/SI1 SI2 SI3 SI4 SI5 SI6.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "SI1 SI2 SI3 SI4 SI5 SI6 SI-1 SI-2 SI-3 SI-4 SI-5 SI-6"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/SI2 SI3.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "SI2 SI3 SI-2 SI-3"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/SI5 SI7 SI8.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "SI5 SI7 SI8 SI-5 SI-7 SI-8"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/SP KID_1.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "SP1 SP2 SP3 SP4 SP5 SP6 KD2 KD3 KD4 KD5 KD6 KD7 KD8 LV4 SP-1 SP-2 SP-3 SP-4 SP-5 SP-6 KD-2 KD-3 KD-4 KD-5 KD-6 KD-7 KD-8 LV-4"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/SP LIV ST GB BL.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "BL64 BL65 BL66 BL67 GB41 GB42 GB43 GB44 ST42 ST43 ST44 ST45 LV1 LV2 LV3 SP1 SP2 SP3 SP4 EXLE10 BL-64 BL-65 BL-66 BL-67 GB-41 GB-42 GB-43 GB-44 ST-42 ST-43 ST-44 ST-45 LV-1 LV-2 LV-3 SP-1 SP-2 SP-3 SP-4 EXLE-10"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/SP-6.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "SP6 SP-6"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/SP.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "SP5 SP6 SP7 SP8 SP9 SP10 SP10A SP-5 SP-6 SP-7 SP-8 SP-9 SP-10 SP-10A"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/SP1.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "SP1 SP-1"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/SP2 SP3 SP4.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "SP2 SP3 SP4 SP-2 SP-3 SP-4"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/SP4 SP3.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "SP3 SP4 SP-3 SP-4"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/SP5 KID6 KID3 KID4 KID7_0.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "SP5 KD6 KD3 KD4 KD7 SP-5 KD-6 KD-3 KD-4 KD-7"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/ST GB EX-LIV SP_0.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "GB34 ST33 ST34 ST35 ST36 ST37 ST38 ST39 ST40 LV8 LV9 EXLV2 EXLV3 EXLV4 GB-34 ST-33 ST-34 ST-35 ST-36 ST-37 ST-38 ST-39 ST-40 LV-8 LV-9 EXLV-2 EXLV-3 EXLV-4"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/ST35 ST38 ST40.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "ST35 ST38 ST40 ST3-5 ST-38 ST-40"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/ST41 LIV4_0.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "ST41 LV4 ST-41 LV-4"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/ST41 ST42.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "ST41 ST42 ST-41 ST-42"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/ST41.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "ST41 ST-41"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/TB10 LI11_0.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "TB10 LI11 TB-10 LI-11"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/TB10 SI8_0.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "TB10 SI8 TB-10 SI-8"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/TB3.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "TB3 TB-3"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/TB4 TB5.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "TB4 TB5 TB-4 TB-5"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/TB4.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "TB4 TB-4 EXUE3 EXUE-3"
+      }
+    ]
+  },
+  {
+    "field_picture": [
+      {
+        "url": "http://biotronica.duckdns.org/sites/default/files/atlas_pictures/lu-5 P-3 HE-3_1.png"
+      }
+    ],
+    "field_synonyms": [
+      {
+        "value": "LU5 HT3 PC3"
+      }
+    ]
+  }
+]
