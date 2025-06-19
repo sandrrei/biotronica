@@ -1,0 +1,16 @@
+document.addEventListener('DOMContentLoaded', function () {
+  fetch('/core/modules/files/menu_en.html')
+    .then(response => {
+      if (!response.ok) throw new Error('Failed to load menu: ' + response.status);
+      return response.text();
+    })
+    .then(data => {
+      const menu = document.getElementById('menu-placeholder');
+      if (menu) {
+        menu.insertAdjacentHTML('beforeend', data);
+      } else {
+        console.warn('Menu placeholder not found.');
+      }
+    })
+    .catch(error => console.error('Menu load error:', error));
+});

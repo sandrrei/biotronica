@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>404 – Point Not Found</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background: #fdfaf6;
+      font-family: 'Segoe UI', sans-serif;
+      color: #444;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 60px;
+      color: #b22222;
+    }
+    p {
+      font-size: 20px;
+    }
+    .needle {
+      margin: 30px auto;
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      border: 6px dashed #b22222;
+      position: relative;
+      animation: pulse 1.5s infinite;
+    }
+    @keyframes pulse {
+      0% { transform: scale(1); opacity: 0.6; }
+      50% { transform: scale(1.1); opacity: 1; }
+      100% { transform: scale(1); opacity: 0.6; }
+    }
+    .home-button {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 12px 24px;
+      font-size: 18px;
+      background-color: #b22222;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+    }
+    .home-button:hover {
+      background-color: #8b1a1a;
+    }
+  </style>
+</head>
+<body>
+  <div class="needle"></div>
+  <h1>404 – Point Not Found</h1>
+  <p>Like a misplaced meridian, this page doesn’t seem to exist.</p>
+  <p>Return to balance and <a href="/" class="home-button">go home</a>.</p>
+</body>
+</html>

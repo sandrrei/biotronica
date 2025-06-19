@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html class="no-js adaptivetheme" dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+ <head>
+<!-- head-include-all.php -->
+<!--<html lang="pl" dir="ltr" ...>-->
+
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/head-include.php'; ?>
+  <title>EAP therapies | biotronics.eu  </title>
+   
+   
+  <!-- Link to external CSS files --> 
+  <link href="/themes/pixture_reloaded/images/touch-icons/Icon-76-2x.png" rel="apple-touch-icon" sizes="152x152">
+  <link href="/themes/pixture_reloaded/images/touch-icons/Icon-60-2x.png" rel="apple-touch-icon" sizes="120x120">
+  <link href="/themes/pixture_reloaded/images/touch-icons/Icon-76.png" rel="apple-touch-icon" sizes="76x76">
+  <link href="/themes/pixture_reloaded/images/touch-icons/Icon-60.png" rel="apple-touch-icon" sizes="60x60">
+  <link href="/themes/pixture_reloaded/images/touch-icons/Icon-60.png" rel="shortcut icon">
+  <link href="/sites/default/files/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <link href="/rss.xml" rel="alternate" title="" type="application/rss+xml">
+  <link href="//cdnjs.cloudflare.com" rel="dns-prefetch">
+  <link href="/core/themes/stable/css/system/components/ajax-progress.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/align.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/autocomplete-loading.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/fieldgroup.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/container-inline.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/clearfix.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/details.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/hidden.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/item-list.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/js.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/nowrap.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/position-container.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/progress.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/reset-appearance.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/resize.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/sticky-header.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/system-status-counter.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/system-status-report-counters.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/system-status-report-general-info.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/tabledrag.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/system/components/tree-child.module.css" rel="stylesheet">
+  <link href="/modules/ckeditor_spoiler/css/spoiler.css" rel="stylesheet">
+  <link href="/modules/poll/css/poll.base.css" rel="stylesheet">
+  <link href="/modules/poll/css/poll.theme.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/views/views.module.css" rel="stylesheet">
+  <link href="/core/themes/stable/css/filter/filter.caption.css" rel="stylesheet">
+  <link href="/modules/anchor_link/css/anchor_link.css" rel="stylesheet">
+  <link href="/libraries/codesnippet/lib/highlight/styles/github.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/base.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/generated/pixture_reloaded.layout.page.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/comments.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/contact-forms.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/forum.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/language.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/search.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/taxonomy.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/responsive-tables.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/responsive-menus--slidedown.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/responsive-menus--dropmenu.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/components/responsive-menus.css" rel="stylesheet">
+  <link href="/sites/default/files/color/pixture_reloaded-409d2dc2/color.css" rel="stylesheet">
+  <link href="/themes/pixture_reloaded/styles/css/custom.css" rel="stylesheet">
+
+  </head>
+<body role="document" class="user-logged-out path-frontpage site-name--biotronicseu theme-name--pixture-reloaded">
+  <a href="#block-pixture-reloaded-content" class="visually-hidden focusable skip-link">Skip to main content</a>
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <div class="page">
+      <header class="l-pr page__row pr-header regions-multiple" role="banner" id="masthead">
+        <div class="l-rw regions container pr-header__rw arc--2 hr--1-2" data-at-regions="">
+          <div data-at-region="region-header-first" class="l-r region pr-header__header-first">
+            <div id="block-pixture-reloaded-branding" class="block block-branding block-system block-system-branding-block">
+              <div class="block__inner block-branding__inner">
+                <div class="block__content block-branding__content site-branding">
+                  <a href="/" title="Home" itemprop="url" rel="home" class="site-branding__logo-link"><img src="/sites/default/files/logo72x72.png" alt="Home" itemprop="logo" class="site-branding__logo-img"></a><span class="site-branding__text"><strong class="site-branding__name"><a href="/" title="Home" itemprop="url" rel="home" class="site-branding__name-link">ryodo.duckdns.org</a></strong><em class="site-branding__slogan">The best things are for free: mother Earth, Linux, nature, love...</em></span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div data-at-region="region-header-second" class="l-r region pr-header__header-second">
+            <div id="block-langaugeselectorwithgraphics-new" class="block block-config-provider--block-content block-plugin-id--block-contentaab4d1b7-caab-44e9-b398-a93cec037559">
+              <div class="block__inner">
+                <div class="block__content">
+                  <div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single">
+                    <div class="field__items">
+                      <div class="field__item">
+                        <p><a href="/" id="" rel="" target="" title="English"><img alt="English" data-entity-type="file" data-entity-uuid="b1357cf3-c69e-4896-9d0f-b987afd6a4c5" height="61" src="/sites/default/files/inline-images/English256.png" width="61"></a><a href="/pl/welcome" id="" rel="" target="" title="Polish"><img alt="Polish" data-entity-type="file" data-entity-uuid="0f3e65eb-b3e8-4463-91a1-ce0ca2db5c2a" height="61" src="/sites/default/files/inline-images/Polish256.png" width="61"></a></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <div class="l-pr page__row pr-navbar" id="navbar">
+        <div class="l-rw regions container pr-navbar__rw arc--1 hr--1" data-at-regions="">
+          <div data-at-region="region-navbar" class="l-r region pr-navbar__navbar">
+            <svg style="display:none;">
+            <symbol id="rm-toggle__icon--open" viewbox="0 0 1792 1792" preserveaspectratio="xMinYMid meet">
+              <path class="rm-toggle__icon__path" d="M1664 1344v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45z"></path>
+            </symbol>
+            <symbol id="rm-toggle__icon--close" viewbox="0 0 1792 1792" preserveaspectratio="xMinYMid meet">
+              <path class="rm-toggle__icon__path" d="M1490 1322q0 40-28 68l-136 136q-28 28-68 28t-68-28l-294-294-294 294q-28 28-68 28t-68-28l-136-136q-28-28-28-68t28-68l294-294-294-294q-28-28-28-68t28-68l136-136q28-28 68-28t68 28l294 294 294-294q28-28 68-28t68 28l136 136q28 28 28 68t-28 68l-294 294 294 294q28 28 28 68z"></path>
+            </symbol></svg>
+            <nav role="navigation" aria-labelledby="block-pixture-reloaded-main-menu-menu" id="block-pixture-reloaded-main-menu" class="rm-block rm-config-provider--system rm-plugin-id--system-menu-block-main js-hide">
+              <div class="rm-block__inner">
+                <div class="rm-toggle">
+                  <button href="#rm-content" class="rm-toggle__link un-button" role='button' aria-controls="rm-content" aria-expanded="false"><svg class="rm-toggle__icon">
+                  <use id="rm-toggle__icon--use" xlink:href="#rm-toggle__icon--open"></use></svg> <span class="rm-toggle__label" id="block-pixture-reloaded-main-menu-menu">Menu</span></button>
+                </div>
+                <div class="rm-block__content" id="rm-content">
+                  <ul class="menu odd menu-level-1 menu-name--main">
+                    <li class="menu__item menu__item-title--therapies" id="mlid-therapies"><span class="menu__link--wrapper"><a href="/therapies" title="Physiotherapy, Bioresonance and TCM therapies" class="menu__link" data-drupal-link-system-path="therapies">Therapies</a></span></li>
+                    <li class="menu__item is-parent menu__item--expanded menu__item-title--freepemf" id="mlid-freepemf">
+                      <span class="menu__link--wrapper is-parent__wrapper"><a href="/what-is-a-freePEMF" class="menu__link">freePEMF</a></span>
+                      <ul class="menu is-child even menu-level-2">
+                        <li class="menu__item menu__item-title--what-is-a-freepemf" id="mlid-what-is-a-freepemf"><span class="menu__link--wrapper"><a href="/what-is-a-freePEMF" class="menu__link" data-drupal-link-system-path="node/1">What is a freePEMF</a></span></li>
+                        <li class="menu__item menu__item-title--user-manual" id="mlid-user-manual"><span class="menu__link--wrapper"><a href="/freePEMF-user-manual" class="menu__link" data-drupal-link-system-path="node/3">User manual</a></span></li>
+                        <li class="menu__item menu__item-title--diy-freepemf-duo" id="mlid-diy-freepemf-duo"><span class="menu__link--wrapper"><a href="/diy-freePEMF-duo" class="menu__link" data-drupal-link-system-path="node/173">DIY freePEMF duo</a></span></li>
+                        <li class="menu__item menu__item-title--diy-freepemf" id="mlid-diy-freepemf"><span class="menu__link--wrapper"><a href="/montaz-free-PEMF-nowy-typ" class="menu__link" data-drupal-link-system-path="node/77">DIY freePEMF</a></span></li>
+                        <li class="menu__item menu__item-title--mat-making" id="mlid-mat-making"><span class="menu__link--wrapper"><a href="/mat-making" class="menu__link" data-drupal-link-system-path="node/29">Mat making</a></span></li>
+                        <li class="menu__item menu__item-title--quadro-mat" id="mlid-quadro-mat"><span class="menu__link--wrapper"><a href="/node/174" class="menu__link" data-drupal-link-system-path="node/174">Quadro mat</a></span></li>
+                        <li class="menu__item menu__item-title--software" id="mlid-software"><span class="menu__link--wrapper"><a href="/firmware-upgrade" class="menu__link" data-drupal-link-system-path="node/4">Software</a></span></li>
+                        <li class="menu__item menu__item-title--coil-assembly" id="mlid-coil-assembly"><span class="menu__link--wrapper"><a href="/coil-assembly" class="menu__link" data-drupal-link-system-path="node/5">Coil assembly</a></span></li>
+                        <li class="menu__item menu__item-title--coil-choosing" id="mlid-coil-choosing"><span class="menu__link--wrapper"><a href="/node/159" class="menu__link" data-drupal-link-system-path="node/159">Coil choosing</a></span></li>
+                        <li class="menu__item menu__item-title--troubleshooting" id="mlid-troubleshooting"><span class="menu__link--wrapper"><a href="/ratuj-free-PEMF" class="menu__link" data-drupal-link-system-path="node/43">Troubleshooting</a></span></li>
+                        <li class="menu__item menu__item-title--brain-waves-stimulation" id="mlid-brain-waves-stimulation"><span class="menu__link--wrapper"><a href="/stymulacja-fal-mozgowych" class="menu__link" data-drupal-link-system-path="node/23">Brain waves stimulation</a></span></li>
+                        <li class="menu__item menu__item-title--pcb-board-forum" id="mlid-pcb-board-forum"><span class="menu__link--wrapper"><a href="/node/92" class="menu__link" data-drupal-link-system-path="node/92">PCB board (forum)</a></span></li>
+                        <li class="menu__item menu__item-title--water-structure-making" id="mlid-water-structure-making"><span class="menu__link--wrapper"><a href="/strukturyzator-wody" class="menu__link" data-drupal-link-system-path="node/37">Water structure making</a></span></li>
+                        <li class="menu__item menu__item-title--sleeping-freepemf" id="mlid-sleeping-freepemf"><span class="menu__link--wrapper"><a href="/sleeping-freePEMF" class="menu__link" data-drupal-link-system-path="node/207">Sleeping freePEMF</a></span></li>
+                      </ul>
+                    </li>
+                    <li class="menu__item is-parent menu__item--expanded menu__item-title--multizap" id="mlid-multizap">
+                      <span class="menu__link--wrapper is-parent__wrapper"><a href="/multiZAP-manual" class="menu__link" data-drupal-link-system-path="node/131">multiZAP</a></span>
+                      <ul class="menu is-child even menu-level-2">
+                        <li class="menu__item menu__item-title--multizap-manual" id="mlid-multizap-manual"><span class="menu__link--wrapper"><a href="/multiZAP-manual" class="menu__link" data-drupal-link-system-path="node/131">multiZAP manual</a></span></li>
+                        <li class="menu__item menu__item-title--frequency-list" id="mlid-frequency-list"><span class="menu__link--wrapper"><a href="/frequency-list" class="menu__link" data-drupal-link-system-path="node/35">Frequency list</a></span></li>
+                        <li class="menu__item menu__item-title--diy-multizap" id="mlid-diy-multizap"><span class="menu__link--wrapper"><a href="/multiZAP-montaz" class="menu__link" data-drupal-link-system-path="node/91">DIY multiZAP</a></span></li>
+                        <li class="menu__item menu__item-title--electrodes" id="mlid-electrodes"><span class="menu__link--wrapper"><a href="/elektrody" class="menu__link" data-drupal-link-system-path="node/12">Electrodes</a></span></li>
+                        <li class="menu__item menu__item-title--mat-making" id="mlid-mat-making"><span class="menu__link--wrapper"><a href="/mat-making" class="menu__link" data-drupal-link-system-path="node/29">Mat making</a></span></li>
+                        <li class="menu__item menu__item-title--software" id="mlid-software"><span class="menu__link--wrapper"><a href="/firmware-upgrade" class="menu__link" data-drupal-link-system-path="node/4">Software</a></span></li>
+                        <li class="menu__item menu__item-title--remotezap-android" id="mlid-remotezap-android"><span class="menu__link--wrapper"><a href="/node/1676" class="menu__link" data-drupal-link-system-path="node/1676">RemoteZap Android</a></span></li>
+                      </ul>
+                    </li>
+                    <li class="menu__item is-parent menu__item--expanded menu__item-title--zapper-plus" id="mlid-zapper-plus">
+                      <span class="menu__link--wrapper is-parent__wrapper"><a href="/czym-jest-zapper-plus" class="menu__link">zapper-plus</a></span>
+                      <ul class="menu is-child even menu-level-2">
+                        <li class="menu__item menu__item-title--what-is-a-zapper-plus" id="mlid-what-is-a-zapper-plus"><span class="menu__link--wrapper"><a href="/node/7" class="menu__link" data-drupal-link-system-path="node/7">What is a zapper-plus</a></span></li>
+                        <li class="menu__item menu__item-title--diy-zappera-plus" id="mlid-diy-zappera-plus"><span class="menu__link--wrapper"><a href="/node/10" class="menu__link" data-drupal-link-system-path="node/10">DIY zappera-plus</a></span></li>
+                        <li class="menu__item menu__item-title--electrodes" id="mlid-electrodes"><span class="menu__link--wrapper"><a href="/elektrody" class="menu__link" data-drupal-link-system-path="node/12">Electrodes</a></span></li>
+                        <li class="menu__item menu__item-title--colloidal-silver" id="mlid-colloidal-silver"><span class="menu__link--wrapper"><a href="/node/36" class="menu__link" data-drupal-link-system-path="node/36">Colloidal Silver</a></span></li>
+                        <li class="menu__item menu__item-title--ionzapper" id="mlid-ionzapper"><span class="menu__link--wrapper"><a href="/node/238" class="menu__link" data-drupal-link-system-path="node/238">ionZAPPER</a></span></li>
+                      </ul>
+                    </li>
+                    <li class="menu__item menu__item--collapsed menu__item-title--zenon" id="mlid-zenon"><span class="menu__link--wrapper"><a href="/zenon1" class="menu__link" data-drupal-link-system-path="node/99">zenON</a></span></li>
+                    <li class="menu__item is-parent menu__item--expanded menu__item-title--qiwellness" id="mlid-qiwellness">
+                      <span class="menu__link--wrapper is-parent__wrapper"><a href="/what-is-qiWELLNESS" title="Urządzenie do TCM" class="menu__link" data-drupal-link-system-path="node/200">qiWELLNESS</a></span>
+                      <ul class="menu is-child even menu-level-2">
+                        <li class="menu__item menu__item-title--what-is-qiwellness" id="mlid-what-is-qiwellness"><span class="menu__link--wrapper"><a href="/what-is-qiWELLNESS" class="menu__link" data-drupal-link-system-path="node/200">What is qiWELLNESS</a></span></li>
+                        <li class="menu__item menu__item-title--acupen-biotronika" id="mlid-acupen-biotronika"><span class="menu__link--wrapper"><a href="/acupen" class="menu__link" data-drupal-link-system-path="node/210">Acupen biotronika</a></span></li>
+                        <li class="menu__item menu__item-title--qiwellness-assembly" id="mlid-qiwellness-assembly"><span class="menu__link--wrapper"><a href="/diy-qiwellness" class="menu__link" data-drupal-link-system-path="node/205">qiWELLNESS assembly</a></span></li>
+                        <li class="menu__item menu__item-title--electrodes" id="mlid-electrodes"><span class="menu__link--wrapper"><a href="/electrodes" class="menu__link" data-drupal-link-system-path="node/253">Electrodes</a></span></li>
+                        <li class="menu__item menu__item-title--qiwellness-mobile" id="mlid-qiwellness-mobile"><span class="menu__link--wrapper"><a href="/qiWELLNESS-mobile" title="qiWELLNESS mobile" class="menu__link" data-drupal-link-system-path="node/299">qiWELLNESS mobile</a></span></li>
+                        <li class="menu__item menu__item-title--iontophoresis-substances" id="mlid-iontophoresis-substances"><span class="menu__link--wrapper"><a href="/iontophoresis-substances" class="menu__link" data-drupal-link-system-path="iontophoresis-substances">Iontophoresis substances</a></span></li>
+                        <li class="menu__item menu__item-title--eap-therapies" id="mlid-eap-therapies"><span class="menu__link--wrapper"><a href="/eap-therapies" class="menu__link" data-drupal-link-system-path="eap-therapies">EAP therapies</a></span></li>
+                        <li class="menu__item menu__item-title--atlas" id="mlid-atlas"><span class="menu__link--wrapper"><a href="/atlas" title="Acupuncture points atlas" class="menu__link" data-drupal-link-system-path="atlas">Atlas</a></span></li>
+                        <li class="menu__item menu__item-title--eav-diagnostic-paths" id="mlid-eav-diagnostic-paths"><span class="menu__link--wrapper"><a href="/eav-paths" class="menu__link" data-drupal-link-system-path="eav-paths">EAV diagnostic paths</a></span></li>
+                      </ul>
+                    </li>
+                    <li class="menu__item is-parent menu__item--expanded menu__item-title--biozap" id="mlid-biozap">
+                      <span class="menu__link--wrapper is-parent__wrapper"><a href="/bioZAP" class="menu__link" data-drupal-link-system-path="node/9">bioZAP</a></span>
+                      <ul class="menu is-child even menu-level-2">
+                        <li class="menu__item menu__item-title--firmware-upload" id="mlid-firmware-upload"><span class="menu__link--wrapper"><a href="/firmware-upgrade" class="menu__link" data-drupal-link-system-path="node/4">Firmware upload</a></span></li>
+                        <li class="menu__item menu__item-title--biozap-language" id="mlid-biozap-language"><span class="menu__link--wrapper"><a href="/bioZAP" class="menu__link" data-drupal-link-system-path="node/9">bioZAP language</a></span></li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <div class="l-pr page__row pr-highlighted" id="highlighted">
+        <div class="l-rw regions container pr-highlighted__rw arc--1 hr--1" data-at-regions="">
+          <div data-at-region="region-highlighted" class="l-r region pr-highlighted__highlighted"></div>
+        </div>
+      </div>
+      <div class="l-pr page__row pr-main regions-multiple" id="main-content">
+        <div class="l-rw regions container pr-main__rw arc--2 hr--1-3" data-at-regions="">
+          <div data-at-region="region-content" class="l-r region pr-main__content">
+            <main id="block-pixture-reloaded-content" class="block block-main-content" role="main">
+              <div class="views-element-container">
+                <div class="view view-frontpage view-id-frontpage view-display-id-page_1 js-view-dom-id-275b5cfbf9b0874603bdaf7c55e0866ce2c7e3079672cadb9b812654ccd80a00">
+                  <div class="view-content">
+                    <div class="views-row">
+                      <article data-history-node-id="221" role="article" about="http://ryodo.duckdns.org/welcome" typeof="schema:Article" class="node node--id-221 node--type-article node--promoted node--sticky node--view-mode-teaser">
+                        <div class="node__container">
+                          <header class="node__header">
+                            <h2 class="node__title"><a href="/welcome" class="node__title-link" rel="bookmark"><span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden">Here for the first time - Basics about the portal</span></a></h2>
+                          </header>
+                          <div class="node__content">
+                            <div class="field field-node--field-image field-formatter-image field-name-field-image field-type-image field-label-hidden has-single">
+                              <figure class="field-type-image__figure image-count-1 align-right">
+                                <div class="field-type-image__item">
+                                  <a href="/welcome"><img property="schema:image" src="/sites/default/files/styles/medium/public/2019-06/bio3.jpg" width="220" height="107" alt="Wielka trójka" typeof="foaf:Image" class="image-style-medium"></a>
+                                </div>
+                              </figure>
+                            </div>
+                            <div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single">
+                              <div class="field__items">
+                                <div property="schema:text" class="field__item">
+                                  <p class="text-align-justify">Aim of this&nbsp;portal is to widen&nbsp;knowledge regarding information and energy medicine as well as spiritual development. Everyone is able&nbsp;to built devices&nbsp;presented on this portal for relatively small amount of money and check for themselves weather they are working or not. Open source material includes free information how to construct the devices,&nbsp;free software and how they&nbsp;work. Everyone has an access to their full documentation. This enables the portal&nbsp;to continually to improve proposed solutions. Therefore devices&nbsp;become more effective. Users are encouraged to share their experiences with other users regarding presented technologies and therapies. majority of users are amateurs, however some professionals use them too. Currently we are collecting studies showing how this type of technology has been used to improve health and quality of life of both humans and animals.</p>
+                                  <p class="text-align-justify">Currently the following constructions are available:</p>
+                                  <ul>
+                                    <li><strong>freePEMF</strong> - device used for magneto-therapy and magneto-stimulation</li>
+                                    <li><strong>qiWELLNESS</strong> - Complex device enabling diagnosis and therapy according to Traditional Chinese Medicine(TCM)</li>
+                                    <li><strong>multiZAP</strong> -&nbsp; zapper type of device, can be used in conjunctions with coils, mats, electrodes and bio feedback devices:</li>
+                                  </ul>
+                                  <p>For more information please find <strong>What is...</strong> section included within the project menu.</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="node__links">
+                              <ul class="links inline">
+                                <li class="node-readmore">
+                                  <a href="/welcome" rel="tag" title="Here for the first time - Basics about the portal" hreflang="en">Read more <span class="visually-hidden">about Here for the first time - Basics about the portal</span></a>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </article>
+                    </div>
+                    <div class="views-row">
+                      <article data-history-node-id="1663" role="article" about="http://ryodo.duckdns.org/node/1663" typeof="schema:Discussion" class="node node--id-1663 node--type-forum node--promoted node--sticky node--view-mode-teaser">
+                        <div class="node__container">
+                          <header class="node__header--has-meta node__header">
+                            <h2 class="node__title"><a href="/node/1663" class="node__title-link" rel="bookmark"><span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden">New bioresonance therapies & new downloader</span></a></h2>
+                            <div class="node__meta node__meta--has-author-picture">
+                              <div class="field field-user--user-picture field-formatter-image field-name-user-picture field-type-image field-label-hidden has-single">
+                                <figure class="field-type-image__figure image-count-1 align-none">
+                                  <div class="field-type-image__item">
+                                    <a href="http://ryodo.duckdns.org/user/30"><img src="/sites/default/files/styles/thumbnail/public/pictures/2017-06/Krzysiek.jpg" width="70" height="85" alt="Profile picture for user Krzysiek" typeof="foaf:Image" class="image-style-thumbnail"></a>
+                                  </div>
+                                </figure>
+                              </div>
+                              <div class="node__submitted">
+                                Submitted by <span rel="schema:author" class="field field-name-uid field-formatter-author field-type-entity-reference field-label-hidden"><span lang="" about="http://ryodo.duckdns.org/user/30" typeof="schema:Person" property="schema:name" datatype="">Krzysiek</span></span> on <span property="schema:dateCreated" content="2020-06-07T13:38:43+00:00" class="field field-name-created field-formatter-timestamp field-type-created field-label-hidden">2020-06-07 15:38</span>
+                              </div>
+                            </div>
+                          </header>
+                          <div class="node__content">
+                            <div class="field field-node-taxonomy-forums field-entity-reference-type-taxonomy-term field-formatter-entity-reference-label field-name-taxonomy-forums field-type-entity-reference field-label-above">
+                              <h3 class="field__label">Fora</h3>
+                              <div class="field__items">
+                                <div class="field__item field__item--freepemf">
+                                  <span class="field__item-wrapper"><a href="http://ryodo.duckdns.org/taxonomy/term/7" hreflang="pl">freePEMF</a></span>
+                                </div>
+                              </div>
+                            </div>
+                            <div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single">
+                              <div class="field__items">
+                                <div property="schema:text" class="field__item">
+                                  <p>Let's start with the fact that now there is a new downloader running on <strong>Windows</strong>, <strong>Linux</strong> and <strong>MAC OS</strong>.</p>
+                                  <p><img alt="image" data-entity-type="file" data-entity-uuid="7119c024-a4f0-4edc-9a85-ef8545ac0b4f" height="446" src="/sites/default/files/inline-images/image_200.png" width="691"></p>
+                                  <p>The downloader has the implemented new feature&nbsp;of searching the therapy database saved on ryodo.duckdns.org portal.</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="node__links">
+                              <ul class="links inline">
+                                <li class="node-readmore">
+                                  <a href="/node/1663" rel="tag" title="New bioresonance therapies &amp; new downloader" hreflang="en">Read more <span class="visually-hidden">about New bioresonance therapies & new downloader</span></a>
+                                </li>
+                                <li class="comment-forbidden">
+                                  <a href="/user/login?destination=https%3A//ryodo.duckdns.org/node/1663%23comment-form">Log in</a> or <a href="/user/register?destination=https%3A//ryodo.duckdns.org/node/1663%23comment-form">register</a> to post comments
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </article>
+                    </div>
+                    <div class="views-row">
+                      <article data-history-node-id="299" role="article" about="http://ryodo.duckdns.org/qiWELLNESS-mobile" typeof="schema:Article" class="node node--id-299 node--type-article node--promoted node--sticky node--view-mode-teaser">
+                        <div class="node__container">
+                          <header class="node__header">
+                            <h2 class="node__title"><a href="/qiWELLNESS-mobile" class="node__title-link" rel="bookmark"><span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden">qiWELLNESS mobile</span></a></h2>
+                          </header>
+                          <div class="node__content">
+                            <div class="field field-node--field-image field-formatter-image field-name-field-image field-type-image field-label-hidden has-single">
+                              <figure class="field-type-image__figure image-count-1 align-right">
+                                <div class="field-type-image__item">
+                                  <a href="/qiWELLNESS-mobile"><img property="schema:image" src="/sites/default/files/styles/medium/public/2020-04/a.jpg" width="122" height="220" alt="mobile" typeof="foaf:Image" class="image-style-medium"></a>
+                                </div>
+                              </figure>
+                            </div>
+                            <div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single">
+                              <div class="field__items">
+                                <div property="schema:text" class="field__item">
+                                  <p class="text-align-justify">Most of the devices described on the biotronics portal have implemented&nbsp;bioZAP language.&nbsp;This allows them to be independently controlled from any computer, e.g. a smartphone.&nbsp;Without much of work, you can construct the therapies that you need for yourself, and control your qiWELLNESS device using the Android application.<br>
+                                  Of course, nothing prevents you to use a similar application on other computer platforms.</p>
+                                  <p class="text-align-justify">Step one: install the application available on your phone:</p>
+                                  <p><a href="https://play.google.com/store/apps/details?id=de.kai_morich.serial_usb_terminal" target="_blank"><strong>https://play.google.com/store/apps/details?id=de.kai_morich.serial_usb_terminal</strong></a></p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="node__links">
+                              <ul class="links inline">
+                                <li class="node-readmore">
+                                  <a href="/qiWELLNESS-mobile" rel="tag" title="qiWELLNESS mobile" hreflang="en">Read more <span class="visually-hidden">about qiWELLNESS mobile</span></a>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </article>
+                    </div>
+                    <div class="views-row">
+                      <article data-history-node-id="253" role="article" about="http://ryodo.duckdns.org/electrodes" typeof="schema:Article" class="node node--id-253 node--type-article node--promoted node--sticky node--view-mode-teaser">
+                        <div class="node__container">
+                          <header class="node__header">
+                            <h2 class="node__title"><a href="/electrodes" class="node__title-link" rel="bookmark"><span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden">qiWELLNESS electrodes</span></a></h2>
+                          </header>
+                          <div class="node__content">
+                            <div class="field field-node--field-image field-formatter-image field-name-field-image field-type-image field-label-hidden has-single">
+                              <figure class="field-type-image__figure image-count-1 align-right">
+                                <div class="field-type-image__item">
+                                  <a href="/electrodes"><img property="schema:image" src="/sites/default/files/styles/medium/public/2019-11/qiWELLNESS_pic.png" width="204" height="220" alt="qiWELLNESS electrodes" typeof="foaf:Image" class="image-style-medium"></a>
+                                </div>
+                              </figure>
+                            </div>
+                            <div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single">
+                              <div class="field__items">
+                                <div property="schema:text" class="field__item">
+                                  <p>On main screen electrodes from the right side:</p>
+                                  <ol>
+                                    <li>Ryodoraku</li>
+                                    <li>Pen electrode for: Voll's electroacupuncture (EAV), Vegatest and electropuncture stimulation of BAP<sup>1</sup></li>
+                                    <li>Hand auxiliary electrode.</li>
+                                  </ol>
+                                  <p>This article describes the construction of all electrodes.</p>
+                                  <p>All electrodes are made of brass<sup>2</sup>, which is the best choice in the electromodal methods. This metal mixture is safe for living organisms and least disturbs the signal during diagnosis. Brass is also corrosion resistant.</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="node__links">
+                              <ul class="links inline">
+                                <li class="node-readmore">
+                                  <a href="/electrodes" rel="tag" title="qiWELLNESS electrodes" hreflang="en">Read more <span class="visually-hidden">about qiWELLNESS electrodes</span></a>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </article>
+                    </div>
+                    <div class="views-row">
+                      <article data-history-node-id="207" role="article" about="http://ryodo.duckdns.org/sleeping-freePEMF" typeof="schema:Article" class="node node--id-207 node--type-article node--promoted node--sticky node--view-mode-teaser">
+                        <div class="node__container">
+                          <header class="node__header">
+                            <h2 class="node__title"><a href="/sleeping-freePEMF" class="node__title-link" rel="bookmark"><span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden">Sleeping freePEMF</span></a></h2>
+                          </header>
+                          <div class="node__content">
+                            <div class="field field-node--field-image field-formatter-image field-name-field-image field-type-image field-label-hidden has-single">
+                              <figure class="field-type-image__figure image-count-1 align-right">
+                                <div class="field-type-image__item">
+                                  <a href="/sleeping-freePEMF"><img property="schema:image" src="/sites/default/files/styles/medium/public/2019-07/blood.png" width="220" height="75" alt="Blood" typeof="foaf:Image" class="image-style-medium"></a>
+                                </div>
+                              </figure>
+                            </div>
+                            <div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single">
+                              <div class="field__items">
+                                <div property="schema:text" class="field__item">
+                                  <p class="text-align-justify"><strong>Sleeping with&nbsp;freePEMF</strong> has&nbsp;double meaning.&nbsp;Firstly this solution works in conjunction with in-built within bed mat and&nbsp;<strong>freePEMF duo</strong>&nbsp;device. This enables the user to use the device automatically every night and being supplemented&nbsp;by&nbsp;magnetic field, which is essential to human existence.&nbsp;Secondly <strong>FreePEMF duo</strong>&nbsp;had an additional RTC timer inbuilt to enable the device to be put automatically on and off.&nbsp;</p>
+                                  <p class="text-align-justify">The below photos show how red blood cells (erythrocytes) look&nbsp;before and after&nbsp;16 min. session Earth Rhythm (x2) generated by freePEMF duo and mat. Erythrocytes has negative charge and they should not be sticking as it is fatal for the human being. This type of supplementation restore beneficial negative charge.<br>
+                                  <br>
+                                  Pictures taken by Anne Mijwaard&nbsp;(Netherlands&nbsp;2019). Author left her comment below.&nbsp;</p>
+                                  <p class="text-align-justify"><img alt="image" data-entity-type="file" data-entity-uuid="1250a6b0-2c07-46aa-afc0-85b8be25387f" height="452" src="/sites/default/files/inline-images/image_46.png" width="1319"></p>
+                                  <p class="text-align-justify"><em>EN:&nbsp;The most clear change is that from a state of mild-severe acidification to almost none. You can see this by the amount of red blood cells that form rows or cluster together.</em></p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="node__links">
+                              <ul class="links inline">
+                                <li class="node-readmore">
+                                  <a href="/sleeping-freePEMF" rel="tag" title="Sleeping freePEMF" hreflang="en">Read more <span class="visually-hidden">about Sleeping freePEMF</span></a>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </article>
+                    </div>
+                    <div class="views-row">
+                      <article data-history-node-id="205" role="article" about="http://ryodo.duckdns.org/diy-qiwellness" typeof="schema:Article" class="node node--id-205 node--type-article node--promoted node--sticky node--view-mode-teaser">
+                        <div class="node__container">
+                          <header class="node__header">
+                            <h2 class="node__title"><a href="/diy-qiwellness" class="node__title-link" rel="bookmark"><span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden">DIY qiWELLNESS</span></a></h2>
+                          </header>
+                          <div class="node__content">
+                            <div class="field field-node--field-image field-formatter-image field-name-field-image field-type-image field-label-hidden has-single">
+                              <figure class="field-type-image__figure image-count-1 align-right">
+                                <div class="field-type-image__item">
+                                  <a href="/diy-qiwellness"><img property="schema:image" src="/sites/default/files/styles/medium/public/2019-11/qiWELLNESS.png" width="204" height="220" alt="qiWELLNESS" typeof="foaf:Image" class="image-style-medium"></a>
+                                </div>
+                              </figure>
+                            </div>
+                            <div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single">
+                              <div class="field__items">
+                                <div property="schema:text" class="field__item">
+                                  <p class="text-align-justify">I am going to make a you tube video&nbsp;describing the assembly of the miniVOLL-qiWELLNESS device. I want to record it in a version without comment, so that it would be&nbsp;available to everyone, regardless of their mother tongue.&nbsp;The film will be available within nearest future.&nbsp;Your patience is greatly appreciated.&nbsp;You can assembly qiWELLNESS device in about 2-3 hours. Downloading Arduino and compiling firmware takes 1 additional hour.</p>
+                                  <p class="text-align-justify">&nbsp;</p>
+                                  <p class="text-align-justify"><strong>Assembly based on prototypes boards</strong></p>
+                                  <p><a href="https://github.com/biotronika/documentation/raw/master/qiWELLNESS/qiWELLNESS%20-%20Mainboard.pdf" rel="" target="_blank" title=""><img alt="Mainboard" data-entity-type="file" data-entity-uuid="65706695-27e7-428b-869e-c8d5c7c62ec8" height="248" src="/sites/default/files/inline-images/mainboard.png" width="351"></a></p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="node__links">
+                              <ul class="links inline">
+                                <li class="node-readmore">
+                                  <a href="/diy-qiwellness" rel="tag" title="DIY qiWELLNESS" hreflang="en">Read more <span class="visually-hidden">about DIY qiWELLNESS</span></a>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </article>
+                    </div>
+                    <div class="views-row">
+                      <article data-history-node-id="200" role="article" about="http://ryodo.duckdns.org/what-is-qiWELLNESS" typeof="schema:Article" class="node node--id-200 node--type-article node--promoted node--sticky node--view-mode-teaser">
+                        <div class="node__container">
+                          <header class="node__header">
+                            <h2 class="node__title"><a href="/what-is-qiWELLNESS" class="node__title-link" rel="bookmark"><span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden">What is qiWELLNESS</span></a></h2>
+                          </header>
+                          <div class="node__content">
+                            <div class="field field-node--field-image field-formatter-image field-name-field-image field-type-image field-label-hidden has-single">
+                              <figure class="field-type-image__figure image-count-1 align-right">
+                                <div class="field-type-image__item">
+                                  <a href="/what-is-qiWELLNESS"><img property="schema:image" src="/sites/default/files/styles/medium/public/2019-06/qiWELLNESS_pic1_0.png" width="161" height="220" alt="qiWELLNESS" typeof="foaf:Image" class="image-style-medium"></a>
+                                </div>
+                              </figure>
+                            </div>
+                            <div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single">
+                              <div class="field__items">
+                                <div property="schema:text" class="field__item">
+                                  <p class="text-align-justify">Device qiWELLNESS (health through Qi energy) enables diagnosis an therapy according to the&nbsp;<a href="https://en.wikipedia.org/wiki/Traditional_Chinese_medicine" target="_blank">Traditional Chinese Medicine</a>, whilst utilising few modern techniques:</p>
+                                  <ul>
+                                    <li class="text-align-justify"><strong>RYODORAKU diagnosis</strong>. Its inventor is&nbsp;Nakatani of the Japanese origin. Therapy has been invented in mid&nbsp;&nbsp;XX century. It enables to assess level of the energy flow within main meridians within physical body. Assessment is based on measuring the resistance within designated acupuncture points.<br>
+                                    &nbsp</li>
+                                    <li class="text-align-justify"><strong>Carry out Rydoraku diagnosis</strong>, which based on the received results enables to restore energy flow within 12 meridians. This therapy also stimulates or hinder performance of the organs associated with relevant&nbsp;meridians.&nbsp; Analogically, this type of therapy&nbsp;works as acupuncture, which brings homeostasis within human body.<br>
+                                    &nbsp</li>
+                                    <li class="text-align-justify"><strong>VOLL diagnosis</strong> (Voll electro-puncture&nbsp;aka EAV). Inventor of this therapy is German Dr Reinhold Voll. Method has been developed&nbsp;40-70 XX. It allows you to access whether our organism is in balance, hyper or hypo-functioning or weakening particular organ within our body.<br>
+                                    &nbsp</li>
+                                    <li class="text-align-justify"><strong>VEGATEST diagnosis</strong>&nbsp;is a method mapped out by Dr Helmut&nbsp;Shimmel&nbsp;in&nbsp;70 XX. It is based on EAV method. It measures vegetal nervous system in designated acupuncture point when patient is exposed to the pathogen containing substance. Currently, vegatest has been classified to pseudo- scientific medical method. However a lot of publications provided strong evidence that this method is highly successful when detecting virulent and food allergies.<br>
+                                    &nbsp</li>
+                                    <li class="text-align-justify"><strong>ARIKULO DIAGNOSIS</strong>&nbsp;<strong>and&nbsp;ARIKULO THERAPY.</strong> These techniques allow to diagnose with high probability number of popular afflictions and support their healing based on measuring the resistance within specific points located within the ear and stimulating them with electric current.&nbsp;<br>
+                                    &nbsp</li>
+                                    <li class="text-align-justify"><strong>ELECTRO-PUNCTURE</strong>&nbsp;(electro-acupuncture) stimulation acupuncture points with&nbsp;electric current of the specific parameters.&nbsp;&nbsp;This method is as effective as acupuncture whilst being significantly less invasive on the tissue. Electro-puncture is very effective with healing the pain in both conventional and traditional Chinese medicine.</li>
+                                  </ul>
+                                  <ul>
+                                    <li class="text-align-justify"><strong>IONTOPHORESIS/TENS</strong> therapy with allows you to deposit the drugs under the skin by ion current. You can use DC current or pulse current like in the ZAPPER or TENS device.</li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="node__links">
+                              <ul class="links inline">
+                                <li class="node-readmore">
+                                  <a href="/what-is-qiWELLNESS" rel="tag" title="What is qiWELLNESS" hreflang="en">Read more <span class="visually-hidden">about What is qiWELLNESS</span></a>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </article>
+                    </div>
+                    <div class="views-row">
+                      <article data-history-node-id="173" role="article" about="http://ryodo.duckdns.org/diy-freePEMF-duo" typeof="schema:Article" class="node node--id-173 node--type-article node--promoted node--sticky node--view-mode-teaser">
+                        <div class="node__container">
+                          <header class="node__header">
+                            <h2 class="node__title"><a href="/diy-freePEMF-duo" class="node__title-link" rel="bookmark"><span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden">DIY freePEMF duo</span></a></h2>
+                          </header>
+                          <div class="node__content">
+                            <div class="field field-node--field-image field-formatter-image field-name-field-image field-type-image field-label-hidden has-single">
+                              <figure class="field-type-image__figure image-count-1 align-right">
+                                <div class="field-type-image__item">
+                                  <a href="/diy-freePEMF-duo"><img property="schema:image" src="/sites/default/files/styles/medium/public/2018-12/freePEMFduo.jpg" width="163" height="220" alt="freePEMF duo" typeof="foaf:Image" class="image-style-medium"></a>
+                                </div>
+                              </figure>
+                            </div>
+                            <div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single">
+                              <div class="field__items">
+                                <div property="schema:text" class="field__item">
+                                  <p class="text-align-justify"><strong>freePEMF duo</strong> is a device used for magnetotherapy. Similarly to freePEMF it is possible to connect coils and mats to it. Duo simultaneously supports two coils or mats. It also has a display on which the executed command, progress of therapy and other parameters are presented. Despite the greater possibilities, the device is easier to build than <strong>freePEMF</strong>, because of the&nbsp;modules. It also supports bluetooth.</p>
+                                  <p>The shopping list of items&nbsp;is below. If you have already got everything, you can start building the device.</p>
+                                  <p>1. We cut the front panel, chasiss, and hole drilling patterns from the template.</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="node__links">
+                              <ul class="links inline">
+                                <li class="node-readmore">
+                                  <a href="/diy-freePEMF-duo" rel="tag" title="DIY freePEMF duo" hreflang="en">Read more <span class="visually-hidden">about DIY freePEMF duo</span></a>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </article>
+                    </div>
+                    <div class="views-row">
+                      <article data-history-node-id="154" role="article" about="http://ryodo.duckdns.org/tuning-forks" typeof="schema:Article" class="node node--id-154 node--type-article node--promoted node--sticky node--view-mode-teaser">
+                        <div class="node__container">
+                          <header class="node__header">
+                            <h2 class="node__title"><a href="/tuning-forks" class="node__title-link" rel="bookmark"><span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden">Tuning forks</span></a></h2>
+                          </header>
+                          <div class="node__content">
+                            <div class="field field-node--field-image field-formatter-image field-name-field-image field-type-image field-label-hidden has-single">
+                              <figure class="field-type-image__figure image-count-1 align-right">
+                                <div class="field-type-image__item">
+                                  <a href="/tuning-forks"><img property="schema:image" src="/sites/default/files/styles/medium/public/2018-08/kamertony.jpg" width="220" height="97" alt="Kamertony" typeof="foaf:Image" class="image-style-medium"></a>
+                                </div>
+                              </figure>
+                            </div>
+                            <div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single">
+                              <div class="field__items">
+                                <div property="schema:text" class="field__item">
+                                  <p class="text-align-justify">&nbsp;Recently has become popular to use tuning fork for body healing. Pitchfork tuners operate selectively. They generating a mechanical wave on an audible frequency. Its sinusoidal characteristic does not contain harmonics. You can achieve a similar effect by applying an electromagnetic coil to a specific organ, what is analogous to using a tuning fork. The electromagnetic wave induces vibrations in the body. Ions and other molecules with a non-zero magnetic moment move in the rhythm of the EM field changes.</p>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="node__links">
+                              <ul class="links inline">
+                                <li class="node-readmore">
+                                  <a href="/tuning-forks" rel="tag" title="Tuning forks" hreflang="en">Read more <span class="visually-hidden">about Tuning forks</span></a>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </article>
+                    </div>
+                    <div class="views-row">
+                      <article data-history-node-id="1" role="article" about="http://ryodo.duckdns.org/what-is-a-freePEMF" typeof="schema:Article" class="node node--id-1 node--type-article node--promoted node--sticky node--view-mode-teaser">
+                        <div class="node__container">
+                          <header class="node__header">
+                            <h2 class="node__title"><a href="/what-is-a-freePEMF" class="node__title-link" rel="bookmark"><span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden">What is a freePEMF</span></a></h2>
+                          </header>
+                          <div class="node__content">
+                            <div class="field field-node--field-image field-formatter-image field-name-field-image field-type-image field-label-hidden has-single">
+                              <figure class="field-type-image__figure image-count-1 align-right">
+                                <div class="field-type-image__item">
+                                  <a href="/what-is-a-freePEMF"><img property="schema:image" src="/sites/default/files/styles/medium/public/2019-05/freePEMF.png" width="220" height="153" alt="freePEMF" typeof="foaf:Image" class="image-style-medium"></a>
+                                </div>
+                              </figure>
+                            </div>
+                            <div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-summary-or-trimmed field-name-body field-type-text-with-summary field-label-hidden has-single">
+                              <div class="field__items">
+                                <div property="schema:text" class="field__item">
+                                  <div class="text-align-justify">
+                                    <p class="MsoNormal"><span><strong>PEMF</strong></span><span>&nbsp;is an abbreviation for&nbsp;pulsed electromagnetic field.&nbsp;&nbsp;The pulsating magnetic field doesn't&nbsp;changes polarity, i.e. it is unidirectional but&nbsp;the intensity varies over time depending of signal shape.&nbsp;If we&nbsp;change the intensity of the magnetic field at the time, we "produce" an electromagnetic wave. The PEMF&nbsp;therapy (PEMFT) is based on interacting of&nbsp;pulsating electromagnetic field with human or animal body.&nbsp;The therapy uses different frequencies and signal shapes.&nbsp;This&nbsp;method is widely used in&nbsp;medicine and supports&nbsp;treatment&nbsp;of many diseases.</span></p>
+                                    <p class="MsoNormal">Pulse Electromagnetic therapy is usually referred by doctors for clinical management of quick bone healing, repair of damaged tissues and as a quick remedy for pain. Various PEMFT equipment are already available in market, but none of them are available as low cost consumer electronic device. Authors to develop a low cost version of PEMFT device. The design and construction method of freePEMF device has been thoroughly described on the portal. The prototype constructed not only met the low cost criteria but also was equally effective at pain management and bone healing.</p>
+                                    <p class="MsoNormal"><span>Most popular PEMF devices in market are&nbsp;using&nbsp;extremely low frequency pulses typically from 0.5 to 4 Hz (1Hz means one pulse per second) with high magnet intensity.&nbsp;Wide group of web sites on the Internet are units of low-power supply signal rectangular&nbsp;with the frequency range of 0.5 to 50Hz. The</span><span class="apple-converted-space">&nbsp;</span><span><strong>freePEMF</strong></span><span class="apple-converted-space"><b>&nbsp;</b></span><span>device&nbsp;can be made by anyone without knowledge and expertise.&nbsp;The average cost of parts is about $40. [11-2016]. This</span><span class="apple-converted-space">&nbsp;</span><span><b>freePEMF</b>&nbsp;device is also simulating the geomagnetic field of Earth and generates Schumann frequency 7.83Hz.&nbsp;</span></p>
+                                    <p class="MsoNormal"><span>Pulsating electromagnetic field is used to treat:</span></p>
+                                    <ul type="disc">
+                                      <li class="MsoNormal"><span>Insomnia;</span></li>
+                                      <li class="MsoNormal"><span>Stress;</span></li>
+                                      <li class="MsoNormal"><span>Bone fractures;</span></li>
+                                      <li class="MsoNormal"><span>Cardiovascular disease;</span></li>
+                                      <li class="MsoNormal"><span>All kinds of wounds and injuries;</span></li>
+                                      <li class="MsoNormal"><span>The lymphatic system dysfunction;</span></li>
+                                      <li class="MsoNormal"><span>Pain;</span></li>
+                                      <li class="MsoNormal"><span>Nervous system disorders.</span></li>
+                                    </ul>
+                                    <p class="MsoNormal"><span><strong>freePEMF&nbsp;</strong></span><span>can be used in preventive health, as noted the positive effect of electromagnetic field of ultra-low frequency on the brain and the body's cells.&nbsp;It also applies in meditation and supporting the achievement of other states of consciousness.&nbsp;It has been confirmed that the pulsating electromagnetic field is necessary for proper functioning of the body.&nbsp;Unfortunately, commonly found electro-smog, the natural weakening of Earth's magnetic field affects the deterioration of this important element of our health.</span></p>
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="node__links">
+                                <ul class="links inline">
+                                  <li class="node-readmore">
+                                    <a href="/what-is-a-freePEMF" rel="tag" title="What is a freePEMF" hreflang="en">Read more <span class="visually-hidden">about What is a freePEMF</span></a>
+                                  </li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </article>
+                    </div>
+                  </div>
+                  <nav class="pager pager--full" role="navigation" aria-labelledby="pagination-heading">
+                    <h4 id="pagination-heading" class="visually-hidden">Pagination</h4>
+                    <ul class="pager__items js-pager__items">
+                      <ul class="pager__items__num-pages js-pager__items">
+                        <li class="pager__item pager__item--num pager__item--num-first is-active">
+                          <a href="?page=0" class="pager__link pager__link--is-active" title="Current page"><span class="visually-hidden">Current page</span> <span class="pager__key">1</span></a>
+                        </li>
+                        <li class="pager__item pager__item--num">
+                          <a href="?page=1" class="pager__link" title="Go to page 2"><span class="visually-hidden">Page</span> <span class="pager__key">2</span></a>
+                        </li>
+                        <li class="pager__item pager__item--num pager__item--num-last">
+                          <a href="?page=2" class="pager__link" title="Go to page 3"><span class="visually-hidden">Page</span> <span class="pager__key">3</span></a>
+                        </li>
+                      </ul>
+                      <ul class="pager__items__next-last js-pager__items">
+                        <li class="pager__item pager__item--next pager__item--text">
+                          <a href="?page=1" class="pager__link" title="Go to next page" rel="next"><span class="visually-hidden">Next page</span> <span class="pager__next" aria-hidden="true">Next ›</span></a>
+                        </li>
+                        <li class="pager__item pager__item--last pager__item--text">
+                          <a href="?page=2" class="pager__link" title="Go to last page"><span class="visually-hidden">Last page</span> <span class="pager__last" aria-hidden="true">Last »</span></a>
+                        </li>
+                      </ul>
+                    </ul>
+                  </nav>
+                  <div class="feed-icons">
+                    <a href="/rss.xml" class="feed-icon"><svg version="1.1" class="feed-icon-rss" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewbox="0 0 20 20">
+                    <g>
+                      <path class="feed-icon-rss__path" d="M2.7,14.5c-0.8,0-1.4,0.3-1.9,0.8C0.3,15.9,0,16.5,0,17.3c0,0.8,0.3,1.4,0.8,1.9 C1.3,19.7,2,20,2.7,20s1.4-0.3,1.9-0.8c0.5-0.5,0.8-1.2,0.8-1.9c0-0.8-0.3-1.4-0.8-1.9C4.1,14.8,3.5,14.5,2.7,14.5z"></path>
+                      <path class="feed-icon-rss__path" d="M9,11C7.9,9.9,6.7,9.1,5.3,8.4C3.9,7.8,2.5,7.4,1,7.3H0.9c-0.2,0-0.4,0.1-0.6,0.2 C0.1,7.7,0,7.9,0,8.2v1.9c0,0.2,0.1,0.4,0.2,0.6C0.4,10.9,0.6,11,0.8,11c2.2,0.2,4,1.1,5.6,2.6C7.9,15.2,8.8,17,9,19.2 c0,0.2,0.1,0.4,0.3,0.6C9.5,19.9,9.7,20,9.9,20h1.9c0.3,0,0.5-0.1,0.7-0.3c0.2-0.2,0.3-0.4,0.2-0.7c-0.1-1.5-0.5-3-1.1-4.3 C10.9,13.3,10.1,12.1,9,11z"></path>
+                      <path class="feed-icon-rss__path" d="M18.3,11.9c-1-2.3-2.4-4.3-4.2-6c-1.8-1.8-3.8-3.2-6-4.2C5.8,0.7,3.4,0.1,1,0h0 C0.7,0,0.5,0.1,0.3,0.3C0.1,0.4,0,0.6,0,0.9v2c0,0.2,0.1,0.4,0.2,0.6s0.4,0.3,0.6,0.3c2,0.1,4,0.6,5.8,1.4s3.4,1.9,4.8,3.3 c1.3,1.3,2.4,2.9,3.3,4.8c0.8,1.8,1.3,3.8,1.4,5.8c0,0.2,0.1,0.4,0.3,0.6c0.2,0.2,0.4,0.2,0.6,0.2h2c0.3,0,0.5-0.1,0.7-0.3 c0.2-0.2,0.3-0.4,0.3-0.7C19.9,16.6,19.3,14.2,18.3,11.9z"></path>
+                    </g></svg><span class="visually-hidden">Subscribe</span></a>
+                  </div>
+                </div>
+              </div>
+            </main>
+          </div>
+          <div data-at-region="region-sidebar-second" class="l-r region pr-main__sidebar-second">
+            <div class="search-block-form submit-is-visible block block-search block-config-provider--search block-plugin-id--search-form-block" data-drupal-selector="search-block-form" id="block-pixture-reloaded-search" role="search" aria-labelledby="block-pixture-reloaded-search-menu">
+              <div class="block__inner block-search__inner">
+                <h2 class="visually-hidden block__title block-search__title" id="block-pixture-reloaded-search-menu"><span>Search</span></h2>
+                <div class="block__content block-search__content">
+                  <form action="http://ryodo.duckdns.org/search/node" method="get" id="search-block-form" accept-charset="UTF-8" class="search-block-form__form" name="search-block-form">
+                    <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+                      <label for="edit-keys" class="visually-hidden">Search</label> <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="" maxlength="128" class="form-search">
+                    </div>
+                    <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+                      <input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit">
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <div id="block-googletranslatorfromenglish" class="block block-config-provider--block-content block-plugin-id--block-content5575f98d-b780-43e7-8876-666c6194fce3">
+              <div class="block__inner">
+                <div class="block__content">
+                  <div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single">
+                    <div class="field__items">
+                      <div class="field__item">
+                        <div id="google_translate_element"></div>
+                        <script type="text/javascript">
+                        function googleTranslateElementInit() {
+                        new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+                        }
+                        </script> 
+                        <script type="text/javascript" src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <nav role="navigation" aria-labelledby="block-pixture-reloaded-tools-menu" id="block-pixture-reloaded-tools" class="block block-menu block-config-provider--system block-plugin-id--system-menu-blocktools has-title">
+              <div class="block__inner block-menu__inner">
+                <h2 class="block__title block-menu__title" id="block-pixture-reloaded-tools-menu"><span>Tools</span></h2>
+                <div class="block__content block-menu__content">
+                  <ul class="menu odd menu-level-1 menu-name--tools">
+                    <li class="menu__item menu__item-title--forums" id="mlid-forums"><span class="menu__link--wrapper"><a href="/forum" class="menu__link" data-drupal-link-system-path="forum">Forums</a></span></li>
+                    <li class="menu__item menu__item-title--contact" id="mlid-contact"><span class="menu__link--wrapper"><a href="/contact" title="Contact form" class="menu__link" data-drupal-link-system-path="contact">Contact</a></span></li>
+                    <li class="menu__item menu__item-title--github-download" id="mlid-github-download"><span class="menu__link--wrapper"><a href="https://github.com/biotronika" title="Wersje źródłowe programów do urządzeń oraz dokumentacja bioZAP" class="menu__link">GitHub download</a></span></li>
+                    <li class="menu__item menu__item-title--arduino-project-hub" id="mlid-arduino-project-hub"><span class="menu__link--wrapper"><a href="https://create.arduino.cc/projecthub/biotronika" class="menu__link">Arduino Project Hub</a></span></li>
+                    <li class="menu__item menu__item-title--yt-channel" id="mlid-yt-channel"><span class="menu__link--wrapper"><a href="https://www.youtube.com/channel/UC7NnPF_izdwY4yzt34d8ZsQ" class="menu__link">YT channel</a></span></li>
+                    <li class="menu__item menu__item-title--download" id="mlid-download"><span class="menu__link--wrapper"><a href="/download" class="menu__link" data-drupal-link-system-path="node/201">Download</a></span></li>
+                  </ul>
+                </div>
+              </div>
+            </nav>
+            <nav role="navigation" aria-labelledby="block-pixture-reloaded-account-menu-menu" id="block-pixture-reloaded-account-menu" class="block block-menu block-config-provider--system block-plugin-id--system-menu-blockaccount">
+              <div class="block__inner block-menu__inner">
+                <h2 class="visually-hidden block__title block-menu__title" id="block-pixture-reloaded-account-menu-menu"><span>Menu użytkownika</span></h2>
+                <div class="block__content block-menu__content">
+                  <ul class="menu odd menu-level-1 menu-name--account">
+                    <li class="menu__item menu__item-title--log-in" id="mlid-log-in"><span class="menu__link--wrapper"><a href="/user/login" class="menu__link" data-drupal-link-system-path="user/login">Log in</a></span></li>
+                  </ul>
+                </div>
+              </div>
+            </nav>
+            <div id="block-programs" class="block block-config-provider--block-content block-plugin-id--block-contentf0d83861-de95-447c-ba3f-6a33560e21b4 has-title" role="region" aria-labelledby="block-programs-title">
+              <div class="block__inner">
+                <h2 class="block__title" id="block-programs-title"><span>Programs</span></h2>
+                <div class="block__content">
+                  <div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single">
+                    <div class="field__items">
+                      <div class="field__item">
+                        <p>Detoxification by PEMF</p>
+                        <div class="youtube-embed-wrapper" style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;">
+                          <iframe allowfullscreen frameborder="0" height="360" src="//www.youtube.com/embed/d2szUwSYAKo?rel=0" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" width="640"></iframe>
+                        </div>
+                        <p>&nbsp;</p>
+                        <p>PEMF The 5th Element of Health</p>
+                        <div class="youtube-embed-wrapper" style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;">
+                          <iframe allowfullscreen frameborder="0" height="360" src="//www.youtube.com/embed/G1rmNPoWcoc?rel=0" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" width="640"></iframe>
+                        </div>
+                        <p>&nbsp;</p>
+                        <p>PEMF The 5th Element of Health Part 2</p>
+                        <div class="youtube-embed-wrapper" style="position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;">
+                          <iframe allowfullscreen frameborder="0" height="360" src="//www.youtube.com/embed/RJetnMR73V4?rel=0" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;" width="640"></iframe>
+                        </div>
+                        <p>&nbsp;</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer class="l-pr page__row pr-footer" role="contentinfo" id="footer">
+        <div class="l-rw regions container pr-footer__rw arc--1 hr--1" data-at-regions="">
+          <div data-at-region="region-footer" class="l-r region pr-footer__footer">
+            <div id="block-celwitryny-new" class="block block-config-provider--block-content block-plugin-id--block-content9cde0081-6f1c-4237-bb8a-5117eb7957b1">
+              <div class="block__inner">
+                <div class="block__content">
+                  <div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single">
+                    <div class="field__items">
+                      <div class="field__item">
+                        <p class="text-align-center">The mission of the site is to spread knowledge from the borderline of science related to biotronics, that is the application of electrical engineering, physics, electronics, mechanics in combination with living organisms. Conducting research proving&nbsp;the effectiveness of proposed solutions. Articles are the result of research, search and experience of their authors and refer to the sources on which they based their assumptions. The mission is carried out pro bono, non-profit. All content is published under the <strong><a href="https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en" target="_blank">Creative Common 3.0 license for Poland</a>.</strong></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>
+  <script type="application/json" data-drupal-selector="drupal-settings-json">
+  {"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"theme":"pixture_reloaded","libraries":"anchor_link\/drupal.anchor_link,at_core\/at.breakpoints,at_core\/at.fastclick_initialize,at_core\/at.orientationchangereload,at_core\/at.settings,ckeditor_spoiler\/ckeditor_spoiler,codesnippet\/codesnippet.highlightjs,codesnippet\/codesnippet.style.github,filter\/caption,pixture_reloaded\/base,pixture_reloaded\/color,pixture_reloaded\/comment,pixture_reloaded\/contact,pixture_reloaded\/custom_css_file,pixture_reloaded\/fontfaceobserver,pixture_reloaded\/forum,pixture_reloaded\/language,pixture_reloaded\/pixture_reloaded.layout.page,pixture_reloaded\/responsive_menus,pixture_reloaded\/responsive_menus_dropmenu,pixture_reloaded\/responsive_menus_slidedown,pixture_reloaded\/responsive_tables,pixture_reloaded\/search,pixture_reloaded\/taxonomy,poll\/drupal.poll-links,system\/base,views\/views.module"},"pixture_reloaded":{"at_responsivemenus":{"bp":"all and (min-width: 60.063em)","default":"ms-slidedown","responsive":"ms-dropmenu","acd":{"acd_load":false}},"at_breakpoints":{"wide":{"breakpoint":"at_core.simple.wide","mediaquery":"all and (min-width: 60.063em)"},"tablet":{"breakpoint":"at_core.simple.tablet-isolate","mediaquery":"all and (min-width: 45.063em) and (max-width: 60em)"},"mobile":{"breakpoint":"at_core.simple.mobile","mediaquery":"all and (max-width: 45em)"}}},"ajaxTrustedUrl":{"https:\/\/ryodo.duckdns.org\/search\/node":true},"user":{"uid":0,"permissionsHash":"8456858fbd13d2a45d89c789952cf578a8ababd8325af9e52258925b8e5e03e8"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js"></script>
+<script src="/core/misc/drupalSettingsLoader.js"></script>
+<script src="/core/misc/drupal.js"></script>
+<script src="/core/misc/drupal.init.js"></script>
+<script src="/modules/ckeditor_spoiler/js/spoiler.js"></script>
+<script src="/themes/adaptivetheme/at_core/scripts/min/at.responsiveTables.min.js"></script>
+<script src="/core/assets/vendor/matchMedia/matchMedia.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/enquire.js/2.1.2/enquire.min.js"></script>
+<script src="/themes/adaptivetheme/at_core/scripts/min/doubletaptogo.min.js"></script>
+<script src="/themes/adaptivetheme/at_core/scripts/min/at.responsiveMenus.min.js"></script>
+<script src="/themes/adaptivetheme/at_core/scripts/min/at.orientationChangeReload.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fontfaceobserver/2.0.8/fontfaceobserver.js"></script>
+<!--<script src="/themes/pixture_reloaded/scripts/fontfaceobserver-check.js"></script>-->
+<script src="/themes/adaptivetheme/at_core/scripts/min/at.breakpoints.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
+<script src="/themes/adaptivetheme/at_core/scripts/min/at.fastclickInitialize.min.js"></script>
+<script src="/libraries/codesnippet/lib/highlight/highlight.pack.js"></script>
+<script src="/modules/codesnippet/js/codesnippet.js"></script>
+<script src="/core/assets/vendor/modernizr/modernizr.min.js"></script>
+  <?php include "_custom-scripts-bottom.php"; ?>
+</body>
+</html>

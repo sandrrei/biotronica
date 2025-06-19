@@ -1,0 +1,16 @@
+<html>
+ 	<title>Electroacupuncture</title>
+ 	<head>
+ 	</head>
+<frameset rows="95,27,*" border=0>
+<frame name="banner"  scrolling=no src="top.htm" width=800 height=70 frameborder=0 border=0 noresize>
+<frame name="norm"  scrolling=no src="button.htm" width=800 height=20  frameborder=0 border=0 noresize>
+<frame name="main" src="mainframe.htm" frameborder=0 border=0 scrolling='auto'  noresize>
+</frameset>
+<noframes>
+<body bgColor="#000000">
+	<p>This page uses frames, but your browser doesn't support them. </p>
+	</body>
+	</noframes>
+	</frameset>
+	</html>

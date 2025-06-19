@@ -1,0 +1,892 @@
+<!DOCTYPE html><html lang="pl" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="no-js adaptivetheme">
+  
+<!-- Mirrored from biotronika.pl/node/12 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Jan 2021 10:14:47 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head><link href="../themes/pixture_reloaded/images/touch-icons/Icon-76-2x.png" rel="apple-touch-icon" sizes="152x152" /><link href="../themes/pixture_reloaded/images/touch-icons/Icon-60-2x.png" rel="apple-touch-icon" sizes="120x120" /><link href="../themes/pixture_reloaded/images/touch-icons/Icon-76.png" rel="apple-touch-icon" sizes="76x76" /><link href="../themes/pixture_reloaded/images/touch-icons/Icon-60.png" rel="apple-touch-icon" sizes="60x60" /><link href="../themes/pixture_reloaded/images/touch-icons/Icon-60.png" rel="shortcut icon" /><meta charset="utf-8" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="pl" href="/pl/elektrody.html" />
+<link rel="alternate" hreflang="en" href="/elektrody.html" />
+<link rel="canonical" href="../elektrody.html" />
+<link rel="shortlink" href="12.html" />
+<link rel="revision" href="../elektrody.html" />
+
+    <link rel="dns-prefetch" href="../../cdnjs.cloudflare.com/index.html"><title>Elektrody | biotronika.pl</title>
+    <style media="all">
+  @import url("/core/themes/stable/css/system/components/ajax-progress.module.css");
+  @import url("/core/themes/stable/css/system/components/align.module.css");
+  @import url("/core/themes/stable/css/system/components/autocomplete-loading.module.css");
+  @import url("/core/themes/stable/css/system/components/fieldgroup.module.css");
+  @import url("/core/themes/stable/css/system/components/container-inline.module.css");
+  @import url("/core/themes/stable/css/system/components/clearfix.module.css");
+  @import url("/core/themes/stable/css/system/components/details.module.css");
+  @import url("/core/themes/stable/css/system/components/hidden.module.css");
+  @import url("/core/themes/stable/css/system/components/item-list.module.css");
+  @import url("/core/themes/stable/css/system/components/js.module.css");
+  @import url("/core/themes/stable/css/system/components/nowrap.module.css");
+  @import url("/core/themes/stable/css/system/components/position-container.module.css");
+  @import url("/core/themes/stable/css/system/components/progress.module.css");
+  @import url("/core/themes/stable/css/system/components/reset-appearance.module.css");
+  @import url("/core/themes/stable/css/system/components/resize.module.css");
+  @import url("/core/themes/stable/css/system/components/sticky-header.module.css");
+  @import url("/core/themes/stable/css/system/components/system-status-counter.css");
+  @import url("/core/themes/stable/css/system/components/system-status-report-counters.css");
+  @import url("/core/themes/stable/css/system/components/system-status-report-general-info.css");
+  @import url("/core/themes/stable/css/system/components/tabledrag.module.css");
+  @import url("/core/themes/stable/css/system/components/tree-child.module.css");
+  @import url("/modules/ckeditor_spoiler/css/spoiler.css");
+  @import url("/modules/poll/css/poll.base.css");
+  @import url("/modules/poll/css/poll.theme.css");
+  @import url("/modules/anchor_link/css/anchor_link.css");
+  @import url("/libraries/codesnippet/lib/highlight/styles/github.css");
+</style>
+<style media="all">
+  @import url("/themes/pixture_reloaded/styles/css/components/base.css");
+  @import url("/themes/pixture_reloaded/styles/css/generated/pixture_reloaded.layout.page.css");
+  @import url("/themes/pixture_reloaded/styles/css/components/comments.css");
+  @import url("/themes/pixture_reloaded/styles/css/components/contact-forms.css");
+  @import url("/themes/pixture_reloaded/styles/css/components/forum.css");
+  @import url("/themes/pixture_reloaded/styles/css/components/language.css");
+  @import url("/themes/pixture_reloaded/styles/css/components/search.css");
+  @import url("/themes/pixture_reloaded/styles/css/components/taxonomy.css");
+  @import url("/themes/pixture_reloaded/styles/css/components/responsive-tables.css");
+  @import url("/themes/pixture_reloaded/styles/css/components/responsive-menus--slidedown.css");
+  @import url("/themes/pixture_reloaded/styles/css/components/responsive-menus--dropmenu.css");
+  @import url("/themes/pixture_reloaded/styles/css/components/responsive-menus.css");
+  @import url("/sites/default/files/color/pixture_reloaded-409d2dc2/color.css");
+  @import url("/themes/pixture_reloaded/styles/css/custom.css");
+</style>
+
+    <script src="..//core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1"></script>
+
+  </head><body role="document" class="user-logged-out path-node path-node-12 page-node-type--article site-name--biotronikapl theme-name--pixture-reloaded">
+        <a href="#block-pixture-reloaded-content" class="visually-hidden focusable skip-link">Przejdź do treści</a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="page">
+      <header class="l-pr page__row pr-header regions-multiple" role="banner" id="masthead">
+    <div class="l-rw regions container pr-header__rw arc--2 hr--1-2" data-at-regions="">
+      <div  data-at-region="region-header-first" class="l-r region pr-header__header-first"><div id="block-pixture-reloaded-branding" class="block block-branding block-system block-system-branding-block">
+  <div class="block__inner block-branding__inner">
+
+    <div class="block__content block-branding__content site-branding"><a href="/pl/" title="Strona główna" itemprop="url" rel="home" class="site-branding__logo-link"><img src="..//sites/default/files/logo72x72.png" alt="Strona główna" itemprop="logo" class="site-branding__logo-img" /></a><span class="site-branding__text"><strong class="site-branding__name"><a href="/pl/" title="Strona główna" itemprop="url" rel="home" class="site-branding__name-link">biotronika.pl</a></strong><em class="site-branding__slogan">Najlepsze rzeczy są za darmo: matka Ziemia, Linux, przyroda, miłość...</em></span></div></div>
+</div>
+</div>
+      <div  data-at-region="region-header-second" class="l-r region pr-header__header-second"><div id="block-langaugeselectorwithgraphics-new" class="block block-config-provider--block-content block-plugin-id--block-contentaab4d1b7-caab-44e9-b398-a93cec037559">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><p><a href="/index.html" id="" rel="" target="" title="English"><img alt="English" data-entity-type="file" data-entity-uuid="b1357cf3-c69e-4896-9d0f-b987afd6a4c5" height="61" src="../sites/default/files/inline-images/English256.png" width="61" /></a><a href="/pl/" id="" rel="" target="" title="Polish"><img alt="Polish" data-entity-type="file" data-entity-uuid="0f3e65eb-b3e8-4463-91a1-ce0ca2db5c2a" height="61" src="../sites/default/files/inline-images/Polish256.png" width="61" /></a></p>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+    </div>
+  </header>
+      <div class="l-pr page__row pr-navbar" id="navbar">
+    <div class="l-rw regions container pr-navbar__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="region-navbar" class="l-r region pr-navbar__navbar"><svg style="display:none;">
+    <symbol id="rm-toggle__icon--open" viewBox="0 0 1792 1792" preserveAspectRatio="xMinYMid meet">
+    <path class="rm-toggle__icon__path" d="M1664 1344v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45z"/>
+  </symbol>
+    <symbol id="rm-toggle__icon--close" viewBox="0 0 1792 1792" preserveAspectRatio="xMinYMid meet">
+    <path class="rm-toggle__icon__path" d="M1490 1322q0 40-28 68l-136 136q-28 28-68 28t-68-28l-294-294-294 294q-28 28-68 28t-68-28l-136-136q-28-28-28-68t28-68l294-294-294-294q-28-28-28-68t28-68l136-136q28-28 68-28t68 28l294 294 294-294q28-28 68-28t68 28l136 136q28 28 28 68t-28 68l-294 294 294 294q28 28 28 68z"/>
+  </symbol>
+</svg>
+<nav role="navigation" aria-labelledby="block-pixture-reloaded-main-menu-menu" id="block-pixture-reloaded-main-menu" class="rm-block rm-config-provider--system rm-plugin-id--system-menu-block-main js-hide">
+  <div class="rm-block__inner">
+    <div class="rm-toggle">
+      <button href="#rm-content" class="rm-toggle__link un-button" role='button' aria-controls="rm-content" aria-expanded="false">
+                <svg class="rm-toggle__icon">
+          <use id="rm-toggle__icon--use" xlink:href="#rm-toggle__icon--open"></use>
+        </svg>
+                <span class="rm-toggle__label" id="block-pixture-reloaded-main-menu-menu">Menu</span>
+      </button>
+    </div><div class="rm-block__content" id="rm-content">
+        
+    <ul class="menu odd menu-level-1 menu-name--main">      
+      
+            <li class="menu__item menu__item-title--terapie" id="mlid-terapie">
+
+        <span class="menu__link--wrapper">
+          <a href="../therapies.html" title="Lista terapii ze skryptami BIOzap" class="menu__link" data-drupal-link-system-path="therapies">Terapie</a>
+        </span>
+
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--freepemf" id="mlid-freepemf">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="../czym-jest-free-pemf.html" class="menu__link">freePEMF</a>
+        </span>
+
+                  
+    <ul      class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--czym-jest-freepemf" id="mlid-czym-jest-freepemf">
+
+        <span class="menu__link--wrapper">
+          <a href="../czym-jest-free-pemf.html" class="menu__link" data-drupal-link-system-path="node/1">Czym jest freePEMF</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--instrukcja-użytkownika" id="mlid-instrukcja-użytkownika">
+
+        <span class="menu__link--wrapper">
+          <a href="../Instrukcja-free-pemf.html" class="menu__link" data-drupal-link-system-path="node/3">Instrukcja użytkownika</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-freepemf-duo" id="mlid-montaż-freepemf-duo">
+
+        <span class="menu__link--wrapper">
+          <a href="../DIY-freePEMF-duo.html" class="menu__link" data-drupal-link-system-path="node/173">Montaż freePEMF duo</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-freepemf" id="mlid-montaż-freepemf">
+
+        <span class="menu__link--wrapper">
+          <a href="../montaz-free-PEMF-nowy-typ.html" class="menu__link" data-drupal-link-system-path="node/77">Montaż freePEMF</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--wykonanie-maty" id="mlid-wykonanie-maty">
+
+        <span class="menu__link--wrapper">
+          <a href="../wykonanie-maty.html" title="Opis budowy maty do free-PEMF oraz zappera++" class="menu__link" data-drupal-link-system-path="node/29">Wykonanie maty</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--mata-kwadropolowa" id="mlid-mata-kwadropolowa">
+
+        <span class="menu__link--wrapper">
+          <a href="../mata-kwadropolowa.html" class="menu__link" data-drupal-link-system-path="node/174">Mata kwadropolowa</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--oprogramowanie" id="mlid-oprogramowanie">
+
+        <span class="menu__link--wrapper">
+          <a href="../wgranie-oprogramowania.html" class="menu__link" data-drupal-link-system-path="node/4">Oprogramowanie</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-cewki" id="mlid-montaż-cewki">
+
+        <span class="menu__link--wrapper">
+          <a href="../dobor-i-montaz-cewki.html" class="menu__link" data-drupal-link-system-path="node/5">Montaż cewki</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--dobór-cewki" id="mlid-dobór-cewki">
+
+        <span class="menu__link--wrapper">
+          <a href="159.html" class="menu__link" data-drupal-link-system-path="node/159">Dobór cewki</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--rozwiązywanie-problemów" id="mlid-rozwiązywanie-problemów">
+
+        <span class="menu__link--wrapper">
+          <a href="../ratuj-free-PEMF.html" class="menu__link" data-drupal-link-system-path="node/43">Rozwiązywanie problemów</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--stymulacja-fal-mózgowych" id="mlid-stymulacja-fal-mózgowych">
+
+        <span class="menu__link--wrapper">
+          <a href="../stymulacja-fal-mozgowych.html" class="menu__link" data-drupal-link-system-path="node/23">Stymulacja fal mózgowych</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--płytka-pcb" id="mlid-płytka-pcb">
+
+        <span class="menu__link--wrapper">
+          <a href="92.html" title="Płytka drukowana dla elektroników amatorów" class="menu__link" data-drupal-link-system-path="node/92">Płytka PCB</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--strukturyzator-wody" id="mlid-strukturyzator-wody">
+
+        <span class="menu__link--wrapper">
+          <a href="../strukturyzator-wody.html" class="menu__link" data-drupal-link-system-path="node/37">Strukturyzator wody</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--sleeping-freepemf" id="mlid-sleeping-freepemf">
+
+        <span class="menu__link--wrapper">
+          <a href="../sleeping-freePEMF.html" class="menu__link" data-drupal-link-system-path="node/207">Sleeping freePEMF</a>
+        </span>
+
+        
+      </li></ul>
+  
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item--active-trail menu__item-title--multizap" id="mlid-multizap">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="../multiZAP-manual.html" class="menu__link" data-drupal-link-system-path="node/131">multiZAP</a>
+        </span>
+
+                  
+    <ul      class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--instrukcja-multizap" id="mlid-instrukcja-multizap">
+
+        <span class="menu__link--wrapper">
+          <a href="../multiZAP-manual.html" class="menu__link" data-drupal-link-system-path="node/131">Instrukcja multiZAP</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--lista-częstotliwości" id="mlid-lista-częstotliwości">
+
+        <span class="menu__link--wrapper">
+          <a href="../czestotliwosci.html" class="menu__link" data-drupal-link-system-path="node/35">Lista częstotliwości</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-multizap" id="mlid-montaż-multizap">
+
+        <span class="menu__link--wrapper">
+          <a href="../multiZAP-montaz.html" class="menu__link" data-drupal-link-system-path="node/91">Montaż multiZAP</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item--active-trail menu__item-title--elektrody" id="mlid-elektrody">
+
+        <span class="menu__link--wrapper">
+          <a href="../elektrody.html" title="Elektrody do biorezonansu" class="menu__link is-active" data-drupal-link-system-path="node/12">Elektrody</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--wykonanie-maty" id="mlid-wykonanie-maty">
+
+        <span class="menu__link--wrapper">
+          <a href="../wykonanie-maty.html" title="Opis budowy maty do free-PEMF oraz zappera++" class="menu__link" data-drupal-link-system-path="node/29">Wykonanie maty</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--oprogramowanie" id="mlid-oprogramowanie">
+
+        <span class="menu__link--wrapper">
+          <a href="../wgranie-oprogramowania.html" class="menu__link" data-drupal-link-system-path="node/4">Oprogramowanie</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--remotezap-android" id="mlid-remotezap-android">
+
+        <span class="menu__link--wrapper">
+          <a href="1676.html" class="menu__link" data-drupal-link-system-path="node/1676">RemoteZap Android</a>
+        </span>
+
+        
+      </li></ul>
+  
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--zapper-plus" id="mlid-zapper-plus">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="../czym-jest-zapper-plus.html" class="menu__link">zapper-plus</a>
+        </span>
+
+                  
+    <ul      class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--czym-jest-zapper-plus" id="mlid-czym-jest-zapper-plus">
+
+        <span class="menu__link--wrapper">
+          <a href="../czym-jest-zapper-plus.html" class="menu__link" data-drupal-link-system-path="node/7">Czym jest zapper-plus</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-zappera-plus" id="mlid-montaż-zappera-plus">
+
+        <span class="menu__link--wrapper">
+          <a href="../montaz-zappera-plus.html" class="menu__link" data-drupal-link-system-path="node/10">Montaż zappera-plus</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--elektrody" id="mlid-elektrody">
+
+        <span class="menu__link--wrapper">
+          <a href="../elektrody.html" title="Elektrody do zappera" class="menu__link is-active" data-drupal-link-system-path="node/12">Elektrody</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--srebro-koloidalne" id="mlid-srebro-koloidalne">
+
+        <span class="menu__link--wrapper">
+          <a href="../srebro-koloidalne.html" class="menu__link" data-drupal-link-system-path="node/36">Srebro koloidalne</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--ionzapper" id="mlid-ionzapper">
+
+        <span class="menu__link--wrapper">
+          <a href="../ionZAPPER.html" class="menu__link" data-drupal-link-system-path="node/238">ionZAPPER</a>
+        </span>
+
+        
+      </li></ul>
+  
+        
+      </li>      
+      
+            <li class="menu__item menu__item--collapsed menu__item-title--zenon" id="mlid-zenon">
+
+        <span class="menu__link--wrapper">
+          <a href="../zenon1.html" class="menu__link" data-drupal-link-system-path="node/99">zenON</a>
+        </span>
+
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--qiwellness" id="mlid-qiwellness">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="../what-is-qiWELLNESS.html" title="Urządzenie do TCM" class="menu__link" data-drupal-link-system-path="node/200">qiWELLNESS</a>
+        </span>
+
+                  
+    <ul      class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--czym-jest-qiwellness" id="mlid-czym-jest-qiwellness">
+
+        <span class="menu__link--wrapper">
+          <a href="../what-is-qiWELLNESS.html" class="menu__link" data-drupal-link-system-path="node/200">Czym jest qiWELLNESS</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--acupen-biotronika" id="mlid-acupen-biotronika">
+
+        <span class="menu__link--wrapper">
+          <a href="../acupen.html" class="menu__link" data-drupal-link-system-path="node/210">Acupen biotronika</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-qiwellness" id="mlid-montaż-qiwellness">
+
+        <span class="menu__link--wrapper">
+          <a href="205.html" class="menu__link" data-drupal-link-system-path="node/205">Montaż qiWELLNESS</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--electrodes" id="mlid-electrodes">
+
+        <span class="menu__link--wrapper">
+          <a href="253.html" class="menu__link" data-drupal-link-system-path="node/253">Electrodes</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--qiwellness-mobile" id="mlid-qiwellness-mobile">
+
+        <span class="menu__link--wrapper">
+          <a href="../qiWELLNESS-mobile.html" title="Jak połączyć miniVILL/qiWELLNESS z komórką" class="menu__link" data-drupal-link-system-path="node/299">qiWELLNESS mobile</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--iontophoresis-substances" id="mlid-iontophoresis-substances">
+
+        <span class="menu__link--wrapper">
+          <a href="../iontophoresis-substances.html" class="menu__link" data-drupal-link-system-path="iontophoresis-substances">Iontophoresis substances</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--eap-therapies" id="mlid-eap-therapies">
+
+        <span class="menu__link--wrapper">
+          <a href="../eap-therapies.html" class="menu__link" data-drupal-link-system-path="eap-therapies">EAP therapies</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--atlas" id="mlid-atlas">
+
+        <span class="menu__link--wrapper">
+          <a href="../atlas.html" title="Atlas punktów akupunkturowych" class="menu__link" data-drupal-link-system-path="atlas">Atlas</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--eav-ścieżki-diagnostyczne" id="mlid-eav-ścieżki-diagnostyczne">
+
+        <span class="menu__link--wrapper">
+          <a href="../eav-paths.html" class="menu__link" data-drupal-link-system-path="eav-paths">EAV ścieżki diagnostyczne</a>
+        </span>
+
+        
+      </li></ul>
+  
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--biozap" id="mlid-biozap">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="../biozap.html" class="menu__link" data-drupal-link-system-path="node/9">bioZAP</a>
+        </span>
+
+                  
+    <ul      class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--firmware-upload" id="mlid-firmware-upload">
+
+        <span class="menu__link--wrapper">
+          <a href="../wgranie-oprogramowania.html" class="menu__link" data-drupal-link-system-path="node/4">Firmware upload</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--język-biozap" id="mlid-język-biozap">
+
+        <span class="menu__link--wrapper">
+          <a href="../biozap.html" class="menu__link" data-drupal-link-system-path="node/9">Język bioZAP</a>
+        </span>
+
+        
+      </li></ul>
+  
+        
+      </li></ul>
+  
+
+</div></div>
+</nav>
+</div>
+    </div>
+  </div>
+      <div class="l-pr page__row pr-highlighted" id="highlighted">
+    <div class="l-rw regions container pr-highlighted__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="region-highlighted" class="l-r region pr-highlighted__highlighted">
+</div>
+    </div>
+  </div>
+        <div class="l-pr page__row pr-content-prefix" id="content-prefix">
+    <div class="l-rw regions container pr-content-prefix__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="region-content-prefix" class="l-r region pr-content-prefix__content-prefix"><div role="navigation" aria-labelledby="block-pixture-reloaded-breadcrumbs-menu" id="block-pixture-reloaded-breadcrumbs" class="block block-breadcrumbs block-config-provider--system block-plugin-id--system-breadcrumb-block">
+  <div class="block__inner">
+
+    
+    <h2 class="visually-hidden block__title block-breadcrumbs__title" id="block-pixture-reloaded-breadcrumbs-menu"><span>Breadcrumbs</span></h2>
+    
+      <div class="breadcrumb">
+    <nav class="is-responsive is-horizontal" data-at-responsive-list>
+      <div class="is-responsive__list">
+        <h3 class="visually-hidden breadcrumb__title">You are here:</h3>
+        <ol class="breadcrumb__list"><li class="breadcrumb__list-item is-responsive__item"><a href="/pl/" class="breadcrumb__link">Strona główna</a></li></ol>
+      </div>
+    </nav>
+  </div></div>
+</div>
+</div>
+    </div>
+  </div>
+      <div class="l-pr page__row pr-main regions-multiple" id="main-content">
+    <div class="l-rw regions container pr-main__rw arc--2 hr--1-3" data-at-regions="">
+      <div  data-at-region="region-content" class="l-r region pr-main__content"><main id="block-pixture-reloaded-content" class="block block-main-content" role="main">
+  
+  <article data-history-node-id="12" role="article" about="https://biotronika.pl/elektrody" typeof="schema:Article" class="node node--id-12 node--type-article node--promoted node--view-mode-full">
+  <div class="node__container">
+
+    <header class="node__header"><h1 class="node__title"><span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden">Elektrody</span>
+</h1>  <span property="schema:name" content="Elektrody" class="rdf-meta hidden"></span>
+  <span property="schema:interactionCount" content="UserComments:0" class="rdf-meta hidden"></span>
+</header>
+
+    <div class="node__content"><div class="field field-node--field-image field-formatter-image field-name-field-image field-type-image field-label-hidden has-single"><figure class="field-type-image__figure image-count-1 align-center"><div class="field-type-image__item">
+        <img property="schema:image" src="../sites/default/files/styles/large/public/2017-02/rurki01cd.png?itok=14r2a6_Q" width="374" height="480" alt="Elektrody rurkowe" typeof="foaf:Image" class="image-style-large" />
+
+</div>
+    </figure></div>
+<div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div property="schema:text" class="field__item"><p class="text-align-justify"> Najbardziej popularnymi i używanymi z zapperami elektrodami są dwie miedziane rurki. W rzeczywistości są mało wygodne, nieporęczne i nie zapewniają utrzymania odpowiednich parametrów zappowania. O ile łatwo je trzymać w dłoniach czy pod pachami, o tyle proces terapeutyczny wymaga doprowadzenia sygnału  w konkretne miejsca. Dobrym przykładem może być okolica szczęki nieopodal otworu po ekstrakcji zęba. Biorezonans przyspiesza gojenie rany, zmniejsza ból i opuchliznę, a także ogranicza prawdopodobieństwo powikłania. Innym przykładem jest prowadzenie terapii na zwierzętach np. kotach. Stąd istnieje szeroka gama różnego rodzaju elektrod. Poniżej zamieszczam opisy konstrukcji, z których ja korzystam wraz z przykładowymi zastosowaniami. </p>
+
+<p class="text-align-justify">Elektrody można podzielić na:</p>
+
+<ul>
+	<li class="text-align-justify">neoprenowe i gumowe,</li>
+	<li class="text-align-justify">metalowe.</li>
+</ul>
+
+<p class="text-align-justify">Pierwsza grupa zawierają najczęściej części metalowe, jednak nie są one głównym elementem styku z ciałem. W elektrodach metalowych stanowi on podstawowy element konstrukcyjny.</p>
+
+<p class="text-align-justify">Inny podział to:</p>
+
+<ul>
+	<li class="text-align-justify">jednorazowe,</li>
+	<li class="text-align-justify">wielorazowe,</li>
+	<li class="text-align-justify">wielorazowe dla wielu pacjentów.</li>
+</ul>
+
+<p class="text-align-justify">Elektrody stosowane u wielu pacjentów muszą umożliwiać sterylizację.</p>
+<!--break-->
+
+<p class="text-align-justify"> </p>
+
+<h4 class="text-align-justify"><strong>Elektrody materiałowe z irchą</strong></h4>
+
+<p class="text-align-justify">W elektrodach materiałowych jednorazowa przekładka z ręcznika papierowego zastąpiona została irchą. Przykładem może być elektroda obrączkowa lub pod stopy. O ile rozwiązano w ten sposób problem komfortu pacjenta to elrktrody nie spełnią pozostałych wymagań, a na dodatek nie powinny być stosowane dla wielu osób z powodów higienicznych. Każdy pacjent powinien mieć swój indywidualny komplet. Elementem przewodzącym jest neopren, guma lub kawałek taśmy metalowej (niekoniecznie miedzianej) po warstwą irchy.</p>
+
+<p class="text-align-justify"><img alt="e1" data-entity-type="file" data-entity-uuid="33a4cae5-0154-42ce-bd5f-e11de256c60d" src="../sites/default/files/inline-images/e1.png" /></p>
+
+<p class="text-align-justify"> </p>
+
+<p class="text-align-justify"><strong>Elektrody silikonowe z irchą do jonoforezy</strong></p>
+
+<p class="text-align-justify">Ta elektroda ma tę zaletę, że jej skład jest czysty chemicznie, przez to nie wprowadza się do organizmu niepożądanych substancji. Irchę namacza się w soli określonej substancji np. Voltaren, Naproxen itp. W jonoforezie trzeba pamiętać o właściwej biegunowości. Jeśli do organizmu wprowadzamy jony ujemne substancji czynnej (np. Voltaren) to należy ją podłączyć do bieguna ujemnego (czarny lub zielony). W przeciwny wypadku do dodatniego (czerwona, żółta).</p>
+
+<p class="text-align-justify"><img alt="image" data-entity-type="file" data-entity-uuid="13590d47-1955-41f6-ab59-459b8e27a004" height="376" src="../sites/default/files/inline-images/image_96.png" width="632" /></p>
+
+<p class="text-align-justify"> </p>
+
+<h4 class="text-align-justify">Elektrody samoprzylepne do stymulatorów mięśni</h4>
+
+<p class="text-align-justify">Z powodzeniem można korzystać z tego rozwiązania jeśli punktowo chcemy dostarczyć elektryczny sygnał terapeutyczny (EST) do organizmu. Te elektrody możemy wykorzystywać wielokrotnie pod warunkiem zwilżania warstwy żelowej co jakiś czas. Elektrodę stosujemy tylko dla jednego pacjenta. Elementem przewodzącym jest guma lub neopren.</p>
+
+<p class="text-align-justify"><img alt="e2" data-entity-type="file" data-entity-uuid="5d8139d0-c619-4e21-8338-ff470602d7f5" src="../sites/default/files/inline-images/e2.png" /></p>
+
+<p class="text-align-justify">Zalety: wygoda, zapewnienie właściwych parametrów przewodzenia, łatwość właściwego umiejscawiania na ciele. Wady: zużywa się, następuje zanieczyszczanie powierzchni żelowej, tylko dla jednego pacjenta.</p>
+
+<p class="text-align-justify"><font color="red">Do zappowania  nie nadają się elektrody do EKG. Skład żelu nie pozwala na stosowanie przepływu prądu, a także powierzchnia przewodzenia jest za mała. Skład chemiczny i konserwanty zawarte w żelach do EKG często powodują uczulenia. Te elektrody nie nadają się do terapii biorezonansowej.</font></p>
+
+<p class="text-align-justify"><img alt="e3" data-entity-type="file" data-entity-uuid="4f9863b7-3c6d-4529-a167-76bd1d76c6be" src="../sites/default/files/inline-images/e3.png" /></p>
+
+<h4 class="text-align-justify"> </h4>
+
+<h4 class="text-align-justify">Elektrody metalowe - pod stopy</h4>
+
+<p class="text-align-justify">Wszelkie elektrody metalowe są wykonane z miedzi, srebra lub złota. Dla zapewnienia odpowiednio niskiej rezystancji na styku elektroda-skóra stosuje się ręczniki papierowe lub chusteczki nasączone wodnym roztworem soli kuchennej tj. chlorku sodu (NaCl). Metalowe elektrody należy sterylizować i czyścić, a także warstwę jednorazowej przekładki używa się tylko raz. Stąd zapewniają one wysoki poziom higieny. <br />
+Elektroda pod stopy składa się z blachy miedzianej o grubości około 0,2 mm i długości 30cm.</p>
+
+<p class="text-align-justify"><img alt="e4" data-entity-type="file" data-entity-uuid="8227a964-0ee0-4bd4-8c02-c3280a689c54" src="../sites/default/files/inline-images/e4.png" /></p>
+
+<p class="text-align-justify">Zalety: wygoda stosowania, sterylność, duża powierzchnia przewodzenia. Wady: tylko pod stopy.</p>
+
+<h4 class="text-align-justify"> </h4>
+
+<p><strong>Elektroda cynowa do jonoforezy</strong></p>
+
+<p>Cyna jest uważana za materiał biologicznie bezpieczny. Dodatkowo jest niezwykle miękka więc można ją odpowiednim wałeczkiem docisnąć, aby równomiernie dociskała do skóry. Przez to rozkład gęstości prądu jest w miarę równomierny. Pomiędzy elektrodę, a ciało stosuje się nawilżony ręcznik z roztworem soli lub substancję czynną. Zacisk bananowy do elektrody jest przylutowany czystą cyną. (nie zawiera ołowiu).</p>
+
+<p><img alt="image" data-entity-type="file" data-entity-uuid="125c0327-8a6f-426b-99b6-a73696340e6c" height="465" src="../sites/default/files/inline-images/image_99.png" width="760" /></p>
+
+<p>Zalety: wygoda, biologicznie bezpieczna, dobre przyleganie</p>
+
+<p> </p>
+
+<h4 class="text-align-justify">Klamry z powłoką miedzianą</h4>
+
+<p class="text-align-justify">Elektroda miedziana skonstruowana na bazie klamry do EKG. Blachę wklejono do środka. Krokodylek kabla zappera montuje się na zgięciu klamry. Bardzo wygodna do montażu na kończynach np. przed i za łokciem w leczeni schorzeń stawów. Może być także stosowana jako elektroda odpływowa tj. uziemiająca. W tym przypadku dwie klamry montuje się na kończynie obok siebie i łączy ze sobą kablem zakończonym dwoma krokodylkami.  Taki układ zapewnia dużą powierzchnię przewodzenia i tym samym zmniejsza rezystancję kontaktową naskórka.</p>
+
+<p class="text-align-justify"><img alt="e5" data-entity-type="file" data-entity-uuid="a6fa72fb-75c9-4e23-aff4-71aedb2fad9c" src="../sites/default/files/inline-images/e5.png" /></p>
+
+<p class="text-align-justify">Zalety: wygoda stosowania, uniwersalność, łatwość montażu w wielu miejscach. Doskonała jako elektroda odpływowa (pomocnicza). Łatwo zadbać o sterylność. Stała siła nacisku zapewnia bardzo dobre parametry przewodzenia.</p>
+
+<h4 class="text-align-justify"> </h4>
+
+<h4 class="text-align-justify">Elektroda paskowa </h4>
+
+<p class="text-align-justify">Ma zastosowanie między innymi w zwalczaniu grzybicy paznokci. Z blachy miedzianej odcina się pasek szerokości 5-8mm. Mocuje ją się plastrem medycznym do palca. Wyjątkowo umieszcza się na skórze na specjalnie przygotowany żel, bez ręczników czy chusteczek higienicznych.</p>
+
+<p class="text-align-justify"><img alt="e6" data-entity-type="file" data-entity-uuid="7a57d461-ec0a-43de-b149-27d231a1a790" src="../sites/default/files/inline-images/e6.png" /></p>
+
+<p class="text-align-justify">Zalety: gabarytowo odpowiada wielkości palca w okolicach płytki paznokcia, niska cena  Wady: kilkukrotna użytkowość, przeznaczona tylko dla jednego pacjenta.</p>
+
+<h4 class="text-align-justify">Elektroda rurowa - mosiężna lub miedziana</h4>
+
+<p>Taką elektrodę przez warstwę wilgotnego ręcznika trzyma się w rękach. Średnica 2 cm. Zacisk banaowy jest dodatkową zaletą. Można stosować krokodylek do rury.</p>
+
+<p><img alt="image" data-entity-type="file" data-entity-uuid="e8870ccd-a419-4ca4-aa69-de275d284e04" height="501" src="../sites/default/files/inline-images/image_100.png" width="273" /></p>
+
+<p>Zalety: wygoda stosowania, nie powoduje poparzeń, bo skóra wewnątrz dłoni jest grubsza i odporniejsza.</p>
+
+<h4 class="text-align-justify">Elektroda punktowa</h4>
+
+<p class="text-align-justify">Wykonana z drutu miedzianego o przekroju 1,5 lub 2,5 mm<sup>2</sup>. Idealna w przypadku doprowadzenia EST do trudno dostępnego miejsca np. guzka hemoroidalnego, pryszcza podskórnego lub czyraka. Elektrodę stosuje się bezpośrednio przykładając do ciała w miejscu zabiegu po zwilżeniu jej żelem przewodzącym.</p>
+
+<p class="text-align-justify"><img alt="e7" data-entity-type="file" data-entity-uuid="271ed392-448e-4f8e-aa52-d55562b85af0" src="../sites/default/files/inline-images/e7.png" /></p>
+
+<h4 class="text-align-justify"> </h4>
+
+<h4 class="text-align-justify">Okablowanie</h4>
+
+<p class="text-align-justify">Kable podstawowe powinny być wykonane z dobrej jakości przewodów. Chińskie kabelki do tanich mierników się nie nadają z powodu słabych parametrów przewodności wtyczki bananowej. Lepiej zainwestować w kabelek kilkanaście złotych. Warto zwrócić uwagę, aby wtyk bananowy miał otwór do podłączenia kolejnej wtyczki. Czasem stosuje się kilka elektrod i łatwo kabelki ze sobą podłączyć do jednego zacisku zappera. Z drugiej strony kabel powinien być zakończony krokodylkami. Montaż na stałe z elektrodami jest niewygodny, a w dodatku wprowadza domieszki dodatkowych metali spoiwa, które korodują np. lut cynowo-ołowiowy. Metale w konstrukcji elektrody korodują w procesie elektrolizy, gdyż przepływający prąd elektryczny powoduje ich dysocjację na jony (konkretnie kationy) i  możemy sobie je w ten sposób wprowadzić do organizmu. To jest też powód nie nadużywania elektrod srebrnych, które mogą spowodować argyrię (srebrzycę).</p>
+
+<p class="text-align-justify">Kabel zakończony wtykami bananowymi z zaciskiem dodatkowej wtyczki - otwór w obudowie.<br />
+<img alt="k3" data-entity-type="file" data-entity-uuid="7f038917-aa14-41d0-b169-9fdd5110b878" height="459" src="../sites/default/files/inline-images/k3.png" width="351" /></p>
+
+<p class="text-align-justify"> </p>
+
+<p class="text-align-justify">Konstrukcja wtyku bananowego najwyższej jakości - koszt około 8zł/szt. [12-2016]</p>
+
+<p class="text-align-justify"><img alt="k4" data-entity-type="file" data-entity-uuid="1d99a81d-e71d-472b-a27e-232b00a5350d" height="439" src="../sites/default/files/inline-images/k4.png" width="350" /></p>
+
+<p class="text-align-justify"> </p>
+
+<p class="text-align-justify">Do wykonania kabla do zappera można wykorzystać krokodylki z ładowarki akumulatorów żelowych, jeśli zbudowałeś lub masz zamiar wykonać free-PEMF.</p>
+
+<p class="text-align-justify"><img alt="k2" data-entity-type="file" data-entity-uuid="ed02c91c-efe5-493c-86e1-c29997ce90bd" height="324" src="../sites/default/files/inline-images/k2.png" width="349" /></p>
+
+<p class="text-align-justify">W miarę przyzwoite kable do multimetru za kilkanście złotych. Końcówki pomiarowe zostały odcięnte i w to miejsce wlutowano krokodylki.</p>
+
+<p class="text-align-justify"><img alt="k1" data-entity-type="file" data-entity-uuid="c04b7a8f-9463-4b4b-a75e-c7725a0d6c83" height="711" src="../sites/default/files/inline-images/k1.png" width="529" /></p>
+
+<p class="text-align-justify"> </p>
+
+<p class="text-align-justify">Kabel pomocniczy z dwoma krokodylkami.</p>
+
+<p class="text-align-justify"><img alt="e8" data-entity-type="file" data-entity-uuid="49cb5e31-58e0-42df-bfa8-dadedc3eff1e" src="../sites/default/files/inline-images/e8.png" /></p>
+
+<p class="text-align-justify">Krokodylki nie są wykonane z miedzi tylko stalowe, pokryte warstwą chromu. Dlatego miejsce styku elektrody z krokodylkami w czasie terapii nie powinno być zwilżane roztworem soli, ani mieć kontaktu z nasączoną przekładką.</p>
+
+<p class="text-align-justify"> </p>
+
+<p class="text-align-justify">Przykład elektrod miedzianych i okablowania do zappowania kota. Na dno kontenera przyklejamy elektrody. Izolujemy brzegi taśmą. Wkładamy trzy kawałki ręcznika i izolujemy je od sąsiednich elektrod przezroczystą taśmą biurową. Następnie zwilżamy ręczniki roztworem soli.</p>
+
+<p class="text-align-justify"><img alt="e10" data-entity-type="file" data-entity-uuid="f482c395-d0d1-4ddd-8c43-7826ff07ff00" src="../sites/default/files/inline-images/e10.png" /></p>
+
+<p class="text-align-justify">Niemniej elektrody zapewniają odpowiednie przewodzenie „na sucho” – oczywiście tylko na próbę :-). Testuje ochotnik Tai.</p>
+</div></div>
+</div>
+</div></article>
+
+  
+</main>
+</div>
+      
+      <div  data-at-region="region-sidebar-second" class="l-r region pr-main__sidebar-second"><div class="search-block-form submit-is-visible block block-search block-config-provider--search block-plugin-id--search-form-block" data-drupal-selector="search-block-form" id="block-pixture-reloaded-search" role="search" aria-labelledby="block-pixture-reloaded-search-menu">
+  <div class="block__inner block-search__inner">
+
+    
+      <h2 class="visually-hidden block__title block-search__title" id="block-pixture-reloaded-search-menu"><span>Search</span></h2>
+    <div class="block__content block-search__content"><form action="https://biotronika.pl/search/node" method="get" id="search-block-form" accept-charset="UTF-8" class="search-block-form__form">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Wprowadź słowa, które mają zostać wyszukane." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+</div></div>
+</div>
+<div id="block-googletranslator" class="block block-config-provider--block-content block-plugin-id--block-content3ca163e6-fac5-4911-bf39-f2cc4e6cf7c8">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'pl', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}</script><script type="text/javascript" src="../../translate.google.com/translate_a/elementa0d8.html?cb=googleTranslateElementInit"></script></div></div>
+</div>
+</div></div>
+</div>
+<nav role="navigation" aria-labelledby="block-pixture-reloaded-tools-menu" id="block-pixture-reloaded-tools" class="block block-menu block-config-provider--system block-plugin-id--system-menu-blocktools has-title">
+  <div class="block__inner block-menu__inner">
+
+    
+    <h2 class="block__title block-menu__title" id="block-pixture-reloaded-tools-menu"><span>Tools</span></h2>
+    <div class="block__content block-menu__content">
+    <ul class="menu odd menu-level-1 menu-name--tools">      
+      
+            <li class="menu__item menu__item-title--fora" id="mlid-fora">
+
+        <span class="menu__link--wrapper">
+          <a href="../forum.html" class="menu__link" data-drupal-link-system-path="forum">Fora</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--kontakt" id="mlid-kontakt">
+
+        <span class="menu__link--wrapper">
+          <a href="../contact.html" title="Formularz kontaktowy" class="menu__link" data-drupal-link-system-path="contact">Kontakt</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--github-download" id="mlid-github-download">
+
+        <span class="menu__link--wrapper">
+          <a href="https://github.com/biotronika" title="Wersje źródłowe programów do urządzeń oraz dokumentacja bioZAP" class="menu__link">GitHub download</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--arduino-project-hub" id="mlid-arduino-project-hub">
+
+        <span class="menu__link--wrapper">
+          <a href="https://create.arduino.cc/projecthub/biotronika" class="menu__link">Arduino Project Hub</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--kanał-yt" id="mlid-kanał-yt">
+
+        <span class="menu__link--wrapper">
+          <a href="https://www.youtube.com/channel/UC7NnPF_izdwY4yzt34d8ZsQ" class="menu__link">Kanał YT</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--download" id="mlid-download">
+
+        <span class="menu__link--wrapper">
+          <a href="../download.html" class="menu__link" data-drupal-link-system-path="node/201">Download</a>
+        </span>
+
+        
+      </li></ul>
+  
+
+</div></div>
+</nav>
+<nav role="navigation" aria-labelledby="block-pixture-reloaded-account-menu-menu" id="block-pixture-reloaded-account-menu" class="block block-menu block-config-provider--system block-plugin-id--system-menu-blockaccount">
+  <div class="block__inner block-menu__inner">
+
+    
+    <h2 class="visually-hidden block__title block-menu__title" id="block-pixture-reloaded-account-menu-menu"><span>Menu użytkownika</span></h2>
+    <div class="block__content block-menu__content">
+    <ul class="menu odd menu-level-1 menu-name--account">      
+      
+            <li class="menu__item menu__item-title--zaloguj" id="mlid-zaloguj">
+
+        <span class="menu__link--wrapper">
+          <a href="../user/login.html" class="menu__link" data-drupal-link-system-path="user/login">Zaloguj</a>
+        </span>
+
+        
+      </li></ul>
+  
+
+</div></div>
+</nav>
+</div>
+    </div>
+  </div>
+          <footer class="l-pr page__row pr-footer" role="contentinfo" id="footer">
+    <div class="l-rw regions container pr-footer__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="region-footer" class="l-r region pr-footer__footer"><div id="block-celwitryny-new" class="block block-config-provider--block-content block-plugin-id--block-content9cde0081-6f1c-4237-bb8a-5117eb7957b1">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><p class="text-align-center">Misją witryny jest szerzenie wiedzy z pogranicza nauki związanej z biotroniką, czyli zastosowaniem elektrotechniki, fizyki, elektroniki, mechaniki w połączeniu z organizmami żywymi. Prowadzenie badań dowodzących lub obalających skuteczność proponowanych rozwiązań. Artykuły są wynikiem badań, poszukiwań i doświadczeń ich autorów oraz odwołują się do źródeł na których oparli oni swoje założenia. Misja realizowana jest pro publico bono, non profit. Wszystkie treści są publikowane na licencji <strong><a href="https://creativecommons.org/licenses/by-sa/3.0/pl/" target="_blank">Creative Common 3.0 dla Polski</a></strong></p>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+    </div>
+  </footer>
+    
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/12","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"pl"},"pluralDelimiter":"\u0003","ajaxPageState":{"theme":"pixture_reloaded","libraries":"anchor_link\/drupal.anchor_link,at_core\/at.breakpoints,at_core\/at.fastclick_initialize,at_core\/at.orientationchangereload,at_core\/at.responsivelists,at_core\/at.settings,ckeditor_spoiler\/ckeditor_spoiler,codesnippet\/codesnippet.highlightjs,codesnippet\/codesnippet.style.github,pixture_reloaded\/base,pixture_reloaded\/color,pixture_reloaded\/comment,pixture_reloaded\/contact,pixture_reloaded\/custom_css_file,pixture_reloaded\/fontfaceobserver,pixture_reloaded\/forum,pixture_reloaded\/language,pixture_reloaded\/pixture_reloaded.layout.page,pixture_reloaded\/responsive_menus,pixture_reloaded\/responsive_menus_dropmenu,pixture_reloaded\/responsive_menus_slidedown,pixture_reloaded\/responsive_tables,pixture_reloaded\/search,pixture_reloaded\/taxonomy,poll\/drupal.poll-links,statistics\/drupal.statistics,system\/base"},"pixture_reloaded":{"at_responsivemenus":{"bp":"all and (min-width: 60.063em)","default":"ms-slidedown","responsive":"ms-dropmenu","acd":{"acd_load":false}},"at_breakpoints":{"wide":{"breakpoint":"at_core.simple.wide","mediaquery":"all and (min-width: 60.063em)"},"tablet":{"breakpoint":"at_core.simple.tablet-isolate","mediaquery":"all and (min-width: 45.063em) and (max-width: 60em)"},"mobile":{"breakpoint":"at_core.simple.mobile","mediaquery":"all and (max-width: 45em)"}}},"ajaxTrustedUrl":{"https:\/\/biotronika.pl\/search\/node":true},"statistics":{"data":{"nid":"12"},"url":"\/core\/modules\/statistics\/statistics.php"},"user":{"uid":0,"permissionsHash":"8456858fbd13d2a45d89c789952cf578a8ababd8325af9e52258925b8e5e03e8"}}</script>
+  <script src="/core/assets/vendor/domready/ready.min.js"></script> 
+  <script src="/core/assets/vendor/jquery/jquery.min.js"></script> 
+  <script src="/core/assets/vendor/jquery-once/jquery.once.min.js"></script> 
+  <script src="/core/misc/drupalSettingsLoader.js"></script> 
+  <script src="/sites/default/files/languages/pl_JSincOWHTlTA5doqEljEuvkOBMMnlnPYuyaY7nheABo.js"></script> 
+  <script src="/core/misc/drupal.js"></script> 
+  <script src="/core/misc/drupal.init.js"></script> 
+  <script src="/modules/ckeditor_spoiler/js/spoiler.js"></script> 
+  <script src="/themes/adaptivetheme/at_core/scripts/min/at.responsiveTables.min.js"></script> 
+  <script src="/core/assets/vendor/matchMedia/matchMedia.min.js"></script> 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/enquire.js/2.1.2/enquire.min.js"></script> 
+  <script src="/themes/adaptivetheme/at_core/scripts/min/doubletaptogo.min.js"></script> 
+  <script src="/themes/adaptivetheme/at_core/scripts/min/at.responsiveMenus.min.js"></script> 
+  <script src="/themes/adaptivetheme/at_core/scripts/min/at.orientationChangeReload.min.js"></script> 
+  <script src="/core/modules/statistics/statistics.js"></script> 
+  <script src="/core/misc/debounce.js"></script> 
+  <script src="/themes/adaptivetheme/at_core/scripts/min/at.responsiveLists.min.js"></script> 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fontfaceobserver/2.0.8/fontfaceobserver.js"></script> 
+  <script src="/themes/pixture_reloaded/scripts/fontfaceobserver-check.js"></script> 
+  <script src="/themes/adaptivetheme/at_core/scripts/min/at.breakpoints.min.js"></script> 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script> 
+  <script src="/themes/adaptivetheme/at_core/scripts/min/at.fastclickInitialize.min.js"></script> 
+  <script src="/libraries/codesnippet/lib/highlight/highlight.pack.js"></script> 
+  <script src="/modules/codesnippet/js/codesnippet.js"></script>
+
+  </body>
+
+<!-- Mirrored from biotronika.pl/node/12 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Jan 2021 10:14:47 GMT -->
+</html>

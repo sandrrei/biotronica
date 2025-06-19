@@ -1,0 +1,915 @@
+<!DOCTYPE html><html lang="pl" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="no-js adaptivetheme">
+  
+<!-- Mirrored from biotronika.pl/node/87 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Jan 2021 10:14:47 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head><link href="../themes/pixture_reloaded/images/touch-icons/Icon-76-2x.png" rel="apple-touch-icon" sizes="152x152" /><link href="../themes/pixture_reloaded/images/touch-icons/Icon-60-2x.png" rel="apple-touch-icon" sizes="120x120" /><link href="../themes/pixture_reloaded/images/touch-icons/Icon-76.png" rel="apple-touch-icon" sizes="76x76" /><link href="../themes/pixture_reloaded/images/touch-icons/Icon-60.png" rel="apple-touch-icon" sizes="60x60" /><link href="../themes/pixture_reloaded/images/touch-icons/Icon-60.png" rel="shortcut icon" /><meta charset="utf-8" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="../sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="pl" href="../webinaria.html" />
+<link rel="canonical" href="../webinaria.html" />
+<link rel="shortlink" href="87.html" />
+<link rel="revision" href="../webinaria.html" />
+
+    <link rel="dns-prefetch" href="../../cdnjs.cloudflare.com/index.html"><title>Medycyna energetyczno-informacyjna i rozwój duchowy | biotronika.pl</title>
+    <style media="all">
+@import url("../core/themes/stable/css/system/components/ajax-progress.module.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/align.module.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/autocomplete-loading.module.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/fieldgroup.module.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/container-inline.module.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/clearfix.module.css?qczxdw");
+@import url("..//core/themes/stable/css/system/components/details.module.css?qczxdw");
+@import url("..//core/themes/stable/css/system/components/hidden.module.css?qczxdw");
+@import url("..//core/themes/stable/css/system/components/item-list.module.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/js.moduled349.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/nowrap.moduled349.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/position-container.moduled349.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/progress.moduled349.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/reset-appearance.moduled349.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/resize.moduled349.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/sticky-header.moduled349.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/system-status-counterd349.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/system-status-report-countersd349.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/system-status-report-general-infod349.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/tabledrag.moduled349.css?qczxdw");
+@import url("../core/themes/stable/css/system/components/tree-child.moduled349.css?qczxdw");
+@import url("../modules/ckeditor_spoiler/css/spoilerd349.css?qczxdw");
+@import url("../modules/poll/css/poll.based349.css?qczxdw");
+@import url("../modules/poll/css/poll.themed349.css?qczxdw");
+@import url("../modules/anchor_link/css/anchor_linkd349.css?qczxdw");
+@import url("../libraries/codesnippet/lib/highlight/styles/githubd349.css?qczxdw");
+</style>
+<style media="all">
+@import url("../themes/pixture_reloaded/styles/css/components/based349.css?qczxdw");
+@import url("../themes/pixture_reloaded/styles/css/generated/pixture_reloaded.layout.paged349.css?qczxdw");
+@import url("../themes/pixture_reloaded/styles/css/components/commentsd349.css?qczxdw");
+@import url("../themes/pixture_reloaded/styles/css/components/contact-formsd349.css?qczxdw");
+@import url("../themes/pixture_reloaded/styles/css/components/forumd349.css?qczxdw");
+@import url("../themes/pixture_reloaded/styles/css/components/languaged349.css?qczxdw");
+@import url("../themes/pixture_reloaded/styles/css/components/searchd349.css?qczxdw");
+@import url("../themes/pixture_reloaded/styles/css/components/taxonomyd349.css?qczxdw");
+@import url("../themes/pixture_reloaded/styles/css/components/responsive-tables.css?qczxdw");
+@import url("../themes/pixture_reloaded/styles/css/components/responsive-menus--slidedown.css?qczxdw");
+@import url("../themes/pixture_reloaded/styles/css/components/responsive-menus--dropmenu.css?qczxdw");
+@import url("../themes/pixture_reloaded/styles/css/components/responsive-menus.css?qczxdw");
+@import url("../sites/default/files/color/pixture_reloaded-409d2dc2/colord349.css?qczxdw");
+@import url("../themes/pixture_reloaded/styles/css/customd349.css?qczxdw");
+</style>
+
+    <script src="..//core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1"></script>
+
+  </head><body role="document" class="user-logged-out path-node path-node-87 page-node-type--article site-name--biotronikapl theme-name--pixture-reloaded">
+        <a href="#block-pixture-reloaded-content" class="visually-hidden focusable skip-link">Przejdź do treści</a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="page">
+      <header class="l-pr page__row pr-header regions-multiple" role="banner" id="masthead">
+    <div class="l-rw regions container pr-header__rw arc--2 hr--1-2" data-at-regions="">
+      <div  data-at-region="region-header-first" class="l-r region pr-header__header-first"><div id="block-pixture-reloaded-branding" class="block block-branding block-system block-system-branding-block">
+  <div class="block__inner block-branding__inner">
+
+    <div class="block__content block-branding__content site-branding"><a href="/pl/" title="Strona główna" itemprop="url" rel="home" class="site-branding__logo-link"><img src="..//sites/default/files/logo72x72.png" alt="Strona główna" itemprop="logo" class="site-branding__logo-img" /></a><span class="site-branding__text"><strong class="site-branding__name"><a href="/pl/" title="Strona główna" itemprop="url" rel="home" class="site-branding__name-link">biotronika.pl</a></strong><em class="site-branding__slogan">Najlepsze rzeczy są za darmo: matka Ziemia, Linux, przyroda, miłość...</em></span></div></div>
+</div>
+</div>
+      <div  data-at-region="region-header-second" class="l-r region pr-header__header-second"><div id="block-langaugeselectorwithgraphics-new" class="block block-config-provider--block-content block-plugin-id--block-contentaab4d1b7-caab-44e9-b398-a93cec037559">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><p><a href="../../biotronics.eu/index.html" id="" rel="" target="" title="English"><img alt="English" data-entity-type="file" data-entity-uuid="b1357cf3-c69e-4896-9d0f-b987afd6a4c5" height="61" src="../sites/default/files/inline-images/English256.png" width="61" /></a><a href="/pl/" id="" rel="" target="" title="Polish"><img alt="Polish" data-entity-type="file" data-entity-uuid="0f3e65eb-b3e8-4463-91a1-ce0ca2db5c2a" height="61" src="../sites/default/files/inline-images/Polish256.png" width="61" /></a></p>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+    </div>
+  </header>
+      <div class="l-pr page__row pr-navbar" id="navbar">
+    <div class="l-rw regions container pr-navbar__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="region-navbar" class="l-r region pr-navbar__navbar"><svg style="display:none;">
+    <symbol id="rm-toggle__icon--open" viewBox="0 0 1792 1792" preserveAspectRatio="xMinYMid meet">
+    <path class="rm-toggle__icon__path" d="M1664 1344v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45z"/>
+  </symbol>
+    <symbol id="rm-toggle__icon--close" viewBox="0 0 1792 1792" preserveAspectRatio="xMinYMid meet">
+    <path class="rm-toggle__icon__path" d="M1490 1322q0 40-28 68l-136 136q-28 28-68 28t-68-28l-294-294-294 294q-28 28-68 28t-68-28l-136-136q-28-28-28-68t28-68l294-294-294-294q-28-28-28-68t28-68l136-136q28-28 68-28t68 28l294 294 294-294q28-28 68-28t68 28l136 136q28 28 28 68t-28 68l-294 294 294 294q28 28 28 68z"/>
+  </symbol>
+</svg>
+<nav role="navigation" aria-labelledby="block-pixture-reloaded-main-menu-menu" id="block-pixture-reloaded-main-menu" class="rm-block rm-config-provider--system rm-plugin-id--system-menu-block-main js-hide">
+  <div class="rm-block__inner">
+    <div class="rm-toggle">
+      <button href="#rm-content" class="rm-toggle__link un-button" role='button' aria-controls="rm-content" aria-expanded="false">
+                <svg class="rm-toggle__icon">
+          <use id="rm-toggle__icon--use" xlink:href="#rm-toggle__icon--open"></use>
+        </svg>
+                <span class="rm-toggle__label" id="block-pixture-reloaded-main-menu-menu">Menu</span>
+      </button>
+    </div><div class="rm-block__content" id="rm-content">
+        
+    <ul class="menu odd menu-level-1 menu-name--main">      
+      
+            <li class="menu__item menu__item-title--terapie" id="mlid-terapie">
+
+        <span class="menu__link--wrapper">
+          <a href="../therapies.html" title="Lista terapii ze skryptami BIOzap" class="menu__link" data-drupal-link-system-path="therapies">Terapie</a>
+        </span>
+
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--freepemf" id="mlid-freepemf">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="../czym-jest-free-pemf.html" class="menu__link">freePEMF</a>
+        </span>
+
+                  
+    <ul      class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--czym-jest-freepemf" id="mlid-czym-jest-freepemf">
+
+        <span class="menu__link--wrapper">
+          <a href="../czym-jest-free-pemf.html" class="menu__link" data-drupal-link-system-path="node/1">Czym jest freePEMF</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--instrukcja-użytkownika" id="mlid-instrukcja-użytkownika">
+
+        <span class="menu__link--wrapper">
+          <a href="../Instrukcja-free-pemf.html" class="menu__link" data-drupal-link-system-path="node/3">Instrukcja użytkownika</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-freepemf-duo" id="mlid-montaż-freepemf-duo">
+
+        <span class="menu__link--wrapper">
+          <a href="../DIY-freePEMF-duo.html" class="menu__link" data-drupal-link-system-path="node/173">Montaż freePEMF duo</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-freepemf" id="mlid-montaż-freepemf">
+
+        <span class="menu__link--wrapper">
+          <a href="../montaz-free-PEMF-nowy-typ.html" class="menu__link" data-drupal-link-system-path="node/77">Montaż freePEMF</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--wykonanie-maty" id="mlid-wykonanie-maty">
+
+        <span class="menu__link--wrapper">
+          <a href="../wykonanie-maty.html" title="Opis budowy maty do free-PEMF oraz zappera++" class="menu__link" data-drupal-link-system-path="node/29">Wykonanie maty</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--mata-kwadropolowa" id="mlid-mata-kwadropolowa">
+
+        <span class="menu__link--wrapper">
+          <a href="../mata-kwadropolowa.html" class="menu__link" data-drupal-link-system-path="node/174">Mata kwadropolowa</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--oprogramowanie" id="mlid-oprogramowanie">
+
+        <span class="menu__link--wrapper">
+          <a href="../wgranie-oprogramowania.html" class="menu__link" data-drupal-link-system-path="node/4">Oprogramowanie</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-cewki" id="mlid-montaż-cewki">
+
+        <span class="menu__link--wrapper">
+          <a href="../dobor-i-montaz-cewki.html" class="menu__link" data-drupal-link-system-path="node/5">Montaż cewki</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--dobór-cewki" id="mlid-dobór-cewki">
+
+        <span class="menu__link--wrapper">
+          <a href="159.html" class="menu__link" data-drupal-link-system-path="node/159">Dobór cewki</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--rozwiązywanie-problemów" id="mlid-rozwiązywanie-problemów">
+
+        <span class="menu__link--wrapper">
+          <a href="../ratuj-free-PEMF.html" class="menu__link" data-drupal-link-system-path="node/43">Rozwiązywanie problemów</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--stymulacja-fal-mózgowych" id="mlid-stymulacja-fal-mózgowych">
+
+        <span class="menu__link--wrapper">
+          <a href="../stymulacja-fal-mozgowych.html" class="menu__link" data-drupal-link-system-path="node/23">Stymulacja fal mózgowych</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--płytka-pcb" id="mlid-płytka-pcb">
+
+        <span class="menu__link--wrapper">
+          <a href="92.html" title="Płytka drukowana dla elektroników amatorów" class="menu__link" data-drupal-link-system-path="node/92">Płytka PCB</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--strukturyzator-wody" id="mlid-strukturyzator-wody">
+
+        <span class="menu__link--wrapper">
+          <a href="../strukturyzator-wody.html" class="menu__link" data-drupal-link-system-path="node/37">Strukturyzator wody</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--sleeping-freepemf" id="mlid-sleeping-freepemf">
+
+        <span class="menu__link--wrapper">
+          <a href="../sleeping-freePEMF.html" class="menu__link" data-drupal-link-system-path="node/207">Sleeping freePEMF</a>
+        </span>
+
+        
+      </li></ul>
+  
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--multizap" id="mlid-multizap">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="../multiZAP-manual.html" class="menu__link" data-drupal-link-system-path="node/131">multiZAP</a>
+        </span>
+
+                  
+    <ul      class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--instrukcja-multizap" id="mlid-instrukcja-multizap">
+
+        <span class="menu__link--wrapper">
+          <a href="../multiZAP-manual.html" class="menu__link" data-drupal-link-system-path="node/131">Instrukcja multiZAP</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--lista-częstotliwości" id="mlid-lista-częstotliwości">
+
+        <span class="menu__link--wrapper">
+          <a href="../czestotliwosci.html" class="menu__link" data-drupal-link-system-path="node/35">Lista częstotliwości</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-multizap" id="mlid-montaż-multizap">
+
+        <span class="menu__link--wrapper">
+          <a href="../multiZAP-montaz.html" class="menu__link" data-drupal-link-system-path="node/91">Montaż multiZAP</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--elektrody" id="mlid-elektrody">
+
+        <span class="menu__link--wrapper">
+          <a href="../elektrody.html" title="Elektrody do biorezonansu" class="menu__link" data-drupal-link-system-path="node/12">Elektrody</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--wykonanie-maty" id="mlid-wykonanie-maty">
+
+        <span class="menu__link--wrapper">
+          <a href="../wykonanie-maty.html" title="Opis budowy maty do free-PEMF oraz zappera++" class="menu__link" data-drupal-link-system-path="node/29">Wykonanie maty</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--oprogramowanie" id="mlid-oprogramowanie">
+
+        <span class="menu__link--wrapper">
+          <a href="../wgranie-oprogramowania.html" class="menu__link" data-drupal-link-system-path="node/4">Oprogramowanie</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--remotezap-android" id="mlid-remotezap-android">
+
+        <span class="menu__link--wrapper">
+          <a href="1676.html" class="menu__link" data-drupal-link-system-path="node/1676">RemoteZap Android</a>
+        </span>
+
+        
+      </li></ul>
+  
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--zapper-plus" id="mlid-zapper-plus">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="../czym-jest-zapper-plus.html" class="menu__link">zapper-plus</a>
+        </span>
+
+                  
+    <ul      class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--czym-jest-zapper-plus" id="mlid-czym-jest-zapper-plus">
+
+        <span class="menu__link--wrapper">
+          <a href="../czym-jest-zapper-plus.html" class="menu__link" data-drupal-link-system-path="node/7">Czym jest zapper-plus</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-zappera-plus" id="mlid-montaż-zappera-plus">
+
+        <span class="menu__link--wrapper">
+          <a href="../montaz-zappera-plus.html" class="menu__link" data-drupal-link-system-path="node/10">Montaż zappera-plus</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--elektrody" id="mlid-elektrody">
+
+        <span class="menu__link--wrapper">
+          <a href="../elektrody.html" title="Elektrody do zappera" class="menu__link" data-drupal-link-system-path="node/12">Elektrody</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--srebro-koloidalne" id="mlid-srebro-koloidalne">
+
+        <span class="menu__link--wrapper">
+          <a href="../srebro-koloidalne.html" class="menu__link" data-drupal-link-system-path="node/36">Srebro koloidalne</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--ionzapper" id="mlid-ionzapper">
+
+        <span class="menu__link--wrapper">
+          <a href="../ionZAPPER.html" class="menu__link" data-drupal-link-system-path="node/238">ionZAPPER</a>
+        </span>
+
+        
+      </li></ul>
+  
+        
+      </li>      
+      
+            <li class="menu__item menu__item--collapsed menu__item-title--zenon" id="mlid-zenon">
+
+        <span class="menu__link--wrapper">
+          <a href="../zenon1.html" class="menu__link" data-drupal-link-system-path="node/99">zenON</a>
+        </span>
+
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--qiwellness" id="mlid-qiwellness">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="../what-is-qiWELLNESS.html" title="Urządzenie do TCM" class="menu__link" data-drupal-link-system-path="node/200">qiWELLNESS</a>
+        </span>
+
+                  
+    <ul      class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--czym-jest-qiwellness" id="mlid-czym-jest-qiwellness">
+
+        <span class="menu__link--wrapper">
+          <a href="../what-is-qiWELLNESS.html" class="menu__link" data-drupal-link-system-path="node/200">Czym jest qiWELLNESS</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--acupen-biotronika" id="mlid-acupen-biotronika">
+
+        <span class="menu__link--wrapper">
+          <a href="../acupen.html" class="menu__link" data-drupal-link-system-path="node/210">Acupen biotronika</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--montaż-qiwellness" id="mlid-montaż-qiwellness">
+
+        <span class="menu__link--wrapper">
+          <a href="205.html" class="menu__link" data-drupal-link-system-path="node/205">Montaż qiWELLNESS</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--electrodes" id="mlid-electrodes">
+
+        <span class="menu__link--wrapper">
+          <a href="253.html" class="menu__link" data-drupal-link-system-path="node/253">Electrodes</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--qiwellness-mobile" id="mlid-qiwellness-mobile">
+
+        <span class="menu__link--wrapper">
+          <a href="../qiWELLNESS-mobile.html" title="Jak połączyć miniVILL/qiWELLNESS z komórką" class="menu__link" data-drupal-link-system-path="node/299">qiWELLNESS mobile</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--iontophoresis-substances" id="mlid-iontophoresis-substances">
+
+        <span class="menu__link--wrapper">
+          <a href="../iontophoresis-substances.html" class="menu__link" data-drupal-link-system-path="iontophoresis-substances">Iontophoresis substances</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--eap-therapies" id="mlid-eap-therapies">
+
+        <span class="menu__link--wrapper">
+          <a href="../eap-therapies.html" class="menu__link" data-drupal-link-system-path="eap-therapies">EAP therapies</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--atlas" id="mlid-atlas">
+
+        <span class="menu__link--wrapper">
+          <a href="../atlas.html" title="Atlas punktów akupunkturowych" class="menu__link" data-drupal-link-system-path="atlas">Atlas</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--eav-ścieżki-diagnostyczne" id="mlid-eav-ścieżki-diagnostyczne">
+
+        <span class="menu__link--wrapper">
+          <a href="../eav-paths.html" class="menu__link" data-drupal-link-system-path="eav-paths">EAV ścieżki diagnostyczne</a>
+        </span>
+
+        
+      </li></ul>
+  
+        
+      </li>                    
+      
+            <li class="menu__item is-parent menu__item--expanded menu__item-title--biozap" id="mlid-biozap">
+
+        <span class="menu__link--wrapper is-parent__wrapper">
+          <a href="../biozap.html" class="menu__link" data-drupal-link-system-path="node/9">bioZAP</a>
+        </span>
+
+                  
+    <ul      class="menu is-child even menu-level-2">      
+      
+            <li class="menu__item menu__item-title--firmware-upload" id="mlid-firmware-upload">
+
+        <span class="menu__link--wrapper">
+          <a href="../wgranie-oprogramowania.html" class="menu__link" data-drupal-link-system-path="node/4">Firmware upload</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--język-biozap" id="mlid-język-biozap">
+
+        <span class="menu__link--wrapper">
+          <a href="../biozap.html" class="menu__link" data-drupal-link-system-path="node/9">Język bioZAP</a>
+        </span>
+
+        
+      </li></ul>
+  
+        
+      </li></ul>
+  
+
+</div></div>
+</nav>
+</div>
+    </div>
+  </div>
+      <div class="l-pr page__row pr-highlighted" id="highlighted">
+    <div class="l-rw regions container pr-highlighted__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="region-highlighted" class="l-r region pr-highlighted__highlighted">
+</div>
+    </div>
+  </div>
+        <div class="l-pr page__row pr-content-prefix" id="content-prefix">
+    <div class="l-rw regions container pr-content-prefix__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="region-content-prefix" class="l-r region pr-content-prefix__content-prefix"><div role="navigation" aria-labelledby="block-pixture-reloaded-breadcrumbs-menu" id="block-pixture-reloaded-breadcrumbs" class="block block-breadcrumbs block-config-provider--system block-plugin-id--system-breadcrumb-block">
+  <div class="block__inner">
+
+    
+    <h2 class="visually-hidden block__title block-breadcrumbs__title" id="block-pixture-reloaded-breadcrumbs-menu"><span>Breadcrumbs</span></h2>
+    
+      <div class="breadcrumb">
+    <nav class="is-responsive is-horizontal" data-at-responsive-list>
+      <div class="is-responsive__list">
+        <h3 class="visually-hidden breadcrumb__title">You are here:</h3>
+        <ol class="breadcrumb__list"><li class="breadcrumb__list-item is-responsive__item"><a href="/pl/" class="breadcrumb__link">Strona główna</a></li></ol>
+      </div>
+    </nav>
+  </div></div>
+</div>
+</div>
+    </div>
+  </div>
+      <div class="l-pr page__row pr-main regions-multiple" id="main-content">
+    <div class="l-rw regions container pr-main__rw arc--2 hr--1-3" data-at-regions="">
+      <div  data-at-region="region-content" class="l-r region pr-main__content"><main id="block-pixture-reloaded-content" class="block block-main-content" role="main">
+  
+  <article data-history-node-id="87" role="article" about="https://biotronika.pl/webinaria" typeof="schema:Article" class="node node--id-87 node--type-article node--promoted node--sticky node--view-mode-full">
+  <div class="node__container">
+
+    <header class="node__header"><h1 class="node__title"><span property="schema:name" class="field field-name-title field-formatter-string field-type-string field-label-hidden">Medycyna energetyczno-informacyjna i rozwój duchowy</span>
+</h1>  <span property="schema:name" content="Medycyna energetyczno-informacyjna i rozwój duchowy" class="rdf-meta hidden"></span>
+  <span property="schema:interactionCount" content="UserComments:0" class="rdf-meta hidden"></span>
+</header>
+
+    <div class="node__content"><div class="field field-node--field-image field-formatter-image field-name-field-image field-type-image field-label-hidden has-single"><figure class="field-type-image__figure image-count-1 align-center"><div class="field-type-image__item">
+        <img property="schema:image" src="../sites/default/files/styles/large/public/2017-10/webinarium%20full%20hd6907.png?itok=eAgp_7z3" width="480" height="270" alt="Webinarium" typeof="foaf:Image" class="image-style-large" />
+
+</div>
+    </figure></div>
+<div property="schema:text" class="clearfix text-formatted field field-node--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div property="schema:text" class="field__item"><p class="text-align-justify">Webinaria są przede wszystkim dedykowane osobom, które zbudowały opublikowane urządzenia samodzielnie lub brały udział w warsztatach. Intencją autorów jest poruszanie tematów z praktycznego wykorzystania posiadanego sprzętu oraz szerzenia wiedzy o nim.  </p>
+
+<form action="https://biotronika.pl/" id="form1" method="post" onsubmit="return false;">
+<p class="text-align-justify" lang="PL-PL" paraeid="{fe2a1ecd-c059-462b-92f5-1755f54d436d}{145}" paraid="56930813" xml:lang="PL-PL" xml:lang="PL-PL">Webinarium nie jest miejscem rozwiązywania problemów technicznych. Jeśli masz tego typu pytania to korzystaj z Formularza Kontaktowego, działu Ratuj lub Forum witryny biotronika.pl. </p>
+
+<p class="text-align-justify" paraeid="{24dd2233-0522-49a4-9012-6aedeb240ea8}{255}" paraid="1225583836">Do aktywnego uczestnictwa będzie konieczne posiadanie konta Google, ponieważ do realizacji webinariów będziemy korzystać z technologii YouTube online i wbudowanego chatu. </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{20}" paraid="1210724383">Aktywne uczestnictwo, zgodnie z promowaną ideą, jest darmowe. Każdy będzie mógł zadać dowolne pytanie związane z tematem. </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199">Zapraszamy serdecznie</p>
+
+<h3 class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><strong>Webinaria 2020</strong></h3>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><strong>2019-12 / 2020-01 Ryodaraku część 1 i część 2</strong></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199">Pierwsza część pokazuje jak się wykonuje takie badania, a w drugiej omawiam dwa studia przypadku wykorzystania metody RYODORAKU.</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/NvggprLbcHQ" width="320"></iframe>   <iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/DVCt_cW2XKE" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><strong>04/2020 qiWELNESS mobile</strong></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199">Jak wykorzystać smartfon do sterowania qiWELLNESS na przykładzie leczenia bólu zatokowego. </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/3WbChQzBJo8?rel=0" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"> </p>
+<!--break-->
+
+<h3 class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><strong>Webinaria 2019</strong></h3>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><strong>7.03.2019 20:00 - FILM Biorezonans od środka - Nova Diagnostics cz.1</strong></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199">Autor dokonuje inżynierii odwróconej popularnego urządzenia do biorezonansu znajdującego się w gabinetach specjalistów od naturopatii i biorezonansu. Porównuje różnice pomiędzy otwartą konstrukcją <strong>miniVOLL</strong> i komercyjnym <strong>NOVA Diagnostics</strong> bliźniaczo podobnym do urządzenia występującego na polskim rynku. Autor zastanawia się czy elektroakupunktura Volla, vega-test i express-scan mają prawo działać?</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/GrRfZX3WGDQ?rel=0" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><strong>22.03.2019 - PREMIERA FILMU Biorezonans od środka - Nova Diagnostics cz.2: Express-scan,  </strong></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><strong>Część 2</strong>. Prezentacja jak działa urządzenie <strong>NOVA Diagnostics</strong> i jego oprogramowanie do <strong>Express-scan</strong>. Próba odpowiedzenia na pytanie czy ta metoda daje wiarygodne wyniki. Na czym opiera ta metoda swoje działanie?</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/0A50BWKDAkg?rel=0" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199">Literatura:</p>
+
+<ul>
+	<li class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199">Prawie wszystko o metodzie R. Volla, wyd. Ensoelectronics 2009, ISBN 9788393226924</li>
+	<li class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199">Vegatest diagnostyka wegetatywno-rezonansowa Teoria i praktyka, wyd. Ensoelectronics 2011, ISBN 9788393226917</li>
+	<li class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199">Pomoc do Programu AM SCAN VEGATEST wyd. Ensoelectronics 2011</li>
+	<li class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199">Instrukcja do urządzenia NOVA Diagnostics [<a href="../../olvianova.com.ua/docs/NOVA%20diagnostics.pdf" target="_blank">2019-03</a>]</li>
+	<li class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199">Vegetative nervous system [<a href="https://en.wikipedia.org/wiki/Autonomic_nervous_system" target="_blank">Wikipedia 2019-03</a>]</li>
+</ul>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199">Zobacz moje przemyślenie po nakręceniu tej serii.</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/xQt4L37Xs4w?rel=0" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><strong>4.04.2019 - WEBINARIUM - Elektroakupunktura Volla i elektroakupunktura.</strong></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199">Czym różnią się te metody? Co dzięki nim zyskujemy? Czym są te metody? Ile to kosztuje? Kiedy warto zacząć je stosować, a kiedy nie? Jak zacząć? - Postaram się wyczerpująco odpowiedzieć na te i inne pytania.</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/J82gX-dXu5o?rel=0" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><strong>26.05.2019 - WEBINARIUM Elektroakupunktura R. Volla (EAV)  w praktyce - jak samodzielnie się diagnozować. </strong></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199">Czy to jest trudne? Jak zdobyć sprzęt. Literatura fachowa. Jak zacząć. Czynniki sukcesu. Metodyka pracy. </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"><strong><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/pkFF8jgX0gw" width="320"></iframe></strong></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383"><strong>6.06.2019 - WEBINARIUM Czym jest Ryodoraku? Jak zacząć.</strong></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383">Podstawy teoretyczne i praktyczne wskazówki jak zacząć stosować tę metodę. <a href="../what-is-qiWELLNESS.html" target="_blank">Więcej informacji</a></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/LE5Z_jNJdvI" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383"><strong>06/2019 PREMIERA FILMU Biorezonans od środka - Quantum Resonance Magnetic Analyzer</strong></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383">Autor dokonuje inżynierii odwróconej urządzenia występującego na popularnych aukcjach internetowych. Jak to urządzenie działa? Co można powiedzieć o tym urządzeniu? Prezentacja własnych wyników. Poniżej umieszczam film innego autora w wersji angielskiej.</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/7ZneV8aKP2U?rel=0" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383"><strong>4.07.2019 - WEBINARIUM - Metoda Vegatest</strong></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383"><a href="https://www.youtube.com/channel/UC7NnPF_izdwY4yzt34d8ZsQ/live">https://www.youtube.com/channel/UC7NnPF_izdwY4yzt34d8ZsQ/live</a></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383">Czy model medycyny chińskiej jest uznawany naukowo? Czy NFZ refunduje zabiegi akupunktury? Na czym polega medycyna chińska. Czym są meridiany i punkty <strong>BAP</strong>. Koncepcja <strong>R. Volla</strong>. Fenomen opadania wskazówki. Na czym polega metoda <strong>dra Helmuta Schimella</strong> <strong>Vegatest</strong>. Czym jest układ wegetatywny? Badania naukowe dotyczące <strong>Vegatest - jak czas pozwoli.</strong><br />
+ </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383"><strong>2019-11-28 cz.3: Elektroakupunktura Volla  (EAV) i Vegatest</strong></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383"><strong>Część 3</strong>. Na czym polega metoda <strong>EAV</strong>. Jak działa oprogramowanie do <strong>EAV</strong>. Co pomaga, a co przeszkadza w <strong>EAV</strong> <strong>Vegatest </strong>w wykonaniu <strong>NOVA Diagnostics</strong>. Jak działa selektor preparatów - próba odpowiedzi na to pytanie. Na co należy zwrócić uwagę udając się do gabinetu specjalisty od biorezonansu lub naturopaty stosującego te metody.</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/97FIa7EPEzI" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{24}" paraid="266831199"> </p>
+
+<h3 class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{26}" paraid="1072976383"><strong>Webinaria  z 2017 i 2018 roku</strong></h3>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{38}" paraid="382288308"><strong>02.11.2017</strong> – Dobre i złe pole elektromagnetyczne. Praktyczne wykorzystanie free-PEMF w przeciwdziałaniu niekorzystnym czynnikom środowiskowym. </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{38}" paraid="382288308"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/aqskMvIpLLs?rel=0" width="320"></iframe> <iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/cdqF2r0a8cQ" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{38}" paraid="382288308"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{38}" paraid="382288308"><strong>07.12.2017</strong> – Wykorzystanie pulsującego pola elektromagnetycznego niskich częstotliwości PEMF ELF w skuteczniejszym leczeniu chorób. </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{38}" paraid="382288308"> <iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/jW4uWY4WW8o?rel=0" width="320"></iframe>    <iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/d2szUwSYAKo?rel=0" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{38}" paraid="382288308"><a href="../../www.trulyheal.com/wp-content/uploads/PEMF-EXPERT-TRAINING.html" target="_blank">PEMF Expert Training</a> - Marcus Freudenmann [2017-12]</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{58}" paraid="1403134210"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{58}" paraid="1403134210"><strong>04.01.2018 </strong>– Tradycyjna medycyna chińska versus elektroakupunktura Volla .</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{58}" paraid="1403134210"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/sn5Wrope3Qs?rel=0" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{58}" paraid="1403134210"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"><strong>01.02.2018</strong> – Czym jest biorezonas - częśc 1</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/Zogpj-18HY8?rel=0" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"><strong>16.02.2018</strong> - Czym jest biorezonas - częśc 2 - praktyczne zastosowanie aktywnego biorezonansu.</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/Y3UFuAxrPvs?rel=0" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"><strong>1.03.2018</strong> - Czym jest biorezonas - częśc 3 - Jak skutecznie stosować. Czynniki sukcesu terapii.</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/Jig503WflYY?rel=0" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"><strong>Seria "W praktyce"</strong></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246">Magnetostymulacja</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/VjGd5HUuckM?rel=0" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246">Magnetoterapia</p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"><iframe allowfullscreen="" frameborder="0" height="180" src="http://www.youtube.com/embed/GxHFEnw3tdM?rel=0" width="320"></iframe></p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"> </p>
+
+<p class="text-align-justify" paraeid="{4e0b5e33-57ab-4028-8724-935d2a913773}{70}" paraid="232341246"> </p>
+</form>
+</div></div>
+</div>
+</div></article>
+
+  
+</main>
+</div>
+      
+      <div  data-at-region="region-sidebar-second" class="l-r region pr-main__sidebar-second"><div class="search-block-form submit-is-visible block block-search block-config-provider--search block-plugin-id--search-form-block" data-drupal-selector="search-block-form" id="block-pixture-reloaded-search" role="search" aria-labelledby="block-pixture-reloaded-search-menu">
+  <div class="block__inner block-search__inner">
+
+    
+      <h2 class="visually-hidden block__title block-search__title" id="block-pixture-reloaded-search-menu"><span>Search</span></h2>
+    <div class="block__content block-search__content"><form action="https://biotronika.pl/search/node" method="get" id="search-block-form" accept-charset="UTF-8" class="search-block-form__form">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Wprowadź słowa, które mają zostać wyszukane." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+</div></div>
+</div>
+<div id="block-googletranslator" class="block block-config-provider--block-content block-plugin-id--block-content3ca163e6-fac5-4911-bf39-f2cc4e6cf7c8">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'pl', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}</script><script type="text/javascript" src="../../translate.google.com/translate_a/elementa0d8.html?cb=googleTranslateElementInit"></script></div></div>
+</div>
+</div></div>
+</div>
+<nav role="navigation" aria-labelledby="block-pixture-reloaded-tools-menu" id="block-pixture-reloaded-tools" class="block block-menu block-config-provider--system block-plugin-id--system-menu-blocktools has-title">
+  <div class="block__inner block-menu__inner">
+
+    
+    <h2 class="block__title block-menu__title" id="block-pixture-reloaded-tools-menu"><span>Tools</span></h2>
+    <div class="block__content block-menu__content">
+    <ul class="menu odd menu-level-1 menu-name--tools">      
+      
+            <li class="menu__item menu__item-title--fora" id="mlid-fora">
+
+        <span class="menu__link--wrapper">
+          <a href="../forum.html" class="menu__link" data-drupal-link-system-path="forum">Fora</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--kontakt" id="mlid-kontakt">
+
+        <span class="menu__link--wrapper">
+          <a href="../contact.html" title="Formularz kontaktowy" class="menu__link" data-drupal-link-system-path="contact">Kontakt</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--github-download" id="mlid-github-download">
+
+        <span class="menu__link--wrapper">
+          <a href="https://github.com/biotronika" title="Wersje źródłowe programów do urządzeń oraz dokumentacja bioZAP" class="menu__link">GitHub download</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--arduino-project-hub" id="mlid-arduino-project-hub">
+
+        <span class="menu__link--wrapper">
+          <a href="https://create.arduino.cc/projecthub/biotronika" class="menu__link">Arduino Project Hub</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--kanał-yt" id="mlid-kanał-yt">
+
+        <span class="menu__link--wrapper">
+          <a href="https://www.youtube.com/channel/UC7NnPF_izdwY4yzt34d8ZsQ" class="menu__link">Kanał YT</a>
+        </span>
+
+        
+      </li>      
+      
+            <li class="menu__item menu__item-title--download" id="mlid-download">
+
+        <span class="menu__link--wrapper">
+          <a href="../download.html" class="menu__link" data-drupal-link-system-path="node/201">Download</a>
+        </span>
+
+        
+      </li></ul>
+  
+
+</div></div>
+</nav>
+<nav role="navigation" aria-labelledby="block-pixture-reloaded-account-menu-menu" id="block-pixture-reloaded-account-menu" class="block block-menu block-config-provider--system block-plugin-id--system-menu-blockaccount">
+  <div class="block__inner block-menu__inner">
+
+    
+    <h2 class="visually-hidden block__title block-menu__title" id="block-pixture-reloaded-account-menu-menu"><span>Menu użytkownika</span></h2>
+    <div class="block__content block-menu__content">
+    <ul class="menu odd menu-level-1 menu-name--account">      
+      
+            <li class="menu__item menu__item-title--zaloguj" id="mlid-zaloguj">
+
+        <span class="menu__link--wrapper">
+          <a href="../user/login.html" class="menu__link" data-drupal-link-system-path="user/login">Zaloguj</a>
+        </span>
+
+        
+      </li></ul>
+  
+
+</div></div>
+</nav>
+</div>
+    </div>
+  </div>
+          <footer class="l-pr page__row pr-footer" role="contentinfo" id="footer">
+    <div class="l-rw regions container pr-footer__rw arc--1 hr--1" data-at-regions="">
+      <div  data-at-region="region-footer" class="l-r region pr-footer__footer"><div id="block-celwitryny-new" class="block block-config-provider--block-content block-plugin-id--block-content9cde0081-6f1c-4237-bb8a-5117eb7957b1">
+  <div class="block__inner">
+
+    <div class="block__content"><div class="clearfix text-formatted field field-block-content--body field-formatter-text-default field-name-body field-type-text-with-summary field-label-hidden has-single"><div class="field__items"><div class="field__item"><p class="text-align-center">Misją witryny jest szerzenie wiedzy z pogranicza nauki związanej z biotroniką, czyli zastosowaniem elektrotechniki, fizyki, elektroniki, mechaniki w połączeniu z organizmami żywymi. Prowadzenie badań dowodzących lub obalających skuteczność proponowanych rozwiązań. Artykuły są wynikiem badań, poszukiwań i doświadczeń ich autorów oraz odwołują się do źródeł na których oparli oni swoje założenia. Misja realizowana jest pro publico bono, non profit. Wszystkie treści są publikowane na licencji <strong><a href="https://creativecommons.org/licenses/by-sa/3.0/pl/" target="_blank">Creative Common 3.0 dla Polski</a></strong></p>
+</div></div>
+</div>
+</div></div>
+</div>
+</div>
+    </div>
+  </footer>
+    
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/87","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"pl"},"pluralDelimiter":"\u0003","ajaxPageState":{"theme":"pixture_reloaded","libraries":"anchor_link\/drupal.anchor_link,at_core\/at.breakpoints,at_core\/at.fastclick_initialize,at_core\/at.orientationchangereload,at_core\/at.responsivelists,at_core\/at.settings,ckeditor_spoiler\/ckeditor_spoiler,codesnippet\/codesnippet.highlightjs,codesnippet\/codesnippet.style.github,pixture_reloaded\/base,pixture_reloaded\/color,pixture_reloaded\/comment,pixture_reloaded\/contact,pixture_reloaded\/custom_css_file,pixture_reloaded\/fontfaceobserver,pixture_reloaded\/forum,pixture_reloaded\/language,pixture_reloaded\/pixture_reloaded.layout.page,pixture_reloaded\/responsive_menus,pixture_reloaded\/responsive_menus_dropmenu,pixture_reloaded\/responsive_menus_slidedown,pixture_reloaded\/responsive_tables,pixture_reloaded\/search,pixture_reloaded\/taxonomy,poll\/drupal.poll-links,statistics\/drupal.statistics,system\/base"},"pixture_reloaded":{"at_responsivemenus":{"bp":"all and (min-width: 60.063em)","default":"ms-slidedown","responsive":"ms-dropmenu","acd":{"acd_load":false}},"at_breakpoints":{"wide":{"breakpoint":"at_core.simple.wide","mediaquery":"all and (min-width: 60.063em)"},"tablet":{"breakpoint":"at_core.simple.tablet-isolate","mediaquery":"all and (min-width: 45.063em) and (max-width: 60em)"},"mobile":{"breakpoint":"at_core.simple.mobile","mediaquery":"all and (max-width: 45em)"}}},"ajaxTrustedUrl":{"https:\/\/biotronika.pl\/search\/node":true},"statistics":{"data":{"nid":"87"},"url":"\/core\/modules\/statistics\/statistics.php"},"user":{"uid":0,"permissionsHash":"8456858fbd13d2a45d89c789952cf578a8ababd8325af9e52258925b8e5e03e8"}}</script>
+<script src="../core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+<script src="../core/assets/vendor/jquery/jquery.minf77b.js?v=3.2.1"></script>
+<script src="../core/assets/vendor/jquery-once/jquery.once.mind1f1.js?v=2.2.0"></script>
+<script src="../core/misc/drupalSettingsLoaderc9dd.js?v=8.5.2"></script>
+<script src="..//sites/default/files/languages/pl_JSincOWHTlTA5doqEljEuvkOBMMnlnPYuyaY7nheABo.js?qczxdw"></script>
+<script src="../core/misc/drupalc9dd.js?v=8.5.2"></script>
+<script src="../core/misc/drupal.initc9dd.js?v=8.5.2"></script>
+<script src="../modules/ckeditor_spoiler/js/spoilerc9dd.js?v=8.5.2"></script>
+<script src="../themes/adaptivetheme/at_core/scripts/min/at.responsiveTables.minc385.js?v=8.x-1.0"></script>
+<script src="../core/assets/vendor/matchMedia/matchMedia.minee2f.js?v=0.2.0"></script>
+<script src="../../cdnjs.cloudflare.com/ajax/libs/enquire.js/2.1.2/enquire.min.js"></script>
+<script src="..//themes/adaptivetheme/at_core/scripts/min/doubletaptogo.min.js?v=8.x-1.0"></script>
+<script src="..//themes/adaptivetheme/at_core/scripts/min/at.responsiveMenus.min.js?v=8.x-1.0"></script>
+<script src="..//themes/adaptivetheme/at_core/scripts/min/at.orientationChangeReload.min.js?v=8.x-1.0"></script>
+<script src="..//core/modules/statistics/statistics.js?v=8.5.2"></script>
+<script src="..//core/misc/debounce.js?v=8.5.2"></script>
+<script src="..//themes/adaptivetheme/at_core/scripts/min/at.responsiveLists.min.js?v=8.x-1.0"></script>
+<script src="../../cdnjs.cloudflare.com/ajax/libs/fontfaceobserver/2.0.8/fontfaceobserver.js"></script>
+<script src="..//themes/pixture_reloaded/scripts/fontfaceobserver-check.js?v=8.x-1.0"></script>
+<script src="..//themes/adaptivetheme/at_core/scripts/min/at.breakpoints.min.js?v=8.x-1.0"></script>
+<script src="../../cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
+<script src="..//themes/adaptivetheme/at_core/scripts/min/at.fastclickInitialize.min.js?v=8.x-1.0"></script>
+<script src="..//libraries/codesnippet/lib/highlight/highlight.pack.js?v=8.5.2"></script>
+<script src="..//modules/codesnippet/js/codesnippet.js?v=8.5.2"></script>
+
+  </body>
+
+<!-- Mirrored from biotronika.pl/node/87 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Jan 2021 10:14:47 GMT -->
+</html>
