@@ -1,39 +1,24 @@
 # Node.js
 node_modules/
 dist/
-*.log
-npm-debug.log*
-
-# TypeScript build files
 *.tsbuildinfo
+
+# NestJS
+.env
+*.log
 
 # Docker
 docker/*.git
-**/.dockerignore
+docker/.dockerignore
 
-# VSCode / IDEs
-.vscode/
-.idea/
-
-# Env files (segurança)
-.env
-
-# Archivarix e HTML temporários
-html/.content*/
-html/.content*/backup/
-html/.content*/backup/*
-html/sessions/
-
-# Backups ou ficheiros cache locais
-*.bak
+# Arquivos temporários
 *.swp
-*~
+*.swo
 .DS_Store
-Thumbs.db
 
-# Git internals em subpastas
-*/.git/
-*/.gitignore
+# Archivarix conteúdo extra
+html/.content*/
 
-# Exclui container temporário montado por volumes
-node-backend-*/
+# Sessões e backups
+html/sessions/
+html/.content.*/
