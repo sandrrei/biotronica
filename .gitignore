@@ -1,29 +1,39 @@
-# Dependências do Node.js
+# Node.js
 node_modules/
 dist/
+*.log
+npm-debug.log*
+
+# TypeScript build files
 *.tsbuildinfo
 
-# Dados gerados por execução
-html/sessions/
-html/*.php
-*.log
-*.zip
-*.tar
-*.sqlite
-*.db
+# Docker
+docker/*.git
+**/.dockerignore
 
-# Containers, volumes e imagens específicas
-node-backend-*/
-docker-volume/
-
-# Arquivos sensíveis
-.env
-.env.*
-
-# IDEs e configs locais
+# VSCode / IDEs
 .vscode/
+.idea/
+
+# Env files (segurança)
+.env
+
+# Archivarix e HTML temporários
+html/.content*/
+html/.content*/backup/
+html/.content*/backup/*
+html/sessions/
+
+# Backups ou ficheiros cache locais
+*.bak
 *.swp
 *~
+.DS_Store
+Thumbs.db
 
-# Arquivos específicos a ignorar (opcional)
-archivarix.cms.php
+# Git internals em subpastas
+*/.git/
+*/.gitignore
+
+# Exclui container temporário montado por volumes
+node-backend-*/
