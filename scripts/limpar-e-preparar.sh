@@ -28,6 +28,7 @@ docker/.dockerignore
 # Archivarix
 html/.content.*
 html/sessions/
+html/archivarix.cms.php
 
 # Backups / Temporários
 .DS_Store
@@ -38,12 +39,15 @@ node-backend-*/
 *.zip
 EOF
 
+# Proteger alterações locais ao archivarix.cms.php (opcional)
+git update-index --assume-unchanged html/archivarix.cms.php || true
+
 echo "✅ .gitignore atualizado."
 
 echo "🧹 Limpando arquivos ignorados do índice Git..."
 
 # Remove do índice (mas mantém no disco)
-git rm -r --cached node_modules dist html/.content.* html/sessions/ node-backend-* docker/.git .env 2>/dev/null || true
+git rm -r --cached node_modules dist html/.content.* html/sessions/ node-backend-* docker/.git .env html/archivarix.cms.php 2>/dev/null || true
 
 echo "✅ Remoções concluídas (se existiam)."
 
@@ -144,4 +148,3 @@ if [[ "$confirm" == "s" ]]; then
 else
   echo "❌ Cancelado. Nada foi enviado."
 fi
-
