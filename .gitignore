@@ -12,7 +12,7 @@ docker/*.git
 docker/.dockerignore
 
 # Archivarix
-html/.content*/
+html/.content.*
 html/sessions/
 
 # Backups / Temporários

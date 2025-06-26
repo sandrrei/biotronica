@@ -1,6 +1,10 @@
-###Este script automatiza a limpeza e organização do repositório Git, gerando `.gitignore` e `README.md`, removendo ficheiros ignorados do índice, e opcionalmente realizando `git commit + push`:
+#### limpar-e-preparar.sh
+#
+#Este script automatiza a limpeza e organização do repositório Git, gerando `.gitignore` e `README.md`, removendo ficheiros ignorados do índice, e opcionalmente realizando `git commit + push`:
+#
+#```bash
+#!/bin/bash
 
-####```bash
 #!/bin/bash
 
 set -e
@@ -22,7 +26,7 @@ docker/*.git
 docker/.dockerignore
 
 # Archivarix
-html/.content*/
+html/.content.*
 html/sessions/
 
 # Backups / Temporários
@@ -128,8 +132,15 @@ echo
 read -p "👉 Deseja confirmar e fazer commit? (s/n): " confirm
 if [[ "$confirm" == "s" ]]; then
   git commit -m "Limpeza e geração automática do README.md"
-  git push origin main
-  echo "🚀 Alterações enviadas para o GitHub!"
+  echo "✅ Commit criado."
+
+  read -p "🚀 Deseja fazer push para o GitHub agora? (s/n): " push_confirm
+  if [[ "$push_confirm" == "s" ]]; then
+    git push origin main
+    echo "🚀 Alterações enviadas para o GitHub!"
+  else
+    echo "📦 Push adiado. Podes fazer manualmente com: git push"
+  fi
 else
   echo "❌ Cancelado. Nada foi enviado."
 fi
