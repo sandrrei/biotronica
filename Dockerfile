@@ -1,3 +1,14 @@
+### Dockerfile for Archivarix CMS
+# This Dockerfile sets up a PHP environment with Apache for Archivarix CMS.
+# It includes necessary PHP extensions, sets up Apache, and configures PHP settings.
+# The PHP version used is 8.2, and the working directory is set to /var/www/html.
+# The Dockerfile also includes the Archivarix CMS PHP file and sets up the necessary permissions.
+# The timezone is set to Europe/Lisbon, and the memory limit is configured to 2G.
+# The Dockerfile is designed to be used in a development environment with a user named "devuser" with UID 1000.
+# The Archivarix CMS PHP file is copied to the working directory and given appropriate permissions.
+# The Apache server is configured to allow URL rewriting and to recognize the server name.
+# The Dockerfile also installs Node.js version 20 for any JavaScript requirements of the CMS.
+# The timezone is set to Europe/Lisbon, and the memory limit is configured to
 FROM php:8.2-apache
 
 ENV DEBIAN_FRONTEND=noninteractive
@@ -8,14 +19,15 @@ RUN apt-get update && apt-get install -y apt-utils
 RUN apt-get install -y \
     curl gnupg \
     libzip-dev zip \
-    libmagickwand-dev \
+    libmagickwand-dev cron \
+    acl \
     libicu-dev \
     nano \
-    vim && \
+    vim net-tools && \
     curl -fsSL https://deb.nodesource.com/setup_20.x | bash - && \
     apt-get install -y nodejs && \
     node -v && npm -v && \
-    pecl install imagick && \
+    pecl install imagick curl inetutils-ping traceroute && \
     docker-php-ext-enable imagick && \
     docker-php-ext-configure intl && \
     docker-php-ext-install intl && \

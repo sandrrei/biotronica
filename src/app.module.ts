@@ -7,7 +7,7 @@ import { RedisModule } from '@nestjs-modules/ioredis';
 import { Environment } from './core/interface';
 import { DataModule } from './modules/data/data.module';
 import { ForumModule } from './modules/forum/forum.module';
-import { EapModule } from './modules/eap/eap.module';  // <-- added
+import { EapModule } from './modules/eap/eap.module';
 
 @Module({
   imports: [
@@ -18,7 +18,6 @@ import { EapModule } from './modules/eap/eap.module';  // <-- added
       imports: [ConfigModule],
       useFactory: async (configService: ConfigService<Environment>) => {
         const uri = configService.get<string>('MONGODB_URI');
-        console.log('Connecting to MongoDB with URI:', uri);  // Optional log
         return { uri };
       },
       inject: [ConfigService],
@@ -35,7 +34,7 @@ import { EapModule } from './modules/eap/eap.module';  // <-- added
     AuthModule,
     DataModule,
     ForumModule,
-    EapModule,  // <-- added here
+    EapModule,
   ],
   controllers: [],
   providers: [],

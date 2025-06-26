@@ -17,7 +17,7 @@ async function bootstrap() {
   app.setGlobalPrefix('api');
 
   app.enableCors({
-    origin: ['http://ryodo.duckdns.org', 'https://ryodo.duckdns.org'], // or '*' if you want
+    origin: ['http://biotronica.duckdns.org', 'https://biotronica.duckdns.org'], // or '*' if you want
     credentials: true,
   });
 
@@ -37,17 +37,21 @@ async function bootstrap() {
     next();
   });
 
-  const config = new DocumentBuilder()
-    .setTitle('NestJS TODO Playground API')
-    .setDescription('The NestJS TODO Playground API description')
-    .setVersion('1.0')
-    .addBearerAuth()
-    .build();
+    const config = new DocumentBuilder()
+      .setTitle('Biotronica API')
+      .setDescription('API da plataforma Biotronica')
+      .setVersion('1.0')
+      .build();
 
-  const documentFactory = () => SwaggerModule.createDocument(app, config);
+
+  //✅ Fica assim:
+  //📘 Swagger UI: https://biotronica.duckdns.org:3001/api/docs
+  //📄 Swagger JSON: https://biotronica.duckdns.org:3001/api-json
+  //(porque SwaggerModule.setup() não altera o endpoint do JSON)
+  const document = SwaggerModule.createDocument(app, config);
   
-  // Swagger UI at /docs (not /api/docs)
-  SwaggerModule.setup('api/docs', app, documentFactory, {
+  
+  SwaggerModule.setup('docs', app, document, {
     swaggerOptions: { persistAuthorization: true },
   });
 
@@ -62,7 +66,7 @@ async function bootstrap() {
   app.useGlobalFilters(new AllExceptionFilter());
   app.useGlobalInterceptors(new TransformInterceptor());
 
-  await app.listen(process.env.PORT ?? 3000);
+  await app.listen(process.env.PORT ?? 3001, '0.0.0.0');
   return app;
 }
 

@@ -2,7 +2,7 @@ import { Controller, Get, Post, Body, Param, Delete, Put } from '@nestjs/common'
 import { EapService } from './eap.service';
 import { CreateEapDto, UpdateEapDto } from './dto';
 
-@Controller('api/eap')
+@Controller('eap')
 export class EapController {
   constructor(private readonly eapService: EapService) {}
 
