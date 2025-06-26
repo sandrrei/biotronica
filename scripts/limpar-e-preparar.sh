@@ -144,4 +144,4 @@ if [[ "$confirm" == "s" ]]; then
 else
   echo "❌ Cancelado. Nada foi enviado."
 fi
-```
+
