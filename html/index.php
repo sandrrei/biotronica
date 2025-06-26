@@ -21,11 +21,11 @@
  * GNU General Public License for more details.
  *
  * @package    Archivarix.Loader
- * @version    0.1.260803
+ * @version    0.1.200406
  * @author     Archivarix Team <hello@archivarix.com>
  * @telegram   https://t.me/archivarixsupport
  * @messenger  https://m.me/ArchivarixSupport
- * @copyright  2017-2024 Archivarix LLC
+ * @copyright  2017-2020 Archivarix LLC
  * @license    https://www.gnu.org/licenses/gpl.html GNU GPLv3
  * @link       https://archivarix.com
  */
@@ -33,28 +33,178 @@
 @ini_set( 'display_errors', 0 );
 
 /**
+ * Switch mode to integrate with 3rd party CMS.
+ * 0 = Default, no integration
+ * 1 = Integration enabled, only missing URLs are passed to integrated CMS
+ * 2 = Enabled and homepage is passed to integrated CMS
+ * -1 = Return 404 error on missing urls, no integration. Disables ARCHIVARIX_FIX_*.
+ */
+const ARCHIVARIX_LOADER_MODE = 0;
+
+/**
+ * This parameter can have three options: http, https, any.
+ * Set any for the website to work on http and https protocols
+ * at the same time.
+ */
+const ARCHIVARIX_PROTOCOL = 'any';
+
+/**
+ * Return 1px.png if image does not exist.
+ */
+const ARCHIVARIX_FIX_MISSING_IMAGES = 0;
+
+/**
+ * Return empty.css if css does not exist.
+ */
+const ARCHIVARIX_FIX_MISSING_CSS = 0;
+
+/**
+ * Return empty.js if javascript does not exist.
+ */
+const ARCHIVARIX_FIX_MISSING_JS = 0;
+
+/**
+ * Return empty.ico if favicon.ico does not exist.
+ */
+const ARCHIVARIX_FIX_MISSING_ICO = 0;
+
+/**
+ * Redirect missing html pages.
+ */
+const ARCHIVARIX_REDIRECT_MISSING_HTML = 0;
+
+/**
+ * Replace a custom key-phrase with a text file or php script.
+ * You can do multiple custom replaces at once by adding more
+ * array element.
+ * Attention! Place files into .content.xxxxxxxx/includes/ directory!
+ */
+const ARCHIVARIX_INCLUDE_CUSTOM = array(
+  [
+    'FILE'      => '', // place a file to .content.xxxxxxxx/includes/ directory and enter its filename here
+    'KEYPHRASE' => '', // an entry to look for
+    'LIMIT'     => 1, // how many matches to replace; -1 for unlimited
+    'REGEX'     => 0, // 1 to enable perl regex (important: escape ~ symbol); 0 - disabled
+    'POSITION'  => 1, // -1 to place before KEYPHRASE, 0 to replace, 1 to place after KEYPHRASE
+  ],
+
+  /**
+   * Here are two most common predefined rules you may use.
+   * Just fill out FILE to activate and don't forget to put
+   * a file to .content.xxxxxxxx.
+   */
+
+  // before closing </head> rule, good for trackers and analytics
+  [
+    'FILE'      => '',
+    'KEYPHRASE' => '</head>',
+    'LIMIT'     => 1,
+    'REGEX'     => 0,
+    'POSITION'  => -1,
+  ],
+
+  // before closing </body> rule, good for counters or footer links
+  [
+    'FILE'      => '',
+    'KEYPHRASE' => '</body>',
+    'LIMIT'     => 1,
+    'REGEX'     => 0,
+    'POSITION'  => -1,
+  ],
+
+  // remove twitter widget in the right column on all the pages
+  [
+    'OPERATION' => 'REMOVE',
+    'XPATH' => '//*[@id="twitter-2"]',
+  ],
+  [
+    'OPERATION' => 'REMOVE',
+    'XPATH' => '//*[@id="twitter-widgets-js"]',
+  ],
+
+  // replace the hoster information widget in the right column on all pages
+  [
+    'OPERATION' => 'REPLACE',
+    'XPATH' => '//*[@id="text-6"]',
+    'FILE' => 'hosted_by_franciliens.html',
+  ],
+
+  // add a legacy banner on all pages to annonce the new blog
+  [
+    'OPERATION' => 'APPEND',
+    'XPATH' => '//nav[contains(@class, "navbar")]',
+    'FILE' => 'warning_new_blog.php',
+  ],
+
+  // Remove Matomo tracker
+  [
+    'FILE'      => 'empty_tracker.html',
+    'KEYPHRASE' => '<!-- Matomo -->.*<!-- End Matomo Code -->',
+    'LIMIT'     => 1,
+    'REGEX'     => 1,
+    'POSITION'  => 0,
+  ],
+);
+
+/**
+ * Custom source directory name. By default this script searches
+ * for .content.xxxxxxxx directory. Set the different value if you
+ * renamed that directory.
+ */
+const ARCHIVARIX_CONTENT_PATH = '';
+
+/**
+ * Set Cache-Control header for static files.
+ * By default set to 0 and Etag is used for caching.
+ */
+const ARCHIVARIX_CACHE_CONTROL_MAX_AGE = 2592000;
+
+/**
+ * Website can run on another domain by default.
+ * Set a custom domain if it is not recognized automatically or
+ * you want to run your restore on a subdomain of original domain.
+ */
+const ARCHIVARIX_CUSTOM_DOMAIN = '';
+
+/**
+ * XML Sitemap path. Example: /sitemap.xml
+ * Do not use query in sitemap path as it will be ignored
+ */
+const ARCHIVARIX_SITEMAP_PATH = '';
+
+/**
+ * This feature is experimental. Catch urls with a missing content
+ * and store them for later review in Archivarix CMS.
+ */
+const ARCHIVARIX_CATCH_MISSING = 0;
+
+/**
+ * This feature is experimental. Catch urls with a missing wordpress version
+ * and replace them with the most recent version available
+ */
+const WORDPRESS_FIX_MISSING_VERSION = 1;
+
+/**
  *  Do not edit under this comment
  */
 
-const ARCHIVARIX_VERSION = '0.1.240803';
-define( 'ARCHIVARIX_HTTP_HOST', isset( $_SERVER['HTTP_HOST'] ) ? $_SERVER['HTTP_HOST'] : '' );
+const ARCHIVARIX_VERSION = '0.1.200406';
 
 $LOADER = [
-  'ARCHIVARIX_LOADER_MODE'           => 0,
-  'ARCHIVARIX_PROTOCOL'              => 'any',
-  'ARCHIVARIX_FIX_MISSING_IMAGES'    => 1,
-  'ARCHIVARIX_FIX_MISSING_CSS'       => 1,
-  'ARCHIVARIX_FIX_MISSING_JS'        => 1,
-  'ARCHIVARIX_FIX_MISSING_ICO'       => 1,
-  'ARCHIVARIX_REDIRECT_MISSING_HTML' => '/',
-  'ARCHIVARIX_INCLUDE_CUSTOM'        => [],
-  'ARCHIVARIX_CONTENT_PATH'          => '',
-  'ARCHIVARIX_CACHE_CONTROL_MAX_AGE' => 31536000,
-  'ARCHIVARIX_CUSTOM_DOMAIN'         => '',
-  'ARCHIVARIX_SITEMAP_PATH'          => '',
-  'ARCHIVARIX_CATCH_MISSING'         => 0,
-  'ARCHIVARIX_QUERYLESS'             => 1,
-  'ARCHIVARIX_BLOCK_BOTS'            => [],
+  'ARCHIVARIX_LOADER_MODE'           => ARCHIVARIX_LOADER_MODE,
+  'ARCHIVARIX_PROTOCOL'              => ARCHIVARIX_PROTOCOL,
+  'ARCHIVARIX_FIX_MISSING_IMAGES'    => ARCHIVARIX_FIX_MISSING_IMAGES,
+  'ARCHIVARIX_FIX_MISSING_CSS'       => ARCHIVARIX_FIX_MISSING_CSS,
+  'ARCHIVARIX_FIX_MISSING_JS'        => ARCHIVARIX_FIX_MISSING_JS,
+  'ARCHIVARIX_FIX_MISSING_ICO'       => ARCHIVARIX_FIX_MISSING_ICO,
+  'ARCHIVARIX_REDIRECT_MISSING_HTML' => ARCHIVARIX_REDIRECT_MISSING_HTML,
+  'ARCHIVARIX_INCLUDE_CUSTOM'        => ARCHIVARIX_INCLUDE_CUSTOM,
+  'ARCHIVARIX_CONTENT_PATH'          => ARCHIVARIX_CONTENT_PATH,
+  'ARCHIVARIX_CACHE_CONTROL_MAX_AGE' => ARCHIVARIX_CACHE_CONTROL_MAX_AGE,
+  'ARCHIVARIX_CUSTOM_DOMAIN'         => ARCHIVARIX_CUSTOM_DOMAIN,
+  'ARCHIVARIX_SITEMAP_PATH'          => ARCHIVARIX_SITEMAP_PATH,
+  'ARCHIVARIX_CATCH_MISSING'         => ARCHIVARIX_CATCH_MISSING,
+  'WORDPRESS_FIX_MISSING_VERSION'    => WORDPRESS_FIX_MISSING_VERSION,
 ];
 
 $ARCHIVARIX_SETTINGS = array();
@@ -79,16 +229,13 @@ function loadLoaderSettings( $sourcePath )
  */
 function getSourceRoot()
 {
-  global $LOADER;
-  if ( $LOADER['ARCHIVARIX_CONTENT_PATH'] ) {
-    $path = $LOADER['ARCHIVARIX_CONTENT_PATH'];
+  if ( ARCHIVARIX_CONTENT_PATH ) {
+    $path = ARCHIVARIX_CONTENT_PATH;
   } else {
     $path = '';
     $list = scandir( dirname( __FILE__ ) );
     foreach ( $list as $item ) {
-      if ( preg_match( '~^\.content\.[0-9a-zA-Z]+$~', $item )
-        && is_dir( __DIR__ . DIRECTORY_SEPARATOR . $item )
-      ) {
+      if ( preg_match( '~^\.content\.[0-9a-zA-Z]+$~', $item ) && is_dir( __DIR__ . DIRECTORY_SEPARATOR . $item ) ) {
         $path = $item;
         break;
       }
@@ -125,7 +272,7 @@ function loadSettings( $dsn )
       case 1 :
       case 11:
         header( 'X-Error-Description: Database is corrupted or data missing.' );
-        throw new \Exception( 'Database is corrupted or tables are missing' );
+        throw new \Exception( 'Database is corrupted or tables are data' );
         break;
       case 14 :
         header( 'X-Error-Description: Write permission problem.' );
@@ -133,29 +280,6 @@ function loadSettings( $dsn )
         break;
     endswitch;
   }
-}
-
-function blockBots()
-{
-  global $LOADER;
-  if ( empty( $LOADER['ARCHIVARIX_BLOCK_BOTS'] ) || !is_array( $LOADER['ARCHIVARIX_BLOCK_BOTS'] ) ) return;
-  if ( empty( $_SERVER['HTTP_USER_AGENT'] ) ) return;
-  $cleanRegex = implode( '|',
-    ['Safari.[\d\.]*', 'Firefox.[\d\.]*', ' Chrome.[\d\.]*', 'Chromium.[\d\.]*', 'MSIE.[\d\.]', 'Opera\/[\d\.]*', 'Mozilla.[\d\.]*', 'AppleWebKit.[\d\.]*', 'Trident.[\d\.]*', 'Windows NT.[\d\.]*', 'Android [\d\.]*', 'Macintosh.', 'Ubuntu', 'Linux', '[ ]Intel', 'Mac OS X [\d_]*', '(like )?Gecko(.[\d\.]*)?', 'KHTML,', 'CriOS.[\d\.]*', 'CPU iPhone OS ([0-9_])* like Mac OS X', 'CPU OS ([0-9_])* like Mac OS X', 'iPod', 'compatible', 'x86_..', 'i686', 'x64', 'X11', 'rv:[\d\.]*', 'Version.[\d\.]*', 'WOW64', 'Win64', 'Dalvik.[\d\.]*', ' \.NET CLR [\d\.]*', 'Presto.[\d\.]*', 'Opera Mini\/\d{1,2}\.\d{1,2}\.[\d\.]*\/\d{1,2}\.', ' \.NET[\d\.]*'] );
-  $botRegex   = implode( '|', $LOADER['ARCHIVARIX_BLOCK_BOTS'] );
-  $agent      = trim( preg_replace( "~{$cleanRegex}~i", '', $_SERVER['HTTP_USER_AGENT'] ) );
-  if ( preg_match( "~{$botRegex}~i", $agent ) ) {
-    render404();
-    exit( 0 );
-  }
-}
-
-function getMetaParam( $dsn, $name )
-{
-  $pdo = new PDO( $dsn );
-  $sth = $pdo->prepare( "SELECT data FROM meta WHERE name = :name" );
-  $sth->execute( ['name' => $name] );
-  return json_decode( $sth->fetchColumn() ?: '', true );
 }
 
 /**
@@ -168,87 +292,49 @@ function getFileMetadata( $dsn, $url )
   global $LOADER;
   global $ARCHIVARIX_SETTINGS;
   if ( $LOADER['ARCHIVARIX_CUSTOM_DOMAIN'] ) {
-    if ( !empty( $ARCHIVARIX_SETTINGS['www'] )
-      && ARCHIVARIX_HTTP_HOST == $LOADER['ARCHIVARIX_CUSTOM_DOMAIN']
-    ) {
+    if ( !empty( $ARCHIVARIX_SETTINGS['www'] ) && $_SERVER['HTTP_HOST'] == $LOADER['ARCHIVARIX_CUSTOM_DOMAIN'] ) {
       $url = preg_replace( '~' . preg_quote( $LOADER['ARCHIVARIX_CUSTOM_DOMAIN'], '~' ) . '~', 'www.' . $ARCHIVARIX_SETTINGS['domain'], $url, 1 );
     } else {
       $url = preg_replace( '~' . preg_quote( $LOADER['ARCHIVARIX_CUSTOM_DOMAIN'], '~' ) . '~', $ARCHIVARIX_SETTINGS['domain'], $url, 1 );
     }
-  } elseif ( !preg_match( '~^([-a-z0-9.]+\.)?' . preg_quote( $ARCHIVARIX_SETTINGS['domain'], '~' ) . '$~i', ARCHIVARIX_HTTP_HOST ) ) {
+  } elseif ( !preg_match( '~^([-a-z0-9.]+\.)?' . preg_quote( $ARCHIVARIX_SETTINGS['domain'], '~' ) . '$~i', $_SERVER['HTTP_HOST'] ) ) {
     if ( !empty( $ARCHIVARIX_SETTINGS['www'] ) ) {
-      $url = preg_replace( '~' . preg_quote( ARCHIVARIX_HTTP_HOST, '~' ) . '~', 'www.' . $ARCHIVARIX_SETTINGS['domain'], $url, 1 );
+      $url = preg_replace( '~' . preg_quote( $_SERVER['HTTP_HOST'], '~' ) . '~', 'www.' . $ARCHIVARIX_SETTINGS['domain'], $url, 1 );
     } else {
-      $url = preg_replace( '~' . preg_quote( ARCHIVARIX_HTTP_HOST, '~' ) . '~', $ARCHIVARIX_SETTINGS['domain'], $url, 1 );
+      $url = preg_replace( '~' . preg_quote( $_SERVER['HTTP_HOST'], '~' ) . '~', $ARCHIVARIX_SETTINGS['domain'], $url, 1 );
     }
   }
 
-  $urls = [$url];
   if ( preg_match( '~[?]+$~', $url ) ) {
-    $urls[] = preg_replace( '~[?]+$~', '', $url );
-  }
-  if ( preg_match( '~[/]+$~', $url ) ) {
-    $urls[] = preg_replace( '~[/]+$~', '', $url );
-  }
-  if ( preg_match( '~[^:][/]{2,}~', $url ) ) {
-    $urls[] = preg_replace( '~([^:])[/]{2,}~', '$1/', $url );
-  }
-  if ( !parse_url( $url, PHP_URL_QUERY ) && preg_match( '~[^/]$~', $url ) ) {
-    $urls[] = $url . '/';
+    $urlAlt = preg_replace( '~[?]+$~', '', $url );
+  } elseif ( preg_match( '~[/]+$~', $url ) ) {
+    $urlAlt = preg_replace( '~[/]+$~', '', $url );
+  } elseif ( !parse_url( $url, PHP_URL_QUERY ) && !parse_url( $url, PHP_URL_FRAGMENT ) ) {
+    $urlAlt = $url . '/';
+  } else {
+    $urlAlt = $url;
   }
 
-  if ( $LOADER['ARCHIVARIX_QUERYLESS'] && parse_url( $url, PHP_URL_QUERY ) ) {
-    $urls[] = preg_replace( '/\?.*/', '', $url );
-  }
-
-  global $ARCHIVARIX_ORIGINAL_URL;
-  $ARCHIVARIX_ORIGINAL_URL = $url;
-
-  $sqlWhere = implode( ' OR ', array_map( function ( $v ) {
-    return "url = ? COLLATE NOCASE";
-  }, array_keys( $urls ) ) );
-  $sqlOrder = implode( ' ', array_map( function ( $v ) {
-    return "WHEN ? THEN {$v}";
-  }, array_keys( $urls ) ) );
-  $sqlUrls  = array_merge( $urls, $urls );
+  define( 'ARCHIVARIX_ORIGINAL_URL', $url );
 
   $pdo = new PDO( $dsn );
-
-  $sth = $pdo->prepare( "
-    SELECT rowid, *
-    FROM structure
-    WHERE ({$sqlWhere})
-      AND enabled = 1
-    ORDER BY CASE url
-                 {$sqlOrder}
-                 END,
-             filetime
-        DESC
-    LIMIT 1
-    " );
-  $sth->execute( $sqlUrls );
+  $sth = $pdo->prepare( 'SELECT rowid, * FROM structure WHERE (url = :url COLLATE NOCASE OR url = :urlAlt COLLATE NOCASE) AND enabled = 1 ORDER BY filetime DESC LIMIT 1' );
+  $sth->execute( ['url' => $url, 'urlAlt' => $urlAlt] );
   $metadata = $sth->fetch( PDO::FETCH_ASSOC );
 
   return $metadata;
 }
 
-function getPluginLoader( $dsn, $sourcePath )
+function getOtherWordpressVersionUrls( $url )
 {
-  $path = $_SERVER['REQUEST_URI'];
-  if ( ( $plugins = getMetaParam( $dsn, 'plugins' ) )
-    && is_array( $plugins )
-    && ( $paths = array_keys( $plugins ) )
-    && usort( $paths, function ( $a, $b ) use ( $path ) {
-      return ( substr( $path, 0, strlen( $b ) ) === $b ? strlen( $b ) : 0 ) - ( substr( $path, 0, strlen( $a ) ) === $a ? strlen( $a ) : 0 );
-    } )
-    && ( $pluginPath = reset( $paths ) )
-    && substr( $path, 0, strlen( $pluginPath ) ) === $pluginPath
-    && ( $pluginLoader = $sourcePath . DIRECTORY_SEPARATOR . 'plugins' . DIRECTORY_SEPARATOR . $plugins[$pluginPath]['name'] . DIRECTORY_SEPARATOR . 'loader.php' )
-    && is_file( $pluginLoader )
-  ) return $pluginLoader;
-
-  header( 'X-Error-Description: Plugin is missing or not configured.' );
-  throw new \Exception( 'Plugin is missing or not configured.' );
+  global $dsn;
+  $path = parse_url($url, PHP_URL_PATH);
+  $pdo = new PDO( $dsn );
+  $sth = $pdo->prepare( 'SELECT rowid, * FROM structure WHERE url LIKE :urlRegexVersion AND enabled = 1 ORDER BY filetime DESC LIMIT 1' );
+  // TODO better LIKE statement based on domain
+  $sth->execute( ['urlRegexVersion' => 'http://%'.$path.'%'] );
+  $metadata = $sth->fetch( PDO::FETCH_ASSOC );
+  return $metadata;
 }
 
 /**
@@ -256,26 +342,7 @@ function getPluginLoader( $dsn, $sourcePath )
  */
 function getProtocol()
 {
-  if (
-    (
-      !empty( $_SERVER['HTTPS'] )
-      && $_SERVER['HTTPS'] !== 'off'
-    )
-    || (
-      !empty( $_SERVER['SERVER_PORT'] )
-      && $_SERVER['SERVER_PORT'] == 443
-    )
-    || (
-      !empty( $_SERVER['HTTP_X_FORWARDED_PROTO'] )
-      && $_SERVER['HTTP_X_FORWARDED_PROTO'] == 'https'
-    )
-    || (
-      !empty( $_SERVER['HTTP_CF_VISITOR'] )
-      && ( $HTTP_CF_VISITOR = json_decode( $_SERVER['HTTP_CF_VISITOR'], true ) )
-      && !empty( $HTTP_CF_VISITOR['scheme'] )
-      && $HTTP_CF_VISITOR['scheme'] == 'https'
-    )
-  ) {
+  if ( $_SERVER['SERVER_PORT'] == 443 || ( !empty( $_SERVER['HTTPS'] ) && $_SERVER['HTTPS'] !== 'off' ) ) {
     return 'https';
   }
   return 'http';
@@ -299,14 +366,13 @@ function render( array $metaData, $sourcePath, $url = '' )
     handle404( $sourcePath, $url );
     exit( 0 );
   }
-
-  if ( preg_match( '~(^text)|(javascript$)~', $metaData['mimetype'] ) ) {
-    header( 'Content-Type:' . $metaData['mimetype'] . ( $metaData['charset'] ? '; charset=' . $metaData['charset'] : '' ), true );
-  } else header( 'Content-Type:' . $metaData['mimetype'] );
-
-  if ( preg_match( '~(^(image|video|audio|application|font))|((css|javascript)$)~', $metaData['mimetype'] ) ) {
+  header( 'Content-Type:' . $metaData['mimetype'] );
+  if ( in_array( $metaData['mimetype'], ['text/html', 'text/css', 'text/xml', 'application/javascript', 'application/x-javascript'] ) ) {
+    header( 'Content-Type:' . $metaData['mimetype'] . '; charset=' . $metaData['charset'], true );
+  }
+  if ( in_array( $metaData['mimetype'], ['application/x-javascript', 'application/font-woff', 'application/javascript', 'image/gif', 'image/jpeg', 'image/png', 'image/svg+xml', 'image/tiff', 'image/webp', 'image/x-icon', 'image/vnd.microsoft.icon', 'image/x-ms-bmp', 'text/css', 'text/javascript'] ) ) {
     $etag = md5_file( $sourceFile );
-    header( "Etag: \"{$etag}\"" );
+    header( 'Etag: "' . $etag . '"' );
     if ( $LOADER['ARCHIVARIX_CACHE_CONTROL_MAX_AGE'] ) {
       header( 'Cache-Control: public, max-age=' . $LOADER['ARCHIVARIX_CACHE_CONTROL_MAX_AGE'] );
     }
@@ -315,11 +381,8 @@ function render( array $metaData, $sourcePath, $url = '' )
       exit( 0 );
     }
   }
-
-  if ( !empty( $metaData['filetime'] ) ) header( 'Last-Modified: ' . gmdate( 'D, d M Y H:i:s \G\M\T', strtotime( $metaData['filetime'] ) ) );
-
   if ( 0 === strpos( $metaData['mimetype'], 'text/html' ) ) {
-    echo prepareContent( file_get_contents( $sourceFile ), $sourcePath, $metaData );
+    echo prepareContent( $sourceFile, $sourcePath );
   } else {
     $fp = fopen( $sourceFile, 'rb' );
     fpassthru( $fp );
@@ -327,110 +390,75 @@ function render( array $metaData, $sourcePath, $url = '' )
   }
 }
 
-function render404( $exit = 0 )
-{
-  global $LOADER;
-  global $dsn;
-  global $sourcePath;
-  global $ARCHIVARIX_SETTINGS;
-  http_response_code( 404 );
-  if ( $LOADER['ARCHIVARIX_LOADER_MODE'] == -1 && $LOADER['ARCHIVARIX_REDIRECT_MISSING_HTML'] ) {
-    $url = ( !empty( $ARCHIVARIX_SETTINGS['https'] ) ? 'https' : 'http' ) . '://' . ARCHIVARIX_HTTP_HOST . $LOADER['ARCHIVARIX_REDIRECT_MISSING_HTML'];
-    if ( $metaData = getFileMetadata( $dsn, $url ) ) {
-      render( $metaData, $sourcePath, $url );
-      exit();
-    }
-  }
-  echo <<<EOF
-<html>
-<head><title>404 Not Found</title></head>
-<body>
-<center><h1>404 Not Found</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-<!-- a padding to disable MSIE and Chrome friendly error page -->
-EOF;
-  if ( $exit ) exit( 0 );
-}
-
 /**
  * @param $file
  * @param $sourcePath
- * @param $metaData
+ * @return bool|mixed|string
  */
-function prepareContent( $html, $sourcePath, $metaData )
+function prepareContent( $file, $sourcePath )
 {
-  global $LOADER, $content;
+  global $LOADER;
+  $content = file_get_contents( $file );
 
   foreach ( $LOADER['ARCHIVARIX_INCLUDE_CUSTOM'] as $includeCustom ) {
-    if ( $includeCustom['FILE'] ) {
+    if ( isset($includeCustom['FILE']) && $includeCustom['FILE'] && isset($includeCustom['KEYPHRASE']) && $includeCustom['KEYPHRASE'] ) {
       global $includeRule;
       $includeRule = $includeCustom;
-      $customFile  = $sourcePath . DIRECTORY_SEPARATOR . 'includes' . DIRECTORY_SEPARATOR . $includeCustom['FILE'];
-      if ( isset( $includeCustom['URL_MATCH'] )
-        && strlen( $includeCustom['URL_MATCH'] )
-        && !preg_match( '~' . str_replace( '~', '\~', $includeCustom['URL_MATCH'] ) . '~is', $_SERVER['REQUEST_URI'] )
-      ) continue;
-      if ( !empty( $includeCustom['URL_DEPTH'] ) && isset( $metaData['depth'] ) && preg_match( '~^(>|<|=|>=|<=|==|!=)([\d]+)$~', $includeCustom['URL_DEPTH'], $depthMatch ) ) {
-        if ( $depthMatch ) switch ( $depthMatch[1] ) {
-          case '<' :
-            if ( $metaData['depth'] >= $depthMatch[2] ) continue 2;
-            break;
-          case '<=' :
-            if ( $metaData['depth'] > $depthMatch[2] ) continue 2;
-            break;
-          case '>' :
-            if ( $metaData['depth'] <= $depthMatch[2] ) continue 2;
-            break;
-          case '>=' :
-            if ( $metaData['depth'] < $depthMatch[2] ) continue 2;
-            break;
-          case '=':
-          case '==':
-            if ( $metaData['depth'] != $depthMatch[2] ) continue 2;
-            break;
-          case '!=':
-            if ( $metaData['depth'] == $depthMatch[2] ) continue 2;
-            break;
-        }
-      }
+      ob_start();
+      include $sourcePath . DIRECTORY_SEPARATOR . 'includes' . DIRECTORY_SEPARATOR . $includeCustom['FILE'];
+      $includedContent = preg_replace( '~\$(\d)?~', '\\\$$1', ob_get_clean() );
+
       if ( $includeCustom['REGEX'] ) {
         $includeCustom['KEYPHRASE'] = str_replace( '~', '\~', $includeCustom['KEYPHRASE'] );
       } else {
         $includeCustom['KEYPHRASE'] = preg_quote( $includeCustom['KEYPHRASE'], '~' );
       }
-      if ( !preg_match( '~' . $includeCustom['KEYPHRASE'] . '~is', $html ) ) continue;
-      $html = preg_replace( '~' . $includeCustom['KEYPHRASE'] . '~is', includeCustom( $customFile, $includeCustom['POSITION'] ), $html, $includeCustom['LIMIT'] );
+
+      switch ( $includeCustom['POSITION'] ) {
+        case -1 :
+          $includedContent = $includedContent . '${0}';
+          break;
+        case 1 :
+          $includedContent = '${0}' . $includedContent;
+          break;
+      }
+
+      $content = preg_replace( '~' . $includeCustom['KEYPHRASE'] . '~is', $includedContent, $content, $includeCustom['LIMIT'] );
+    } else if ( isset($includeCustom['OPERATION']) && $includeCustom['OPERATION'] && isset($includeCustom['XPATH']) && $includeCustom['XPATH'] ) {
+      $doc = new DOMDocument();
+      $doc->loadHTML($content, LIBXML_NOERROR);
+      $xpath = new DOMXpath($doc);
+      $elementsToChange = $xpath->query($includeCustom['XPATH']);
+
+      foreach ( $elementsToChange as $elementToChange ) {
+        switch ( $includeCustom['OPERATION'] ) {
+          case 'APPEND':
+          case 'REPLACE' :
+            $fragment = $doc->createDocumentFragment();
+            ob_start();
+            require($sourcePath . DIRECTORY_SEPARATOR . 'includes' . DIRECTORY_SEPARATOR . $includeCustom['FILE']);
+            $fragment->appendXML(ob_get_clean());
+            if ($includeCustom['OPERATION'] === 'APPEND') {
+              $elementToChange->append($fragment->firstChild);
+            } else {
+              $elementToChange->replaceWith($fragment->firstChild);
+            }
+            break;
+          case 'REMOVE' :
+            $elementToChange->remove();
+            break;
+        }
+      }
+
+      $content = $doc->saveHTML();
     }
   }
-  $content = $html;
-  return $html;
-}
 
-/**
- * @param $customFile
- * @param $position
- */
-function includeCustom( $customFile, $position )
-{
-  ob_start();
-  include $customFile;
-  $includedContent = preg_replace( '~\$(\d)?~', '\\\$$1', ob_get_clean() );
-  switch ( $position ) {
-    case -1 :
-      $includedContent = $includedContent . '${0}';
-      break;
-    case 1 :
-      $includedContent = '${0}' . $includedContent;
-      break;
+  if ( function_exists( 'mb_strlen' ) ) {
+    header( 'Content-Length: ' . mb_strlen( $content, '8bit' ), true );
   }
-  return $includedContent;
+
+  return $content;
 }
 
 /**
@@ -442,8 +470,7 @@ function handle404( $sourcePath, $url )
   global $LOADER;
   if ( $LOADER['ARCHIVARIX_CATCH_MISSING'] ) {
     global $dsn;
-    global $ARCHIVARIX_ORIGINAL_URL;
-    $url = $ARCHIVARIX_ORIGINAL_URL;
+    $url = ARCHIVARIX_ORIGINAL_URL;
 
     $pdo = new PDO( $dsn );
     $pdo->exec( 'CREATE TABLE IF NOT EXISTS missing (url TEXT PRIMARY KEY, status INTEGER DEFAULT 0, ignore INTEGER DEFAULT 0)' );
@@ -459,15 +486,15 @@ function handle404( $sourcePath, $url )
 
   $fileType = strtolower( pathinfo( parse_url( $url, PHP_URL_PATH ), PATHINFO_EXTENSION ) );
   switch ( true ) {
-    case ( in_array( $fileType, ['jpg', 'jpeg', 'gif', 'png', 'bmp', 'webp', 'avif'] ) && $LOADER['ARCHIVARIX_FIX_MISSING_IMAGES'] ):
+    case ( in_array( $fileType, ['jpg', 'jpeg', 'gif', 'png', 'bmp'] ) && $LOADER['ARCHIVARIX_FIX_MISSING_IMAGES'] ):
       $fileName = $sourcePath . DIRECTORY_SEPARATOR . '1px.png';
       $size     = filesize( $fileName );
-      render( ['folder' => '', 'filename' => '1px.png', 'mimetype' => 'image/png', 'charset' => '', 'filesize' => $size], $sourcePath );
+      render( ['folder' => '', 'filename' => '1px.png', 'mimetype' => 'image/png', 'charset' => 'binary', 'filesize' => $size], $sourcePath );
       break;
     case ( $fileType === 'ico' && $LOADER['ARCHIVARIX_FIX_MISSING_ICO'] ):
       $fileName = $sourcePath . DIRECTORY_SEPARATOR . 'empty.ico';
       $size     = filesize( $fileName );
-      render( ['folder' => '', 'filename' => 'empty.ico', 'mimetype' => 'image/x-icon', 'charset' => '', 'filesize' => $size], $sourcePath );
+      render( ['folder' => '', 'filename' => 'empty.ico', 'mimetype' => 'image/x-icon', 'charset' => 'binary', 'filesize' => $size], $sourcePath );
       break;
     case( $fileType === 'css' && $LOADER['ARCHIVARIX_FIX_MISSING_CSS'] ):
       $fileName = $sourcePath . DIRECTORY_SEPARATOR . 'empty.css';
@@ -499,21 +526,21 @@ function checkRedirects()
   $protocol = getProtocol();
 
   if ( in_array( strtolower( $LOADER['ARCHIVARIX_PROTOCOL'] ), ['http', 'https'] ) && strtolower( $LOADER['ARCHIVARIX_PROTOCOL'] ) != $protocol ) {
-    $location = $LOADER['ARCHIVARIX_PROTOCOL'] . '://' . ARCHIVARIX_HTTP_HOST . $_SERVER['REQUEST_URI'];
+    $location = $LOADER['ARCHIVARIX_PROTOCOL'] . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
     header( 'Location: ' . $location );
     http_response_code( 301 );
     exit( 0 );
   }
 
-  if ( !empty( $ARCHIVARIX_SETTINGS['non-www'] ) && 0 === strpos( ARCHIVARIX_HTTP_HOST, 'www.' ) ) {
-    $host     = preg_replace( '~^www\.~', '', ARCHIVARIX_HTTP_HOST );
+  if ( !empty( $ARCHIVARIX_SETTINGS['non-www'] ) && 0 === strpos( $_SERVER['HTTP_HOST'], 'www.' ) ) {
+    $host     = preg_replace( '~^www\.~', '', $_SERVER['HTTP_HOST'] );
     $location = $protocol . '://' . $host . $_SERVER['REQUEST_URI'];
     header( 'Location: ' . $location );
     http_response_code( 301 );
     exit( 0 );
   }
 
-  if ( !empty( $ARCHIVARIX_SETTINGS['www'] ) && ARCHIVARIX_HTTP_HOST == $ARCHIVARIX_SETTINGS['domain'] ) {
+  if ( !empty( $ARCHIVARIX_SETTINGS['www'] ) && $_SERVER['HTTP_HOST'] == $ARCHIVARIX_SETTINGS['domain'] ) {
     $location = $protocol . '://www.' . $ARCHIVARIX_SETTINGS['domain'] . $_SERVER['REQUEST_URI'];
     header( 'Location: ' . $location );
     http_response_code( 301 );
@@ -528,32 +555,22 @@ function renderSitemapXML( $dsn )
 {
   global $LOADER;
   global $ARCHIVARIX_SETTINGS;
-  global $sourcePath;
   $pagesLimit   = 50000;
   $pageProtocol = !empty( $ARCHIVARIX_SETTINGS['https'] ) ? 'https' : getProtocol();
 
   if ( $LOADER['ARCHIVARIX_CUSTOM_DOMAIN'] ) {
-    $domain = preg_replace( '~' . preg_quote( $LOADER['ARCHIVARIX_CUSTOM_DOMAIN'], '~' ) . '$~', '', ARCHIVARIX_HTTP_HOST ) . $ARCHIVARIX_SETTINGS['domain'];
+    $domain = preg_replace( '~' . preg_quote( $LOADER['ARCHIVARIX_CUSTOM_DOMAIN'], '~' ) . '$~', '', $_SERVER['HTTP_HOST'] ) . $ARCHIVARIX_SETTINGS['domain'];
     if ( !empty( $ARCHIVARIX_SETTINGS['www'] ) && $domain == $ARCHIVARIX_SETTINGS['domain'] ) {
       $domain = 'www.' . $domain;
     }
-  } elseif ( preg_match( '~^([-a-z0-9.]+\.)?' . preg_quote( $ARCHIVARIX_SETTINGS['domain'], '~' ) . '$~i', ARCHIVARIX_HTTP_HOST ) ) {
-    $domain = ARCHIVARIX_HTTP_HOST;
+  } elseif ( preg_match( '~^([-a-z0-9.]+\.)?' . preg_quote( $ARCHIVARIX_SETTINGS['domain'], '~' ) . '$~i', $_SERVER['HTTP_HOST'] ) ) {
+    $domain = $_SERVER['HTTP_HOST'];
   } else {
     $domain = $ARCHIVARIX_SETTINGS['domain'];
     if ( !empty( $ARCHIVARIX_SETTINGS['www'] ) && $domain == $ARCHIVARIX_SETTINGS['domain'] ) {
       $domain = 'www.' . $domain;
     }
   }
-
-  if ( $LOADER['ARCHIVARIX_LOADER_MODE'] == 3 && $pluginLoader = getPluginLoader( $dsn, $sourcePath ) ) {
-    global $pluginAction;
-    global $pageProtocol;
-    $pluginAction = 'render.sitemap';
-    require_once $pluginLoader;
-    exit();
-  }
-
 
   $pdo = new PDO( $dsn );
   $res = $pdo->prepare( 'SELECT count(*) FROM structure WHERE hostname = :domain AND mimetype = "text/html" AND enabled = 1 AND redirect = ""' );
@@ -568,48 +585,31 @@ function renderSitemapXML( $dsn )
     header( 'Content-type: text/xml; charset=utf-8' );
     echo '<?xml version="1.0" encoding="UTF-8"?' . '><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
     for ( $pageNum = 1; $pageNum <= ceil( $pagesCount / $pagesLimit ); $pageNum++ ) {
-      echo '<sitemap><loc>' . htmlspecialchars( $pageProtocol . '://' . ARCHIVARIX_HTTP_HOST . $LOADER['ARCHIVARIX_SITEMAP_PATH'] . '?id=' . $pageNum, ENT_XML1, 'UTF-8' ) . '</loc></sitemap>';
+      echo '<sitemap><loc>' . htmlspecialchars( $pageProtocol . '://' . $_SERVER['HTTP_HOST'] . $LOADER['ARCHIVARIX_SITEMAP_PATH'] . '?id=' . $pageNum, ENT_XML1, 'UTF-8' ) . '</loc></sitemap>';
     }
     echo '</sitemapindex>';
     exit( 0 );
   }
 
   if ( !empty( $_GET['id'] ) && !ctype_digit( $_GET['id'] ) ) {
-    render404();
+    http_response_code( 404 );
     exit( 0 );
   }
 
   if ( !empty( $_GET['id'] ) ) {
     $pageId = $_GET['id'];
     if ( $pageId < 1 || $pageId > ceil( $pagesCount / $pagesLimit ) ) {
-      render404();
+      http_response_code( 404 );
       exit( 0 );
     }
     $pagesOffset = ( $pageId - 1 ) * $pagesLimit;
-    $res         = $pdo->prepare( '
-      SELECT *
-      FROM structure
-      WHERE hostname = :domain
-        AND mimetype = "text/html"
-        AND enabled = 1
-        AND redirect = ""
-      ORDER BY request_uri
-      LIMIT :limit OFFSET :offset
-    ' );
+    $res         = $pdo->prepare( 'SELECT * FROM structure WHERE hostname = :domain AND mimetype = "text/html" AND enabled = 1 AND redirect = "" ORDER BY request_uri LIMIT :limit OFFSET :offset' );
     $res->execute( ['domain' => $domain, 'limit' => $pagesLimit, 'offset' => $pagesOffset] );
     $pages = $res->fetchAll( PDO::FETCH_ASSOC );
   }
 
   if ( empty( $_GET['id'] ) ) {
-    $res = $pdo->prepare( '
-      SELECT *
-      FROM structure
-      WHERE hostname = :domain
-        AND mimetype = "text/html"
-        AND enabled = 1
-        AND redirect = ""
-      ORDER BY request_uri
-    ' );
+    $res = $pdo->prepare( 'SELECT * FROM structure WHERE hostname = :domain AND mimetype = "text/html" AND enabled = 1 AND redirect = "" ORDER BY request_uri' );
     $res->execute( ['domain' => $domain] );
     $pages = $res->fetchAll( PDO::FETCH_ASSOC );
   }
@@ -617,11 +617,7 @@ function renderSitemapXML( $dsn )
   header( 'Content-type: text/xml; charset=utf-8' );
   echo '<?xml version="1.0" encoding="UTF-8"?' . '><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
   foreach ( $pages as $page ) {
-    if ( $LOADER['ARCHIVARIX_LOADER_MODE'] == -1
-      && $LOADER['ARCHIVARIX_REDIRECT_MISSING_HTML'] != '/'
-      && $page['request_uri'] == $LOADER['ARCHIVARIX_REDIRECT_MISSING_HTML']
-    ) continue;
-    echo '<url><loc>' . htmlspecialchars( $pageProtocol . '://' . ARCHIVARIX_HTTP_HOST . $page['request_uri'], ENT_XML1, 'UTF-8' ) . '</loc></url>';
+    echo '<url><loc>' . htmlspecialchars( $pageProtocol . '://' . $_SERVER['HTTP_HOST'] . $page['request_uri'], ENT_XML1, 'UTF-8' ) . '</loc></url>';
   }
   echo '</urlset>';
 }
@@ -638,7 +634,6 @@ try {
 
   $sourcePath = getSourceRoot();
   loadLoaderSettings( $sourcePath );
-  blockBots();
 
   if ( $LOADER['ARCHIVARIX_LOADER_MODE'] == 2 && $_SERVER['REQUEST_URI'] == '/' ) {
     include __DIR__ . DIRECTORY_SEPARATOR . 'index.php';
@@ -656,7 +651,7 @@ try {
   loadSettings( $dsn );
   checkRedirects();
 
-  $url = ( !empty( $ARCHIVARIX_SETTINGS['https'] ) ? 'https' : 'http' ) . '://' . ARCHIVARIX_HTTP_HOST . $_SERVER['REQUEST_URI'];
+  $url = ( !empty( $ARCHIVARIX_SETTINGS['https'] ) ? 'https' : 'http' ) . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 
   if ( $LOADER['ARCHIVARIX_SITEMAP_PATH'] && $LOADER['ARCHIVARIX_SITEMAP_PATH'] === parse_url( $_SERVER['REQUEST_URI'], PHP_URL_PATH ) ) {
     renderSitemapXML( $dsn );
@@ -667,31 +662,24 @@ try {
   if ( $metaData ) {
     render( $metaData, $sourcePath, $url );
   } else {
-    switch ( $LOADER['ARCHIVARIX_LOADER_MODE'] ) {
-      case -1 :
-        render404();
-        break;
-      case 0 :
+    if ( $LOADER['ARCHIVARIX_LOADER_MODE'] == -1 ) {
+      http_response_code( 404 );
+      exit( 0 );
+    }
+    if ( $LOADER['ARCHIVARIX_LOADER_MODE'] == 0 ) {
+      if ( $LOADER['WORDPRESS_FIX_MISSING_VERSION'] && ($otherVersionFound = getOtherWordpressVersionUrls($url)) ) {
+        render( $otherVersionFound, $sourcePath, $url );
+      } else {
         handle404( $sourcePath, $url );
-        break;
-      case 1 :
-      case 2 :
-        include __DIR__ . DIRECTORY_SEPARATOR . 'index.php';
-        break;
-      case 3 :
-      case 4 :
-        if ( $pluginLoader = getPluginLoader( $dsn, $sourcePath ) ) {
-          ob_start();
-          require_once $pluginLoader;
-          $output = prepareContent( ob_get_contents(), $sourcePath, ['request_uri' => $_SERVER['REQUEST_URI']] );
-          ob_clean();
-          echo $output;
-          break;
-        }
+        exit( 0 );
+      }
+    }
+    if ( $LOADER['ARCHIVARIX_LOADER_MODE'] > 0 ) {
+      include __DIR__ . DIRECTORY_SEPARATOR . 'index.php';
+      exit( 0 );
     }
   }
 } catch ( \Exception $e ) {
   http_response_code( 503 );
-  //header("X-Error-Description: {$e}");
   error_log( $e );
 }

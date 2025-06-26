@@ -1,7 +1,5 @@
-#!/bin/bash
-
-BASE="/home/sandrrei/biotronica-backup/biotronica"
-REPO_DIR="$BASE/backup-git"
+BASE="/home/sandrrei/biotronica"
+REPO_DIR="$BASE/biotronica"
 
 # Clona o repositório de backup (ou atualiza se já existir)
 if [ ! -d "$REPO_DIR" ]; then
@@ -28,4 +26,4 @@ EOF
 # Adiciona alterações, commit e push
 git add .
 git commit -m "Backup completo em $(date '+%Y-%m-%d %H:%M:%S')" || echo "Nenhuma alteração para commitar"
-git push origin master
+git push origin main

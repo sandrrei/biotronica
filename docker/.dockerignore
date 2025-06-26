@@ -1,3 +1,8 @@
+### ignorar os ficheiros
+##  html/debug.txt
+# html/*.bak
+#
+### ignorar tudo dentro de html/ menos algumas coisas
 node_modules
 dist
 package-lock.json

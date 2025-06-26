@@ -1,5 +1,24 @@
-code-server-data/
-sessions/
+# Node.js
+node_modules/
+dist/
+*.tsbuildinfo
+
+# NestJS
+.env
 *.log
+
+# Docker
+docker/*.git
+docker/.dockerignore
+
+# Archivarix
+html/.content*/
+html/sessions/
+
+# Backups / Temporários
+.DS_Store
+*.swp
+*.swo
+node-backend-*/
 *.sqlite
 *.zip
