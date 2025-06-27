@@ -1,22 +1,13 @@
-# Node.js
 node_modules/
 dist/
 *.tsbuildinfo
-
-# NestJS
 .env
 *.log
-
-# Docker
 docker/*.git
 docker/.dockerignore
-
-# Archivarix
 html/.content.*
 html/sessions/
 html/archivarix.cms.php
-
-# Backups / Temporários
 .DS_Store
 *.swp
 *.swo

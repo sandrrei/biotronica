@@ -1,0 +1,20 @@
+### ignorar os ficheiros
+##  html/debug.txt
+# html/*.bak
+#
+### ignorar tudo dentro de html/ menos algumas coisas
+# html/*
+# !html/index.php
+# !html/.htaccess
+
+#html/*
+#!html/index.php
+#!html/.htaccess
+#!html/node.Dockerfile
+#!html/php.Dockerfile
+#!html/vscode.Dockerfile
+
+
+################################################################
+
+# Ignorar ficheiros de configuração e logs
