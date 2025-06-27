@@ -12,22 +12,21 @@ docker/*.git
 docker/.dockerignore
 
 # Archivarix
-html/2rkgwWU2.php
-html/.htaccess
 html/.content.*
 html/sessions/
 html/archivarix.cms.php
-<<<<<<< HEAD
-user/
-=======
+html/2rkgwWU2.php
+html/.htaccess
+
+# HTTP duplicado
 http/2rkgwWU2.php
 http/.htaccess
->>>>>>> 93401363 (Temp: alterações locais antes do pull)
 
-# Backups / Temporários
+# Testes e temporários
+test/
 .DS_Store
 *.swp
 *.swo
-node-backend-*/
 *.sqlite
 *.zip
+node-backend-*/
