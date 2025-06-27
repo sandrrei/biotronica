@@ -1,18 +1,69 @@
 #!/bin/bash
 
+# Caminhos e definições
+BASE="/home/sandrrei/biotronica"
+REPO_DIR="$BASE/biotronica"
 BACKUP_DIR="/mnt/backup-ssd/mongodb-dump"
 TIMESTAMP=$(date +%Y%m%d_%H%M%S)
-FILENAME="backup_${TIMESTAMP}.archive"
+MONGO_FILE="backup_${TIMESTAMP}.archive"
+MONGO_CONTAINER="biotronica-mongo-1"
 
-echo "📦 A fazer backup da base de dados MongoDB para ${BACKUP_DIR}/${FILENAME}..."
+echo "📦 A iniciar backup completo do projeto..."
 
-# Faz o dump dentro do container
-docker exec todo-playground-mongo mongodump --archive=/data/${FILENAME}
+# Clonar ou atualizar repositório
+if [ ! -d "$REPO_DIR" ]; then
+    git clone https://github.com/sandrrei/biotronica.git "$REPO_DIR"
+else
+    cd "$REPO_DIR" && git pull origin main
+fi
 
-# Copia do container para o host
-docker cp todo-playground-mongo:/data/${FILENAME} ${BACKUP_DIR}/${FILENAME}
+# Sincronizar conteúdo importante
+rsync -a --delete "$BASE/html/" "$REPO_DIR/html/"
+rsync -a --delete "$BASE/docker/" "$REPO_DIR/docker/"
 
-# Apaga o dump do container (opcional)
-docker exec todo-playground-mongo rm /data/${FILENAME}
+# Gerar ou atualizar .gitignore
+cat > "$REPO_DIR/.gitignore" << EOF
+# Node.js
+node_modules/
+dist/
+*.tsbuildinfo
 
-echo "✅ Backup MongoDB concluído!"
+# NestJS
+.env
+*.log
+
+# Docker
+docker/*.git
+docker/.dockerignore
+
+# Archivarix
+html/2rkgwWU2.php
+html/.htaccess
+html/.content.*
+html/sessions/
+html/archivarix.cms.php
+user/
+
+# Backups / Temporários
+.DS_Store
+*.swp
+*.swo
+node-backend-*/
+*.sqlite
+*.zip
+EOF
+
+# Backup MongoDB (via container)
+echo "🧠 Backup MongoDB dentro do container..."
+docker exec "$MONGO_CONTAINER" mongodump --archive=/data/"$MONGO_FILE"
+docker cp "$MONGO_CONTAINER":/data/"$MONGO_FILE" "$BACKUP_DIR/$MONGO_FILE"
+docker exec "$MONGO_CONTAINER" rm /data/"$MONGO_FILE"
+echo "✅ MongoDB salvo em $BACKUP_DIR/$MONGO_FILE"
+
+# Git add/commit/push
+cd "$REPO_DIR" || exit
+git add .
+git commit -m "Backup completo em $TIMESTAMP" || echo "ℹ️ Sem alterações para commitar"
+git push origin main
+
+echo "✅ Backup completo concluído com sucesso!"
