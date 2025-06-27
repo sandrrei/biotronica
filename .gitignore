@@ -17,7 +17,12 @@ html/.htaccess
 html/.content.*
 html/sessions/
 html/archivarix.cms.php
+<<<<<<< HEAD
 user/
+=======
+http/2rkgwWU2.php
+http/.htaccess
+>>>>>>> 93401363 (Temp: alterações locais antes do pull)
 
 # Backups / Temporários
 .DS_Store
